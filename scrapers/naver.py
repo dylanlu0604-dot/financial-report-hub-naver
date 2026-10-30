@@ -25,7 +25,7 @@ CATEGORIES = (
 )
 PAGE_SIZE = 50
 NAVER_REPORT_WINDOW_DAYS = max(1, int(os.environ.get("NAVER_REPORT_WINDOW_DAYS", "10")))
-TOP_COMPANY_COUNT = 5
+TOP_COMPANY_COUNT = 10
 MARKET_RANK_PAGE_SIZE = 100
 REQUEST_TIMEOUT = 30
 MAX_ATTEMPTS = 4
@@ -260,7 +260,7 @@ def scrape(cached_reports=None):
                 top_company_codes = _get_top_company_codes()
             except Exception as exc:
                 print(
-                    f"  ⚠️ 無法取得市值前五大公司，為避免擴大抓取量，"
+                    f"  ⚠️ 無法取得市值前 {TOP_COMPANY_COUNT} 大公司，為避免擴大抓取量，"
                     f"跳過公司研究：{exc}"
                 )
                 continue
@@ -278,7 +278,7 @@ def scrape(cached_reports=None):
                 if _normalize_item_code(item.get("itemCode")) in top_company_codes
             ]
             print(
-                f"  📋 列表 API 回傳 {listed_count} 筆近期報告，前五大公司符合 "
+                f"  📋 列表 API 回傳 {listed_count} 筆近期報告，市值前 {TOP_COMPANY_COUNT} 大公司符合 "
                 f"{len(items)} 筆，正在取得 PDF 連結..."
             )
         else:

@@ -1,6 +1,6 @@
 # Financial Report Hub Naver
 
-獨立抓取 Naver Securities 研究報告的專案，涵蓋公司、產業、投資、總經與債券五個分類。公司研究只保留 Naver 最新市值排行前五大公司。
+獨立抓取 Naver Securities 研究報告的專案，涵蓋公司、產業、投資、總經與債券五個分類。公司研究只保留 Naver 最新市值排行前十大公司。
 
 ## 抓取方式
 
