@@ -1,9 +1,9 @@
 # NotebookLM Naver Report Importer
 
-一鍵建立 NotebookLM 筆記本，從新倉庫的 `merged_plain_text_html/manifest.json` 讀取所有 TXT 分卷，分批匯入、命名筆記本，等待 30 秒後送出第一個總體經濟主題清單問題，並將步驟 1 的回答儲存至記事。分卷數依當期報告量動態變化。筆記本名稱格式為：
+一鍵建立 NotebookLM 筆記本，從新倉庫的 `merged_plain_text_html/manifest.json` 讀取 10 個 TXT 分卷，分批匯入、命名筆記本，等待 30 秒後送出第一個總體經濟主題清單問題，並將步驟 1 的回答儲存至記事。筆記本名稱格式為：
 
 ```text
-YYYY-MM-DDNaver報告集(近10天報告)
+YYYY-MM-DDNaver報告集(近15天報告)
 ```
 
 ## 安裝

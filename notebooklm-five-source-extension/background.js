@@ -69,7 +69,7 @@ function taipeiDateString(offsetDays = 0) {
 }
 
 function notebookTitle() {
-  return `${taipeiDateString()}Naver報告集(近10天報告)`;
+  return `${taipeiDateString()}Naver報告集(近15天報告)`;
 }
 
 async function setBadge(text, color = "#1a73e8") {

@@ -10,7 +10,7 @@
     "https://cdn.jsdelivr.net/*"
   ],
   "action": {
-    "default_title": "建立 Naver 近10天報告集"
+    "default_title": "建立 Naver 近15天報告集"
   },
   "background": {
     "service_worker": "background.js"

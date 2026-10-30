@@ -12,7 +12,7 @@ from pypdf import PdfReader
 SRC_DIR = Path("all report pdf")
 OUT_DIR = Path("merged_plain_text_html")
 REPORTS_JSON = Path("data/reports.json")
-SOURCE_COUNT = 30
+SOURCE_COUNT = 10
 SOURCE_DIGITS = 2
 BOILERPLATE_THRESHOLD = 0.30
 RAW_URL_BASE = (
