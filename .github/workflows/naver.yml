@@ -12,6 +12,8 @@ concurrency:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   scrape-and-update:
@@ -76,3 +78,22 @@ jobs:
           path: data/reports.csv
           if-no-files-found: warn
           retention-days: 30
+
+      - name: Prepare GitHub Pages files
+        run: |
+          mkdir -p _site/data _site/merged_plain_text_html
+          cp index.html _site/index.html
+          cp -R data/. _site/data/
+          cp -R merged_plain_text_html/. _site/merged_plain_text_html/
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
