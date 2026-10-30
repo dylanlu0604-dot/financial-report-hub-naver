@@ -9,7 +9,7 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-REPORT_WINDOW_DAYS = 10
+REPORT_WINDOW_DAYS = 15
 CUTOFF_DATE = datetime.now() - timedelta(days=REPORT_WINDOW_DAYS)
 
 # ================= 🛠️ 工具函數 =================

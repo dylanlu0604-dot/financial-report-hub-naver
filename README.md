@@ -8,7 +8,7 @@
 
 - Naver Securities 公司、產業、投資、總經、債券五個分類。
 - 公司研究只收錄 Naver 最新市值排行前十大公司。
-- 預設抓取近 10 天；可用 `NAVER_REPORT_WINDOW_DAYS` 調整。
+- 預設抓取近 15 天；可用 `NAVER_REPORT_WINDOW_DAYS` 調整。
 - 每日台北時間 07:20 自動執行，也可從 GitHub Actions 手動啟動。
 - 已下載的 PDF 會依檔名保留，不會在每次執行時重複下載。
 
@@ -47,8 +47,8 @@ python download_pdf.py
 
 ## 調整查詢天數
 
-預設為 10 天。執行時可覆寫：
+預設為 15 天。執行時可覆寫：
 
 ```bash
-NAVER_REPORT_WINDOW_DAYS=10 python -u main.py
+NAVER_REPORT_WINDOW_DAYS=15 python -u main.py
 ```

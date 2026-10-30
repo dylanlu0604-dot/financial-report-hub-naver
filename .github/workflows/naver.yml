@@ -45,7 +45,7 @@ jobs:
       - name: Scrape Naver reports
         run: python -u main.py
         env:
-          NAVER_REPORT_WINDOW_DAYS: '10'
+          NAVER_REPORT_WINDOW_DAYS: '15'
 
       - name: Merge PDFs by source
         run: python merge_pdfs.py
