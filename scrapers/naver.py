@@ -285,7 +285,13 @@ def scrape(cached_reports=None):
         else:
             print(f"  📋 列表 API 回傳 {listed_count} 筆近期報告，正在取得 PDF 連結...")
 
-        for item in items:
+        for item_index, item in enumerate(items, 1):
+            if item_index == 1 or item_index % 25 == 0:
+                print(
+                    f"  ⏳ {category_label} PDF 連結解析進度："
+                    f"{item_index}/{len(items)}",
+                    flush=True,
+                )
             try:
                 nid = str(item.get("nid") or "").strip()
                 detail_url = f"{BASE_URL}/research/{category}/{nid}" if nid else ""
