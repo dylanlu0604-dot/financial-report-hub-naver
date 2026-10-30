@@ -1,4 +1,4 @@
-name: Naver Research Reports
+name: Naver Financial Report Hub
 
 on:
   schedule:
@@ -7,16 +7,17 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: naver-research-reports
+  group: financial-report-hub-naver-publish
   cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  scrape-and-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 150
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -26,34 +27,52 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: python -m pip install -r requirements.txt
+      - name: Install Chinese fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
 
-      - name: Scrape Naver reports and download new PDFs
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright Chromium
+        run: playwright install chromium
+
+      - name: Scrape Naver reports
         run: python -u main.py
         env:
           NAVER_REPORT_WINDOW_DAYS: '10'
 
-      - name: Commit report state
+      - name: Merge PDFs by source
+        run: python merge_pdfs.py
+
+      - name: Build NotebookLM HTML and text sources
+        run: python build_merged_plain_text_html.py
+
+      - name: Check generated PDF sizes
+        run: python check_generated_pdf_sizes.py
+
+      - name: Commit report hub outputs
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/reports.json
+          git add data/ index.html "all report pdf/" merged_pdfs/ merged_plain_text_html/
+          git add main.py boilerplate_filter.py merge_pdfs.py check_generated_pdf_sizes.py build_merged_plain_text_html.py download_pdf.py
           if git diff --cached --quiet; then
-            echo "No report-state changes"
+            echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Update Naver report state"
+          git commit -m "Auto-update Naver reports and NotebookLM sources"
           git pull --rebase --autostash origin main
           git push
 
-      - name: Upload report list and new PDFs
+      - name: Upload report list CSV
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: naver-reports-${{ github.run_id }}
-          path: |
-            data/reports.csv
-            downloads/*.pdf
+          name: naver-report-list-${{ github.run_id }}
+          path: data/reports.csv
           if-no-files-found: warn
-          retention-days: 14
+          retention-days: 30

@@ -1,171 +1,680 @@
-"""Fetch recent Naver Securities research reports and new PDF files."""
-
+import json
 import csv
 import hashlib
-import json
 import os
-import random
-import re
-import time
-from datetime import datetime, timezone
-from pathlib import Path
-
+import importlib
+import pkgutil
+import scrapers
+from scrapers.utils import REPORT_WINDOW_DAYS
 import requests
+import pdfplumber
+import io
+import random
+import time
+import re
+import urllib.parse
+from datetime import datetime, timedelta
+from email.utils import format_datetime
+from dotenv import load_dotenv
+from playwright.sync_api import sync_playwright
+from playwright_stealth import Stealth
+from xml.sax.saxutils import escape  # 🌟 新增這一行來處理 XML 特殊字元
+from xml.etree import ElementTree as ET
+import pytz
 
-from scrapers import naver
+# 🌟 新增 OpenAI 套件 (請確認 requirements.txt 裡面有 openai)
+from openai import OpenAI
 
-ROOT = Path(__file__).resolve().parent
-DATA_DIR = ROOT / "data"
-DOWNLOAD_DIR = ROOT / "downloads"
-STATE_PATH = DATA_DIR / "reports.json"
-CSV_PATH = DATA_DIR / "reports.csv"
-WINDOW_DAYS = max(1, int(os.environ.get("NAVER_REPORT_WINDOW_DAYS", "10")))
-CSV_FIELDS = (
-    "Date",
-    "Category",
-    "Ticker",
-    "Broker",
-    "Name",
-    "OriginalLink",
-    "Link",
-    "Downloaded",
-    "DownloadedAt",
-)
+load_dotenv()
 
-DOWNLOAD_SESSION = requests.Session()
-DOWNLOAD_SESSION.headers.update(
-    {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/129.0.0.0 Safari/537.36"
-        ),
-        "Accept": "application/pdf,application/octet-stream,*/*",
-    }
-)
+# ==========================================
+# ⚙️ 全域設定 (請確認您的 GitHub 資訊)
+# ==========================================
+ENABLE_AI_SUMMARY = False
+PDF_RETENTION_DAYS = REPORT_WINDOW_DAYS
+NON_DISCLOSABLE_SCRAPER_MODULES = {"line_reports", "substackreport"}
+REPORTS_CSV_FIELDS = ["發佈日期", "報告名稱", "原始券商報告連結", "不可以揭露"]
 
+GITHUB_USER = "dylanlu0604-dot"
+GITHUB_REPO = "financial-report-hub-naver"
+GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/all%20report%20pdf"
 
-def load_previous_reports():
-    if not STATE_PATH.exists():
-        return {}
-    try:
-        payload = json.loads(STATE_PATH.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError) as exc:
-        raise RuntimeError(f"無法讀取報告狀態檔 {STATE_PATH}: {exc}") from exc
+# 🔑 這裡輸入您的 OpenAI API Key (請將引號內換成您的 sk-... 密碼)
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "請在這裡貼上您的_API_KEY")
 
-    reports = payload.get("reports", []) if isinstance(payload, dict) else []
-    return {
-        report["OriginalLink"]: report
-        for report in reports
-        if isinstance(report, dict) and report.get("OriginalLink")
-    }
+NAVER_DOWNLOAD_SESSION = requests.Session()
+NAVER_DOWNLOAD_SESSION.headers.update({
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/129.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/pdf,application/octet-stream,*/*",
+})
 
 
-def safe_pdf_name(report):
-    identity = report.get("Link") or report.get("OriginalLink") or report.get("Name", "")
-    suffix = hashlib.sha256(identity.encode("utf-8")).hexdigest()[:10]
-    label = re.sub(r"[^\w.\-\u4e00-\u9fff]+", "_", report.get("Name", "report"))
-    label = label.strip("._-")[:100] or "report"
-    ticker = re.sub(r"[^A-Za-z0-9_-]", "", str(report.get("Ticker", "")))
-    parts = [report.get("Date", ""), ticker, label, suffix]
-    return "_".join(part for part in parts if part) + ".pdf"
-
-
-def download_pdf(report):
-    DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
-    destination = DOWNLOAD_DIR / safe_pdf_name(report)
-    temporary = destination.with_suffix(".pdf.part")
-    headers = {"Referer": report.get("OriginalLink", "https://stock.naver.com/")}
+def download_naver_pdf(url, destination, referer):
+    temporary_path = f"{destination}.part"
     last_error = None
-
     for attempt in range(1, 4):
         time.sleep(random.uniform(0.8, 1.5))
         try:
-            with DOWNLOAD_SESSION.get(
-                report["Link"], headers=headers, timeout=(20, 90), stream=True
+            with NAVER_DOWNLOAD_SESSION.get(
+                url,
+                headers={"Referer": referer or "https://stock.naver.com/"},
+                timeout=(20, 90),
+                stream=True,
             ) as response:
                 response.raise_for_status()
-                with temporary.open("wb") as output:
-                    for chunk in response.iter_content(chunk_size=1024 * 128):
+                with open(temporary_path, "wb") as output:
+                    for chunk in response.iter_content(chunk_size=128 * 1024):
                         if chunk:
                             output.write(chunk)
-            with temporary.open("rb") as downloaded_file:
+            with open(temporary_path, "rb") as downloaded_file:
                 signature = downloaded_file.read(5)
-            if temporary.stat().st_size < 5 or signature != b"%PDF-":
-                raise ValueError("回應內容不是有效的 PDF 檔案")
-            temporary.replace(destination)
-            return destination
+            if os.path.getsize(temporary_path) < 5 or signature != b"%PDF-":
+                raise ValueError("Naver 回傳內容不是有效的 PDF")
+            os.replace(temporary_path, destination)
+            return
         except (requests.RequestException, OSError, ValueError) as exc:
             last_error = exc
-            temporary.unlink(missing_ok=True)
+            if os.path.exists(temporary_path):
+                os.remove(temporary_path)
             if attempt < 3:
                 time.sleep(2 ** (attempt - 1))
+    raise RuntimeError(f"Naver PDF 下載失敗：{last_error}") from last_error
 
-    raise RuntimeError(f"PDF 下載失敗：{last_error}") from last_error
+def safe_pdf_filename(report_name):
+    safe_title = re.sub(r'[\\/*?:"<>|]', "_", str(report_name or 'Unknown')).strip()
+    if len(safe_title.encode('utf-8')) > 200:
+        digest = hashlib.sha1(safe_title.encode('utf-8')).hexdigest()[:8]
+        safe_title = safe_title.encode('utf-8')[:180].decode('utf-8', errors='ignore').rstrip(' .')
+        safe_title = f"{safe_title}_{digest}"
+    return f"{safe_title}.pdf"
 
+def report_pdf_path(report, pdf_folder):
+    local_path = report.get('LocalPath')
+    if local_path:
+        return local_path
+    return os.path.join(pdf_folder, safe_pdf_filename(report.get('Name', 'Unknown')))
 
-def save_outputs(reports):
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    payload = {
-        "updated_at": now,
-        "window_days": WINDOW_DAYS,
-        "reports": reports,
-    }
-    STATE_PATH.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-    )
-    with CSV_PATH.open("w", encoding="utf-8-sig", newline="") as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=CSV_FIELDS, extrasaction="ignore")
+def parse_report_datetime(date_value):
+    raw_date = str(date_value or '').strip()
+    match = re.search(r'(\d{4})[^\d]*(\d{1,2})[^\d]*(\d{1,2})', raw_date)
+    if not match:
+        return None
+    try:
+        clean_date = f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+        return datetime.strptime(clean_date, "%Y-%m-%d")
+    except Exception:
+        return None
+
+def load_previous_reports(json_path):
+    if not os.path.exists(json_path):
+        return []
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else []
+    except Exception as e:
+        print(f"⚠️ 無法讀取既有報告資料，將只保留本輪抓到的 PDF: {e}")
+        return []
+
+def source_is_disclosable(report):
+    value = report.get("SourceDisclosureAllowed", True)
+    if isinstance(value, str):
+        return value.strip().lower() not in {"false", "no", "0", "否"}
+    return value is not False
+
+def original_report_link(report):
+    return str(report.get("OriginalLink", "") or report.get("Link", "")).strip()
+
+def write_reports_csv(reports, csv_path):
+    with open(csv_path, "w", encoding="utf-8-sig", newline="") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=REPORTS_CSV_FIELDS)
         writer.writeheader()
-        writer.writerows(reports)
+        for report in reports:
+            disclose_source = source_is_disclosable(report)
+            writer.writerow({
+                "發佈日期": report.get("Date", ""),
+                "報告名稱": report.get("Name", ""),
+                "原始券商報告連結": original_report_link(report),
+                "不可以揭露": "否" if disclose_source else "是",
+            })
+
+def public_report_record(report):
+    # Disclosure status is metadata only: keep report names, sources, and links intact.
+    return dict(report)
+
+def load_existing_rss_sources(data_folder):
+    """保留既有 RSS 來源清單，讓本輪零筆報告的來源仍輸出空白 XML。"""
+    sources = set()
+    if not os.path.isdir(data_folder):
+        return sources
+
+    for filename in os.listdir(data_folder):
+        if not filename.startswith("rss_") or not filename.endswith(".xml"):
+            continue
+
+        path = os.path.join(data_folder, filename)
+        try:
+            root = ET.parse(path).getroot()
+            title = root.findtext("./channel/title", "")
+        except (ET.ParseError, OSError):
+            title = filename[4:-4].replace("_", " ")
+
+        suffix = " 財經報告"
+        source = title[:-len(suffix)] if title.endswith(suffix) else title.strip()
+        sources.add(source)
+
+    return sources
+
+def cleanup_old_pdfs(pdf_folder, current_reports, previous_reports):
+    cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
+    keep_paths = set()
+
+    # current_reports 是本輪實際要保留的清單（含 CBC 等長保留來源），永遠保留它們指向的檔案
+    for report in current_reports:
+        keep_paths.add(os.path.abspath(report_pdf_path(report, pdf_folder)))
+
+    # previous_reports 套用本專案的報告保留天數，避免歷史 PDF 堆積。
+    for report in previous_reports:
+        if report.get('Source') == 'Mizuho (Taiwan)':
+            continue
+        report_date = parse_report_datetime(report.get('Date'))
+        if report_date and report_date.date() < cutoff_date:
+            continue
+        keep_paths.add(os.path.abspath(report_pdf_path(report, pdf_folder)))
+
+    removed_count = 0
+    for filename in os.listdir(pdf_folder):
+        if not filename.lower().endswith('.pdf'):
+            continue
+        filepath = os.path.abspath(os.path.join(pdf_folder, filename))
+        if filepath in keep_paths:
+            continue
+        try:
+            os.remove(filepath)
+            removed_count += 1
+        except Exception as e:
+            print(f"⚠️ 刪除過期 PDF 失敗: {filename} ({e})")
+
+    print(f"🧹 已保留近 {PDF_RETENTION_DAYS} 天 PDF，移除 {removed_count} 個過期或未列入清單的檔案。")
 
 
+def cached_reports_for_source(previous_reports, source, pdf_folder):
+    """Reuse recent, locally available PDFs when a source is temporarily unreachable."""
+    cutoff_date = (datetime.now() - timedelta(days=PDF_RETENTION_DAYS)).date()
+    cached_reports = []
+
+    for report in previous_reports:
+        if report.get("Source") != source:
+            continue
+
+        report_date = parse_report_datetime(report.get("Date"))
+        if not report_date or report_date.date() < cutoff_date:
+            continue
+
+        local_path = report.get("LocalPath")
+        if not local_path or not os.path.isfile(local_path):
+            link = str(report.get("Link", "") or "")
+            filename = urllib.parse.unquote(
+                urllib.parse.urlsplit(link).path.rsplit("/", 1)[-1]
+            )
+            candidate = os.path.join(pdf_folder, filename) if filename else ""
+            local_path = candidate if candidate and os.path.isfile(candidate) else None
+
+        if not local_path:
+            continue
+
+        try:
+            with open(local_path, "rb") as pdf_file:
+                if pdf_file.read(4) != b"%PDF":
+                    continue
+        except OSError:
+            continue
+
+        cached_report = dict(report)
+        cached_report["LocalPath"] = os.path.abspath(local_path)
+        cached_reports.append(cached_report)
+
+    return cached_reports
+
+
+# ==========================================
+# 🚀 主程式執行區塊
+# ==========================================
 def main():
-    os.environ["NAVER_REPORT_WINDOW_DAYS"] = str(WINDOW_DAYS)
-    previous = load_previous_reports()
-    reports = naver.scrape(cached_reports=previous)
-    if not reports:
-        raise RuntimeError("Naver 沒有回傳可用報告；保留舊狀態，請檢查連線或 API。")
+    print(f"\n{'='*60}\n🚀 開始執行自動化爬蟲程序...\n{'='*60}\n")
 
-    successful = 0
-    downloaded_now = 0
-    failed = 0
-    current_reports = []
-    for report in reports:
-        existing = previous.get(report.get("OriginalLink"), {})
-        record = dict(report)
-        if existing.get("Downloaded"):
-            record["Downloaded"] = True
-            record["DownloadedAt"] = existing.get("DownloadedAt", "")
-            record.pop("DownloadError", None)
-            print(f"⏭️ 已成功下載，略過：{report['Name']}")
-        else:
+    pdf_folder = "all report pdf"
+    data_folder = "data"
+    previous_reports = load_previous_reports(os.path.join(data_folder, "reports.json"))
+    rss_source_names = load_existing_rss_sources(data_folder)
+    rss_filename_by_source = {}
+
+    # 只重建輸出資料；PDF 資料夾保留查詢區間內的既有檔案。
+    import shutil
+    bad_folders = [data_folder]
+    for folder in bad_folders:
+        if os.path.exists(folder):
+            shutil.rmtree(folder)
+            print(f"🧹 已強行刪除損壞的資料夾: {folder}")
+    os.makedirs(pdf_folder, exist_ok=True)
+    os.makedirs(data_folder, exist_ok=True)
+    csv_path = os.path.join(data_folder, "reports.csv")
+    # Keep a downloadable, header-only manifest available even if a scraper later fails.
+    write_reports_csv([], csv_path)
+
+    all_reports = []
+
+    # 🌟 執行所有爬蟲
+    for _, module_name, _ in pkgutil.iter_modules(scrapers.__path__):
+        if module_name == "utils": continue
+
+        try:
+            module = importlib.import_module(f"scrapers.{module_name}")
+            module_source_names = set()
+            for attribute in ("SOURCE", "SOURCE_NAME"):
+                source_name = getattr(module, attribute, None)
+                if isinstance(source_name, str) and source_name.strip():
+                    module_source_names.add(source_name)
+            declared_sources = getattr(module, "RSS_SOURCES", ())
+            if isinstance(declared_sources, str):
+                declared_sources = (declared_sources,)
+            module_source_names.update(
+                source_name for source_name in declared_sources
+                if isinstance(source_name, str) and source_name.strip()
+            )
+            rss_source_names.update(module_source_names)
+            rss_filename = getattr(module, "RSS_FILENAME", None)
+            if isinstance(rss_filename, str) and rss_filename.strip():
+                for source_name in module_source_names:
+                    rss_filename_by_source[source_name] = rss_filename
+
+            if hasattr(module, "scrape"):
+                try:
+                    if module_name == "naver":
+                        cached_naver_reports = {
+                            report.get("OriginalLink"): report
+                            for report in previous_reports
+                            if report.get("Source") == "Naver Securities"
+                            and report.get("OriginalLink")
+                        }
+                        results = module.scrape(cached_reports=cached_naver_reports) or []
+                    else:
+                        results = module.scrape() or []
+                except Exception:
+                    if module_name != "mizuho":
+                        raise
+                    results = []
+
+                if module_name == "mizuho" and not results:
+                    results = cached_reports_for_source(
+                        previous_reports, "Mizuho", pdf_folder
+                    )
+                    if results:
+                        print(
+                            f"⚠️ Mizuho 暫時無法連線，沿用最近一次成功抓取的 "
+                            f"{len(results)} 份 PDF（保留期限 {PDF_RETENTION_DAYS} 天）。"
+                        )
+
+                if results:
+                    for report in results:
+                        if report.get("Source"):
+                            rss_source_names.add(str(report["Source"]))
+                        report["SourceDisclosureAllowed"] = (
+                            source_is_disclosable(report)
+                            and module_name not in NON_DISCLOSABLE_SCRAPER_MODULES
+                        )
+                    bad = [r for r in results if "Link" not in r]
+                    if bad:
+                        print(f"⚠️ [scraper: {module_name}] 有 {len(bad)} 筆資料缺少 Link 欄位:")
+                        for b in bad: print(f"   → {b}")
+                    all_reports.extend(results)
+        except Exception as e:
+            print(f"❌ 載入 {module_name} 失敗: {e}")
+
+    if not all_reports:
+        raise RuntimeError("Naver 沒有回傳報告；停止輸出，避免清空既有報告資料。")
+
+    # 🧹 資料清理：Regex 日期標準化與動態天數過濾
+    unique_reports = []
+    seen_links = set()
+    for report in all_reports:
+        if 'Link' not in report:
+            print(f"⚠️ [資料異常] 缺少 'Link' 欄位，已跳過: {report}")
+            continue
+        if report['Link'] in seen_links: continue
+        raw_date = str(report.get('Date', '')).strip()
+        dt_obj = None
+
+        match = re.search(r'(\d{4})[^\d]*(\d{1,2})[^\d]*(\d{1,2})', raw_date)
+        if match:
+            clean_date = f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
             try:
-                path = download_pdf(report)
-                record["Downloaded"] = True
-                record["DownloadedAt"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
-                record["Filename"] = path.name
-                record.pop("DownloadError", None)
-                successful += 1
-                downloaded_now += 1
-                print(f"⬇️ 已下載：{path.name}")
-            except Exception as exc:
-                record["Downloaded"] = False
-                record["DownloadedAt"] = ""
-                record["DownloadError"] = str(exc)
-                failed += 1
-                print(f"⚠️ {report['Name']}：{exc}")
-        if record.get("Downloaded"):
-            successful += 1 if existing.get("Downloaded") else 0
-        current_reports.append(record)
+                dt_obj = datetime.strptime(clean_date, "%Y-%m-%d")
+                report['Date'] = dt_obj.strftime("%Y-%m-%d")
+            except: pass
 
-    save_outputs(current_reports)
-    print(
-        f"\n✅ Naver 報告 {len(current_reports)} 篇；"
-        f"成功下載 {successful} 篇、此次新下載 {downloaded_now} 篇、失敗 {failed} 篇。"
-    )
+        if "Top of Mind" in report.get('Name', ''):
+            days_limit = 90  # 高盛 Top of Mind 放寬到近 90 天
+        elif report.get('Source', '').startswith('中央銀行'):
+            days_limit = 180  # 央行一季開一次會，放寬到一年
+        else:
+            days_limit = REPORT_WINDOW_DAYS
 
+        if report.get('Date') == "未知日期" or not report.get('Date') or (dt_obj and (datetime.now() - dt_obj).days <= days_limit):
+            unique_reports.append(report)
+            seen_links.add(report['Link'])
 
-if __name__ == "__main__":
-    main()
+    print(f"\n📊 總共找到 {len(unique_reports)} 筆符合條件的報告。")
+    cleanup_old_pdfs(pdf_folder, unique_reports, previous_reports)
+
+    # ==========================================
+    # 📥 終極修正：物理隔離下載與轉檔模式
+    # ==========================================
+    print(f"\n{'='*60}\n📥 啟動【物理隔離】下載與轉檔模式...\n")
+
+    try:
+        for i, report in enumerate(unique_reports, 1):
+            original_url = report.get('DownloadLink') or report.get('Link', '')
+            report['PageCount'] = report.get('PageCount', "未知")
+
+            report_type = str(report.get('Type', '')).lower()
+            looks_like_pdf_url = any(token in original_url.lower() for token in ['.pdf', 'download', 'downpdf'])
+            is_web_article = report_type in ('web', 'html') or (report_type != 'pdf' and not looks_like_pdf_url)
+
+            existing_local_path = report.get('LocalPath')
+            if existing_local_path:
+                local_filepath = existing_local_path
+                local_filename = os.path.basename(local_filepath)
+            else:
+                local_filename = safe_pdf_filename(report.get('Name', 'Unknown'))
+                local_filepath = os.path.join(pdf_folder, local_filename)
+            encoded_filename = urllib.parse.quote(local_filename)
+
+            report['OriginalLink'] = report.get('OriginalLink') or original_url
+            base_url = GITHUB_RAW_BASE if 'GITHUB_RAW_BASE' in globals() else ""
+            report['Link'] = f"{base_url}/{encoded_filename}"
+            report['LocalPath'] = local_filepath  # 🌟 修正：告訴 AI 正確的本地端中文檔名路徑
+
+            if os.path.exists(local_filepath):
+                print(f"[{i}/{len(unique_reports)}] ✅ 檔案已存在: {report.get('Name', '')[:15]}...")
+            elif report.get("Source") == "Naver Securities":
+                print(f"[{i}/{len(unique_reports)}] 🕵️ Naver PDF 下載: {report.get('Name', '')[:30]}...")
+                try:
+                    download_naver_pdf(
+                        original_url,
+                        local_filepath,
+                        report.get("OriginalLink", ""),
+                    )
+                    print("    ✅ Naver PDF 下載成功")
+                except Exception as e:
+                    print(f"    ❌ Naver PDF 下載失敗: {str(e)[:120]}")
+            else:
+                try:
+                    with sync_playwright() as p:
+                        browser = p.chromium.launch(headless=True)
+                        context = browser.new_context(
+                            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                            accept_downloads=True
+                        )
+                        page = context.new_page()
+                        Stealth().apply_stealth_sync(page)
+
+                        if is_web_article:
+                            print(f"[{i}/{len(unique_reports)}] 🖨️ 網頁轉PDF中: {report.get('Name', '')[:15]}...")
+                            try:
+                                page.goto(original_url, wait_until="domcontentloaded", timeout=15000)
+                                page.wait_for_timeout(3000)
+                            except: pass
+
+                            try:
+                                page.evaluate("""
+                                    const junk = document.querySelectorAll('header, footer, nav, aside, .ad, .sidebar, iframe');
+                                    junk.forEach(el => el.style.display = 'none');
+                                """)
+                            except: pass
+
+                            page.pdf(
+                                path=local_filepath,
+                                format="A4",
+                                print_background=True,
+                                margin={"top": "20px", "bottom": "20px", "left": "20px", "right": "20px"}
+                            )
+                            print("    ✅ 網頁自動轉 PDF 成功！")
+
+                        else:
+                            print(f"[{i}/{len(unique_reports)}] 🕵️ 實體 PDF 下載: {report.get('Name', '')[:15]}...")
+
+                            if "hankyung.com" in original_url:
+                                page.goto("https://consensus.hankyung.com", wait_until="domcontentloaded", timeout=15000)
+                                res = page.request.get(original_url, headers={"Referer": "https://consensus.hankyung.com/analysis/list"})
+                                if b'%PDF' in res.body()[:10]:
+                                    with open(local_filepath, "wb") as f: f.write(res.body())
+                                    print("    ✅ 韓國券商 PDF 秒抓成功！")
+                                else:
+                                    print("    ❌ 抓取失敗 (內容非 PDF)")
+
+                            else:
+                                if "ctbcbank" in original_url:
+                                    page.goto("https://www.ctbcbank.com/twrbo/zh_tw/index.html", wait_until="networkidle", timeout=30000)
+                                    time.sleep(random.uniform(2, 4))
+
+                                try:
+                                    with page.expect_download(timeout=30000) as download_info:
+                                        cache_buster = f"&t={int(time.time() * 1000)}" if "?" in original_url else f"?t={int(time.time() * 1000)}"
+                                        page.goto(original_url + cache_buster, wait_until="domcontentloaded", timeout=45000)
+
+                                    download = download_info.value
+                                    download.save_as(local_filepath)
+                                    print(f"    ✅ 下載成功")
+                                except Exception:
+                                    if original_url.startswith("http"):
+                                        safe_referer = urllib.parse.quote(original_url, safe=':/=?&')
+                                        try:
+                                            res = context.request.get(original_url, headers={"Referer": safe_referer})
+                                            if b'%PDF' in res.body()[:10]:
+                                                with open(local_filepath, "wb") as f: f.write(res.body())
+                                                print("    ✅ 備案轉存成功！")
+                                            else:
+                                                print("    ❌ 備案下載失敗: 檔案非 PDF")
+                                        except Exception as backup_e:
+                                            print(f"    ❌ 備案轉存也失敗: {str(backup_e)[:30]}")
+
+                        browser.close()
+
+                except Exception as e:
+                    print(f"    ❌ Playwright 執行失敗: {str(e)[:50]}")
+
+            if os.path.exists(local_filepath):
+                try:
+                    with pdfplumber.open(local_filepath) as pdf:
+                        report['PageCount'] = len(pdf.pages)
+                except:
+                    report['PageCount'] = "讀取失敗"
+            elif report.get("Source") == "Naver Securities":
+                # 若下載失敗，保留 Naver 官方附件 URL，避免產生失效的 GitHub Raw 連結。
+                report['Link'] = original_url
+
+    except Exception as major_e:
+        print(f"🔥 下載迴圈發生重大崩潰: {major_e}")
+
+    # ==========================================
+    # 🤖 AI 摘要邏輯 (OpenAI gpt-4o-mini 版本)
+    # ==========================================
+    if ENABLE_AI_SUMMARY and OPENAI_API_KEY and OPENAI_API_KEY != "請在這裡貼上您的_API_KEY":
+        print(f"\n{'='*60}\n🧠 啟動 AI 摘要生成程序 (OpenAI)...\n")
+        client = OpenAI(api_key=OPENAI_API_KEY)
+
+        for i, report in enumerate(unique_reports, 1):
+            local_filepath = report.get('LocalPath')
+
+            if not local_filepath or not os.path.exists(local_filepath):
+                report['Summary'] = "無實體檔案可供摘要"
+                continue
+
+            print(f"[{i}/{len(unique_reports)}] 🤖 正在閱讀並摘要: {report.get('Name', '')[:20]}...")
+
+            try:
+                text_content = ""
+                with pdfplumber.open(local_filepath) as pdf:
+                    for page in pdf.pages[:4]:
+                        extracted = page.extract_text()
+                        if extracted: text_content += extracted + "\n"
+
+                if len(text_content.strip()) < 50:
+                    report['Summary'] = "PDF 內容過少或為純圖片，無法摘要"
+                    continue
+
+                response = client.chat.completions.create(
+                    model="gpt-4.1-nano",
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": "用「繁體中文」。你是一位專業的財經分析師。請根據提供的財經報告內容，用「繁體中文」寫出 一、繁體中文結論性標題 二、 5 點最重要的核心繁體中文摘要（請使用條列式1. 2. 3. 4. 5.，每句話控制在 30 字以內）。用「繁體中文」。"
+                        },
+                        {
+                            "role": "user",
+                            "content": f"報告內容：\n{text_content[:10000]}"
+                        }
+                    ],
+                    temperature=0.3
+                )
+
+                summary_text = response.choices[0].message.content.strip()
+                report['Summary'] = summary_text.replace('\n', '<br>')
+                print("    ✅ 摘要成功！")
+
+                time.sleep(1)
+
+            except Exception as e:
+                print(f"    ❌ 摘要失敗: {str(e)[:50]}")
+                report['Summary'] = "AI 摘要過程發生錯誤"
+    else:
+        print("\n⚠️ AI 摘要未執行：開關未開啟 (ENABLE_AI_SUMMARY=False) 或未設定 API Key。")
+        for report in unique_reports:
+            report['Summary'] = "未執行 AI 摘要"
+
+    # ==========================================
+    # 📝 輸出生成
+    # ==========================================
+    unique_reports.sort(key=lambda x: x.get('Date', ''), reverse=True)
+    write_reports_csv(unique_reports, csv_path)
+    public_reports = [public_report_record(report) for report in unique_reports]
+    with open('data/reports.json', 'w', encoding='utf-8') as f:
+        json.dump(public_reports, f, ensure_ascii=False, indent=2)
+
+    md_content = "# 📊 最新財經報告總覽\n\n"
+    for report in unique_reports:
+        display_source = report.get('Source', '')
+        md_content += f"### {report['Name']}\n來源: {display_source} | 日期: {report['Date']} | 頁數: {report['PageCount']} 頁\n"
+        md_content += f"[📥 查看報告]({report['Link']})\n\n"
+    with open('data/reports_for_notebooklm.md', 'w', encoding='utf-8') as f: f.write(md_content)
+
+    tw_tz = pytz.timezone('Asia/Taipei')
+    update_time = datetime.now(tw_tz).strftime("%Y-%m-%d %H:%M:%S")
+
+    # 修改 HTML 生成區塊
+    html_content = f"""<!DOCTYPE html>
+<html lang="zh-TW"><head><meta charset="UTF-8"><title>最新財經報告總覽</title>
+    <style>
+        body {{ font-family: 'Segoe UI', sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background-color: #f5f7fa; }}
+        table {{ width: 100%; border-collapse: collapse; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }}
+        th, td {{ padding: 15px; text-align: left; border-bottom: 1px solid #ecf0f1; }}
+        th {{ background-color: #2c3e50; color: white; cursor: pointer; transition: background 0.3s; }}
+        th:hover {{ background-color: #34495e; }}
+        .page-badge {{ background: #e8f4fd; color: #2980b9; padding: 2px 8px; border-radius: 12px; font-weight: bold; }}
+        .update-info {{ color: #7f8c8d; margin-bottom: 20px; font-size: 0.9em; }}
+    </style></head><body>
+    <h1>📊 最新財經報告總覽 (GitHub 存檔)</h1>
+    <p class="update-info">🕒 最後更新時間：{update_time}</p>
+    <table id="reportTable"><thead><tr>
+        <th onclick="sortTable(0)">機構 ↕</th>
+        <th onclick="sortTable(1)">日期 ↕</th>
+        <th onclick="sortTable(2)">頁數 ↕</th>
+        <th onclick="sortTable(3)">報告名稱 ↕</th>
+        <th>AI 摘要</th>
+    </tr></thead><tbody>\n"""
+
+    for r in unique_reports:
+        display_source = r.get('Source', '')
+        html_content += f"<tr><td><b>{display_source}</b></td><td>{r['Date']}</td><td><span class='page-badge'>{r['PageCount']}</span></td>"
+        html_content += f"<td><a href='{r['Link']}' target='_blank'>{r['Name']}</a></td><td>{r['Summary']}</td></tr>\n"
+
+    html_content += """</tbody></table><script>
+    let sortDir = {};
+    function sortTable(n){
+        const table = document.getElementById("reportTable");
+        const tbody = table.querySelector("tbody");
+        const rows = Array.from(tbody.querySelectorAll("tr"));
+
+        sortDir[n] = sortDir[n] === "asc" ? "desc" : "asc";
+        const dir = sortDir[n];
+
+        rows.sort((rowA, rowB) => {
+            let valA = rowA.cells[n].innerText.trim().toLowerCase();
+            let valB = rowB.cells[n].innerText.trim().toLowerCase();
+
+            if(n === 2){
+                valA = parseInt(valA) || 0;
+                valB = parseInt(valB) || 0;
+            }
+
+            if(valA < valB) return dir === "asc" ? -1 : 1;
+            if(valA > valB) return dir === "asc" ? 1 : -1;
+            return 0;
+        });
+
+        rows.forEach(row => tbody.appendChild(row));
+    }
+    </script></body></html>"""
+    with open('index.html', 'w', encoding='utf-8') as f: f.write(html_content)
+
+    # ==========================================
+    # 📝 輸出生成
+    # ==========================================
+    # ... (前面的 JSON、Markdown、HTML 生成程式碼保持不變) ...
+
+    # 每個既有或本輪發現的來源都產生 RSS XML；無報告來源也輸出空 feed。
+    # 揭露設定只作為標記，不會移除 RSS 報告或來源。
+    reports_by_source = {source: [] for source in rss_source_names}
+    for report in unique_reports:
+        source = report.get('Source', 'Unknown')
+        if source not in reports_by_source: reports_by_source[source] = []
+        reports_by_source[source].append(report)
+
+    for source, reports in reports_by_source.items():
+        rss_filename = rss_filename_by_source.get(source)
+        if not rss_filename:
+            safe_source_name = source.lower().replace(" ", "_")
+            rss_filename = f"rss_{safe_source_name}.xml"
+        rss_filename = os.path.join("data", rss_filename)
+
+        # 🌟 將來源名稱也進行安全跳脫 (以防有 S&P 這種機構名)
+        safe_source_title = escape(source)
+
+        rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"><channel><title>{safe_source_title} 財經報告</title><link>https://github.com/{GITHUB_USER}/{GITHUB_REPO}</link>
+<description>{safe_source_title} 自動更新源</description>\n"""
+
+        for r in reports:
+            # 🌟 關鍵修正：將標題與網址中的 &、<、> 等字元轉換為 &amp;, &lt;, &gt;
+            safe_title = escape(r['Name'])
+            safe_link = escape(r['Link'])
+            report_datetime = parse_report_datetime(r.get('Date'))
+            rss_pub_date = (
+                format_datetime(pytz.timezone('Asia/Taipei').localize(report_datetime))
+                if report_datetime
+                else ""
+            )
+
+            rss_content += f"<item><title>{safe_title}</title><link>{safe_link}</link><description><![CDATA[📄 頁數：{r['PageCount']}]]></description><pubDate>{rss_pub_date}</pubDate></item>\n"
+
+        rss_content += "</channel></rss>"
+        with open(rss_filename, 'w', encoding='utf-8') as f: f.write(rss_content)
+
+    print(f"\n✅ 任務完成！")
+
+if __name__ == "__main__": main()

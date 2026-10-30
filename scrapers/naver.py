@@ -219,6 +219,7 @@ def _make_report(category, item, start_date, end_date):
         "Date": report_date.isoformat(),
         "Name": report_name,
         "Link": pdf_url,
+        "DownloadLink": pdf_url,
         "OriginalLink": detail_url,
         "Type": "PDF",
     }
@@ -296,10 +297,13 @@ def scrape(cached_reports=None):
             except NaverAccessError as exc:
                 print(f"  ⚠️ Naver 拒絕請求或持續錯誤，停止 {category_label} 後續報告：{exc}")
                 break
-            if not report or report["Link"] in seen_links:
+            if not report:
+                continue
+            report_link = report.get("DownloadLink") or report["Link"]
+            if report_link in seen_links:
                 continue
             reports.append(report)
-            seen_links.add(report["Link"])
+            seen_links.add(report_link)
 
     print(f"  ✅ Naver Securities 最終收錄 {len(reports)} 份 PDF 報告（{len(CATEGORIES)} 個分類）")
     return reports

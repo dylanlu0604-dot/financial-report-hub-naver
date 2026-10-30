@@ -1,1 +1,10 @@
-requests>=2.31,<3
+requests
+beautifulsoup4
+playwright
+openrouter
+pdfplumber
+python-dotenv
+playwright-stealth
+openai
+pypdf
+pytz
