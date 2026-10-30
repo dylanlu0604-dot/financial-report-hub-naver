@@ -14336,7 +14336,7 @@ DS INVESTMENT & SECURITIES
 
 Source PDF: all report pdf/[產業] AI 서비스 경쟁에서 누가 이익을 남기는가 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-28
+Date: 2026-10-26
 Pages: 16
 Extraction status: ok
 
@@ -44835,7 +44835,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 5
 Extraction status: ok
 

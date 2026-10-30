@@ -3629,7 +3629,7 @@ GS22-2 29-10-21 4.36 20 3.0
 
 Source PDF: all report pdf/[債券] Weekly Credit Monitor - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 18
 Extraction status: ok
 
@@ -18283,7 +18283,7 @@ TTM P/B Band [ X1.0 ~ X4.0 ]
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 3
 Extraction status: ok
 
@@ -19224,7 +19224,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 2
 Extraction status: ok
 

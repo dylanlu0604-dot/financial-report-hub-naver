@@ -26812,7 +26812,7 @@ PER 4.24배
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 15
 Extraction status: ok
 
@@ -41092,7 +41092,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산 _ 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-15
+Date: 2026-10-19
 Pages: 4
 Extraction status: ok
 
@@ -41270,7 +41270,7 @@ Appendix
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-29
+Date: 2026-10-20
 Pages: 4
 Extraction status: ok
 
@@ -46327,7 +46327,7 @@ KT&G (033780)
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-15
+Date: 2026-10-20
 Pages: 1
 Extraction status: ok
 

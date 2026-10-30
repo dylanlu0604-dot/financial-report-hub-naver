@@ -10791,7 +10791,7 @@ SK하이닉스
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 8
 Extraction status: ok
 
@@ -13863,7 +13863,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-23
 Pages: 1
 Extraction status: ok
 
@@ -18882,7 +18882,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-21
 Pages: 1
 Extraction status: ok
 
