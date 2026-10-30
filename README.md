@@ -19,10 +19,10 @@
 - `data/rss_naver_securities.xml`：Naver Securities RSS 訂閱源。
 - `all report pdf/`：下載的原始 PDF，報告連結使用本倉庫的 GitHub Raw 檔案。
 - `merged_pdfs/`：依來源合併並自動分卷的 PDF。
-- `merged_plain_text_html/`：抽取 PDF 文字、過濾常見免責樣板後，產生 30 組 HTML 與 TXT 分卷，適合 NotebookLM 網址匯入。
+- `merged_plain_text_html/`：抽取 PDF 文字、過濾常見免責樣板後，依報告量產生 HTML 與 TXT 分卷，適合 NotebookLM 網址匯入。
+- `notebooklm-five-source-extension/`：NotebookLM Chrome 擴充套件；依分卷清單匯入 Naver 報告文字來源，並建立分析筆記。
 
-GitHub Actions 會更新以上輸出並提交回此倉庫。Naver 原始 PDF 與合併 PDF 因而會累積在 Git 歷史中。
-新倉庫首次成功執行 Actions 後，才會出現第一批報告、RSS 與 NotebookLM 檔案。
+GitHub Actions 會更新以上輸出並提交回此倉庫。Naver 原始 PDF 與合併 PDF 因而會累積在 Git 歷史中。首次完整執行已生成第一批報告、RSS 與 NotebookLM 檔案。
 
 ## 本機執行
 
