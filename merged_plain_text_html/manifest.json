@@ -2,101 +2,101 @@
   {
     "html_file": "source01.html",
     "text_file": "source01.txt",
-    "documents": 58,
-    "characters": 1053975,
-    "html_bytes": 1838674,
-    "text_bytes": 1824684,
-    "first_title": "004_[債券] 10월 FOMC Preview_ 긴축의 끝은 아닌 동결 - 키움증권",
-    "last_title": "582_[總經] 수출에서 투자로 확산된 온기 - 신한투자증권"
+    "documents": 61,
+    "characters": 1082433,
+    "html_bytes": 1879502,
+    "text_bytes": 1864462,
+    "first_title": "007_[債券] 10월 FOMC_ 금리 인상 잠시 쉬어가기 - 대신증권",
+    "last_title": "619_[總經] 한국 GDP _ 파급효과, 소비 빼고 - 대신증권"
   },
   {
     "html_file": "source02.html",
     "text_file": "source02.txt",
-    "documents": 58,
-    "characters": 1054204,
-    "html_bytes": 1794699,
-    "text_bytes": 1781540,
-    "first_title": "002_[債券] 10_19 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "593_[總經] 프랑스 재정위기 가능성 점검 - 메리츠증권"
+    "documents": 61,
+    "characters": 1082482,
+    "html_bytes": 1834634,
+    "text_bytes": 1818922,
+    "first_title": "009_[債券] 10월 FOMC_ 추가 긴축과 10년물 5% 공방 - iM증권",
+    "last_title": "605_[總經] 미국 물가경로와 소비 둔화 가능성 - 유진투자증권"
   },
   {
     "html_file": "source03.html",
     "text_file": "source03.txt",
-    "documents": 59,
-    "characters": 1054175,
-    "html_bytes": 1841440,
-    "text_bytes": 1826935,
-    "first_title": "044_[債券] Daily Bond Morning Brief(2026.10.28) - 다올투자증권",
-    "last_title": "594_[總經] 한국 GDP _ 파급효과, 소비 빼고 - 대신증권"
+    "documents": 62,
+    "characters": 1081691,
+    "html_bytes": 1929724,
+    "text_bytes": 1913528,
+    "first_title": "004_[債券] 10월 FOMC Preview_ 긴축의 끝은 아닌 동결 - 키움증권",
+    "last_title": "620_[總經] 후반전을 향해 - 대신증권"
   },
   {
     "html_file": "source04.html",
     "text_file": "source04.txt",
-    "documents": 60,
-    "characters": 1053445,
-    "html_bytes": 1778298,
-    "text_bytes": 1764051,
-    "first_title": "007_[債券] 10월 FOMC_ 금리 인상 잠시 쉬어가기 - 대신증권",
-    "last_title": "579_[總經] 미국 CPI_ 올해 최악의 성적표, 하지만 추세를 더 확인해야 - 대신증권"
+    "documents": 62,
+    "characters": 1081692,
+    "html_bytes": 1854265,
+    "text_bytes": 1840376,
+    "first_title": "002_[債券] 10_19 Kiwoom Fixed Income Weekly Review - 키움증권",
+    "last_title": "614_[總經] 인상 여지, 긴축과는 거리두기 - 신한투자증권"
   },
   {
     "html_file": "source05.html",
     "text_file": "source05.txt",
-    "documents": 59,
-    "characters": 1054168,
-    "html_bytes": 1771809,
-    "text_bytes": 1755370,
-    "first_title": "011_[債券] 10월 금통위 Review_ 11월 인상을 향해 - 유진투자증권",
-    "last_title": "591_[總經] 재정 리스크 전염 및 K-사이클 파열음 - iM증권"
+    "documents": 63,
+    "characters": 1081629,
+    "html_bytes": 1808315,
+    "text_bytes": 1795822,
+    "first_title": "016_[債券] 10월 금통위_ 속도 조절하지만, 긴축 기조는 유지 - 교보증권",
+    "last_title": "616_[總經] 재정 리스크 전염 및 K-사이클 파열음 - iM증권"
   },
   {
     "html_file": "source06.html",
     "text_file": "source06.txt",
-    "documents": 59,
-    "characters": 1054045,
-    "html_bytes": 1851089,
-    "text_bytes": 1836277,
+    "documents": 63,
+    "characters": 1081658,
+    "html_bytes": 1840407,
+    "text_bytes": 1824243,
     "first_title": "003_[債券] 10_26 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "595_[總經] 후반전을 향해 - 대신증권"
+    "last_title": "615_[總經] 장대한 분노, 악재의 정점이 될까_ - iM증권"
   },
   {
     "html_file": "source07.html",
     "text_file": "source07.txt",
-    "documents": 65,
-    "characters": 1053454,
-    "html_bytes": 1781195,
-    "text_bytes": 1762386,
-    "first_title": "008_[債券] 10월 FOMC_ 기준금리 동결. 숨 고르기에 나선 연준 - 교보증권",
-    "last_title": "575_[總經] Market Weekly Check ME up! - 다올투자증권"
+    "documents": 62,
+    "characters": 1081664,
+    "html_bytes": 1835524,
+    "text_bytes": 1817026,
+    "first_title": "014_[債券] 10월 금통위_ 10월은 점검, 11월은 다시 인상 - iM증권",
+    "last_title": "584_[總經] [2027년 경제 및 금융시장 전망] Time of Tempering (PPT) - 신한투자증권"
   },
   {
     "html_file": "source08.html",
     "text_file": "source08.txt",
-    "documents": 59,
-    "characters": 1053528,
-    "html_bytes": 1854910,
-    "text_bytes": 1841587,
-    "first_title": "005_[債券] 10월 FOMC Review; 금융안정도 같이 본다 - 키움증권",
-    "last_title": "539_[總經] 10_19, Kiwoom Morning Letter - 키움증권"
+    "documents": 62,
+    "characters": 1081711,
+    "html_bytes": 1867276,
+    "text_bytes": 1851731,
+    "first_title": "008_[債券] 10월 FOMC_ 기준금리 동결. 숨 고르기에 나선 연준 - 교보증권",
+    "last_title": "617_[總經] 프랑스 재정 불안과 신용등급 하향 압력 점검 - 신한투자증권"
   },
   {
     "html_file": "source09.html",
     "text_file": "source09.txt",
-    "documents": 59,
-    "characters": 1054075,
-    "html_bytes": 1829366,
-    "text_bytes": 1813178,
-    "first_title": "012_[債券] 10월 금통위 Review_ 동결에도 인상 기조는 지속 - 키움증권",
-    "last_title": "592_[總經] 프랑스 재정 불안과 신용등급 하향 압력 점검 - 신한투자증권"
+    "documents": 62,
+    "characters": 1081704,
+    "html_bytes": 1874370,
+    "text_bytes": 1857417,
+    "first_title": "006_[債券] 10월 FOMC 리뷰_ 한 박자 쉬고 - 유진투자증권",
+    "last_title": "609_[總經] 신한 FX Check-up - 신한투자증권"
   },
   {
     "html_file": "source10.html",
     "text_file": "source10.txt",
-    "documents": 59,
-    "characters": 1054227,
-    "html_bytes": 1762327,
-    "text_bytes": 1744260,
+    "documents": 62,
+    "characters": 1082937,
+    "html_bytes": 1816671,
+    "text_bytes": 1799936,
     "first_title": "001_[債券] ''27년, 다시 볼 회사채 - 유안타증권",
-    "last_title": "589_[總經] 인상 여지, 긴축과는 거리두기 - 신한투자증권"
+    "last_title": "611_[總經] 악재 파도 지속. 다만, 파도가 더욱 높아지지는 않아 - iM증권"
   }
 ]
