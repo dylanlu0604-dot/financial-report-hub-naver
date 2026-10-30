@@ -2,6 +2,8 @@
 
 這是完整的 Financial Report Hub Naver 專案：保留原本報告庫的抓取、PDF 下載、HTML 總覽、RSS、CSV／JSON、NotebookLM Markdown 與 PDF 文字分卷輸出，只保留 Naver Securities 作為資料來源。
 
+網站首頁：https://dylanlu0604-dot.github.io/financial-report-hub-naver/
+
 ## 抓取範圍
 
 - Naver Securities 公司、產業、投資、總經、債券五個分類。
