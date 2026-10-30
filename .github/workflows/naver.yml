@@ -2,8 +2,8 @@ name: Naver Financial Report Hub
 
 on:
   schedule:
-    # 07:20 Asia/Taipei (GitHub Actions cron uses UTC)
-    - cron: '20 23 * * *'
+    # ＸＸＸ Asia/Taipei (UTC+8; GitHub Actions cron uses UTC)
+    - cron: '40 3,7,15,23 * * *'
   workflow_dispatch:
 
 concurrency:
