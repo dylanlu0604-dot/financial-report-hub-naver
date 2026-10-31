@@ -15805,8 +15805,8 @@ mark of MSCI and S&P and has been licensed for use by [Licensee].
 ## Document 233: [投資] [Global Watchlist] AI가 이리저리 흔들려도 미국은 흔들리지 않는다 - iM증권
 
 Source PDF: all report pdf/[投資] [Global Watchlist] AI가 이리저리 흔들려도 미국은 흔들리지 않는다 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 32
 Extraction status: ok
 
@@ -17443,8 +17443,8 @@ Compliance Notice
 ## Document 251: [投資] [MP전략] [2026 #10] 바이오가 되는 그림 - 한화투자증권
 
 Source PDF: all report pdf/[投資] [MP전략] [2026 #10] 바이오가 되는 그림 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 60
 Extraction status: ok
 
@@ -19822,8 +19822,8 @@ Compliance Notice
 ## Document 265: [投資] [the Blue Book] New Gravity_ 자산가격 메커니즘 변화 - 신한투자증권
 
 Source PDF: all report pdf/[投資] [the Blue Book] New Gravity_ 자산가격 메커니즘 변화 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 164
 Extraction status: ok
 
@@ -29677,8 +29677,8 @@ Compliance Notice
 ## Document 331: [投資] 변화하는 공급망 질서, 해운 빅사이클 - 대신증권
 
 Source PDF: all report pdf/[投資] 변화하는 공급망 질서, 해운 빅사이클 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 37
 Extraction status: ok
 
@@ -31725,8 +31725,8 @@ KOSPI
 ## Document 351: [投資] 중국의 데이터센터 톺아보기 - 메리츠증권
 
 Source PDF: all report pdf/[投資] 중국의 데이터센터 톺아보기 - 메리츠증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -34455,7 +34455,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 7
 Extraction status: ok
 
@@ -37807,7 +37807,7 @@ Adj.Price Adj.Target Price(원)
 
 Source PDF: all report pdf/[產業] 과도한 하락 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-19
 Pages: 2
 Extraction status: ok
 
@@ -45393,8 +45393,8 @@ IBKS RESEARCH │9
 ## Document 593: [總經] [매크로 COMMENT] 미국 9월 CPI_ 에너지 반등, 비용 전가가 관건 - SK증권
 
 Source PDF: all report pdf/[總經] [매크로 COMMENT] 미국 9월 CPI_ 에너지 반등, 비용 전가가 관건 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 

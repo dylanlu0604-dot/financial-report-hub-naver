@@ -26487,8 +26487,8 @@ KOSPI
 ## Document 290: [投資] ASML 셀온에 반도체 반등 무산, 미국 CPI 로 시선 이동 - 대신증권
 
 Source PDF: all report pdf/[投資] ASML 셀온에 반도체 반등 무산, 미국 CPI 로 시선 이동 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -29545,8 +29545,8 @@ Compliance Notice
 ## Document 305: [投資] KOSPI 급락 이유와 중요 지지선. 그리고 변곡점 - 대신증권
 
 Source PDF: all report pdf/[投資] KOSPI 급락 이유와 중요 지지선. 그리고 변곡점 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 15
 Extraction status: ok
 
@@ -30794,7 +30794,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 2
 Extraction status: ok
 
@@ -31097,8 +31097,8 @@ YoY)로 연중 0.3% 내외를 지속함
 ## Document 374: [產業] 8월 전력통계월보_ 높아진 구입단가. 9월부터 하락 전망 - 하나증권
 
 Source PDF: all report pdf/[產業] 8월 전력통계월보_ 높아진 구입단가. 9월부터 하락 전망 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -32355,8 +32355,8 @@ ESG [한화리서치]
 ## Document 388: [產業] [ESG] 미국·일본 선례로 예견해보는 코스닥 승강제의 효과 - 한화투자증권
 
 Source PDF: all report pdf/[產業] [ESG] 미국·일본 선례로 예견해보는 코스닥 승강제의 효과 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -32783,8 +32783,8 @@ Compliance Notice
 ## Document 404: [產業] [유안타이슈테마] 로봇 규제개선 & 정책지원 구체화 - 유안타증권
 
 Source PDF: all report pdf/[產業] [유안타이슈테마] 로봇 규제개선 & 정책지원 구체화 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -41328,8 +41328,8 @@ Compliance Notice
 ## Document 515: [產業] 인고의 시간 - 대신증권
 
 Source PDF: all report pdf/[產業] 인고의 시간 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 97
 Extraction status: ok
 

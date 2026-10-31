@@ -10552,7 +10552,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 8
 Extraction status: ok
 
@@ -17414,7 +17414,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 15
 Extraction status: ok
 
@@ -18986,8 +18986,8 @@ MoM -6.1%
 ## Document 364: [產業] 2027 Issue & Theme_ Change - 유안타증권
 
 Source PDF: all report pdf/[產業] 2027 Issue & Theme_ Change - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 61
 Extraction status: ok
 
@@ -33126,8 +33126,8 @@ Adj. Price Adj. Target Price(원)
 ## Document 394: [產業] [IBKS 에너지_소재 In-Depth] 윤활기유의 시대 - IBK투자증권
 
 Source PDF: all report pdf/[產業] [IBKS 에너지_소재 In-Depth] 윤활기유의 시대 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 58
 Extraction status: ok
 
@@ -41290,7 +41290,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산 _ 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-15
+Date: 2026-10-19
 Pages: 4
 Extraction status: ok
 
@@ -46296,7 +46296,7 @@ LG화학 수정TP(원)
 
 Source PDF: all report pdf/[產業] 알아두면 쓸모있는 콘텐츠 캘린더 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 
@@ -47310,8 +47310,8 @@ Compliance Notice
 ## Document 560: [總經] (매크로 따라잡기) 미국 9월 CPI, 인플레이션 경계 지속 - 키움증권
 
 Source PDF: all report pdf/[總經] (매크로 따라잡기) 미국 9월 CPI, 인플레이션 경계 지속 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -48762,8 +48762,8 @@ Appendix
 ## Document 604: [總經] 미국 CPI_ 올해 최악의 성적표, 하지만 추세를 더 확인해야 - 대신증권
 
 Source PDF: all report pdf/[總經] 미국 CPI_ 올해 최악의 성적표, 하지만 추세를 더 확인해야 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 

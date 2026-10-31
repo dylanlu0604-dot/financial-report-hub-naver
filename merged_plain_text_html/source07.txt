@@ -2976,8 +2976,8 @@ USD/CNH WTI    브렌트유
 ## Document 086: [公司] [000270] 기아 - 우수한 본업임에도 믹스 악화가 걸린다 - iM증권
 
 Source PDF: all report pdf/[公司] [000270] 기아 - 우수한 본업임에도 믹스 악화가 걸린다 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -5507,8 +5507,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 180: [投資] 10_15, 또 한 차례 치러야 하는 주도주 방어력 테스트 - 키움증권
 
 Source PDF: all report pdf/[投資] 10_15, 또 한 차례 치러야 하는 주도주 방어력 테스트 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -12418,8 +12418,8 @@ Compliance Notice
 ## Document 302: [投資] ETF 수급 Weekly; 신규 상장 및 수급 쏠림 ETF - 신한투자증권
 
 Source PDF: all report pdf/[投資] ETF 수급 Weekly; 신규 상장 및 수급 쏠림 ETF - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 10
 Extraction status: ok
 
@@ -27016,8 +27016,8 @@ KOSPI
 ## Document 350: [投資] 주요 컨퍼런스 Review_ 토큰화 이후의 금융 - 유진투자증권
 
 Source PDF: all report pdf/[投資] 주요 컨퍼런스 Review_ 토큰화 이후의 금융 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -28745,8 +28745,8 @@ Compliance notice
 ## Document 431: [產業] Oct, ‘26_ 업황 좋은데 밴드 하단이거나 뚫었거나 - 한화투자증권
 
 Source PDF: all report pdf/[產業] Oct, ‘26_ 업황 좋은데 밴드 하단이거나 뚫었거나 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 26
 Extraction status: ok
 
@@ -47838,8 +47838,8 @@ Hold(보유): KOSPI 대비 기대수익률 -10~10%                              
 ## Document 561: [總經] 10_15, Kiwoom Morning Letter - 키움증권
 
 Source PDF: all report pdf/[總經] 10_15, Kiwoom Morning Letter - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 

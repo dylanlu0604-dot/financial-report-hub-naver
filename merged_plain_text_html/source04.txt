@@ -612,8 +612,8 @@ Compliance Notice
 ## Document 035: [債券] Daily Bond Morning Brief(2026.10.15) - 다올투자증권
 
 Source PDF: all report pdf/[債券] Daily Bond Morning Brief(2026.10.15) - 다올투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -29051,8 +29051,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 494: [產業] 스마트폰만으로는 AI가 성공하기 어려운 이유 - 하나증권
 
 Source PDF: all report pdf/[產業] 스마트폰만으로는 AI가 성공하기 어려운 이유 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -44187,8 +44187,8 @@ EU 평균
 ## Document 603: [總經] 미국 9월 소비자물가_ 비용 전가형 물가 상승 조짐 - 신한투자증권
 
 Source PDF: all report pdf/[總經] 미국 9월 소비자물가_ 비용 전가형 물가 상승 조짐 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 

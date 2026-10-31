@@ -4584,8 +4584,8 @@ MMF*
 ## Document 070: [債券] 채권 Daily (2026.10.15) - 유안타증권
 
 Source PDF: all report pdf/[債券] 채권 Daily (2026.10.15) - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -12694,8 +12694,8 @@ Compliance Notice
 ## Document 211: [投資] 2027년 중국 AI 밸류체인 이익 지형도 미리보기 - 신한투자증권
 
 Source PDF: all report pdf/[投資] 2027년 중국 AI 밸류체인 이익 지형도 미리보기 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -17817,7 +17817,7 @@ Ratio(%)
 
 Source PDF: all report pdf/[投資] [다음주 시장은_] AI 투자심리 반전을 모색할 빅테크 실적 대기 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-19
 Pages: 6
 Extraction status: ok
 
@@ -41762,7 +41762,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-15
+Date: 2026-10-20
 Pages: 1
 Extraction status: ok
 
@@ -48069,8 +48069,8 @@ saar)
 ## Document 597: [總經] CPI 쇼크와 코어위브 신용위험, 결국 금리 리스크 - iM증권
 
 Source PDF: all report pdf/[總經] CPI 쇼크와 코어위브 신용위험, 결국 금리 리스크 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-15
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
