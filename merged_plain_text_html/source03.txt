@@ -5602,7 +5602,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-20
 Pages: 2
 Extraction status: ok
 
@@ -12482,7 +12482,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [다음주 시장은_] AI 투자심리 반전을 모색할 빅테크 실적 대기 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-19
 Pages: 6
 Extraction status: ok
 
@@ -17303,7 +17303,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 15
 Extraction status: ok
 

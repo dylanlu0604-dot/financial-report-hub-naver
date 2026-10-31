@@ -48962,7 +48962,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 4
 Extraction status: ok
 

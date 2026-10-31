@@ -15686,7 +15686,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 3
 Extraction status: ok
 

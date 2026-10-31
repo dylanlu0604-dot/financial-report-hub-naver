@@ -27937,7 +27937,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 알아두면 쓸모있는 콘텐츠 캘린더 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 

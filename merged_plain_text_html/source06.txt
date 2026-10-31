@@ -27155,7 +27155,7 @@ YoY 증가율(%) 2.5  2.4  2.5   6.0  14.4  5.9  0.7
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 7
 Extraction status: ok
 
@@ -30264,7 +30264,7 @@ Compliance notice
 
 Source PDF: all report pdf/[產業] 과도한 하락 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-19
 Pages: 2
 Extraction status: ok
 
@@ -34341,7 +34341,7 @@ ExxonMobil,정제마진급등으로다운스트림수익QoQ+$45억 증가가능�
 
 Source PDF: all report pdf/[產業] 디지털 자산 _ 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-19
 Pages: 4
 Extraction status: ok
 
@@ -35244,7 +35244,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-20
 Pages: 1
 Extraction status: ok
 

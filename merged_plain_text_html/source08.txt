@@ -24430,7 +24430,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-23
 Pages: 1
 Extraction status: ok
 
@@ -26792,7 +26792,7 @@ Extraction status: ok
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-21
 Pages: 1
 Extraction status: ok
 
@@ -27233,7 +27233,7 @@ KOSPI
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-16
+Date: 2026-10-20
 Pages: 1
 Extraction status: ok
 
@@ -33512,7 +33512,7 @@ COMPLIANCE NOTICE
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-29
+Date: 2026-10-20
 Pages: 4
 Extraction status: ok
 
