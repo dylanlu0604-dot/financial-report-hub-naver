@@ -850,8 +850,8 @@ A. 연준의 정책 결정은 달러가 기축통화라는 점에서 글로벌 �
 ## Document 024: [債券] [10월 금통위 프리뷰] 속도 조절 ≠ 인상 종료 - 하나증권
 
 Source PDF: all report pdf/[債券] [10월 금통위 프리뷰] 속도 조절 ≠ 인상 종료 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -2706,8 +2706,8 @@ BBB+ 3Y vs. A- 3Y(우)
 ## Document 060: [債券] 반짝 강세의 이유와 추세 전환의 조건 - iM증권
 
 Source PDF: all report pdf/[債券] 반짝 강세의 이유와 추세 전환의 조건 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -31726,8 +31726,8 @@ Hold(보유): KOSPI 대비 기대수익률 -10~10%                              
 ## Document 445: [產業] 방산 3Q26 프리뷰 – 이미 주가에 반영된 실적 부진 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 방산 3Q26 프리뷰 – 이미 주가에 반영된 실적 부진 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 21
 Extraction status: ok
 
@@ -38045,8 +38045,8 @@ Underweight (비중축소)
 ## Document 524: [總經] (Macro Snapshot) 유동성 증가세 둔화 속 경제주체별 차별화에 주목 - 키움증권
 
 Source PDF: all report pdf/[總經] (Macro Snapshot) 유동성 증가세 둔화 속 경제주체별 차별화에 주목 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -39537,7 +39537,7 @@ IBKS RESEARCH │7
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 5
 Extraction status: ok
 

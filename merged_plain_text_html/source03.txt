@@ -5602,7 +5602,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-19
 Pages: 2
 Extraction status: ok
 
@@ -16905,8 +16905,8 @@ Compliance Notice
 ## Document 309: [投資] 대외 악재에 KOSPI 서킷브레이커, Macro 부담에 반등 난망 - 대신증권
 
 Source PDF: all report pdf/[投資] 대외 악재에 KOSPI 서킷브레이커, Macro 부담에 반등 난망 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -17303,7 +17303,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 15
 Extraction status: ok
 
@@ -45434,8 +45434,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 526: [總經] 10_16 Weekly Macro _ 금리 흐름과 정책 대응에 주목 - 키움증권
 
 Source PDF: all report pdf/[總經] 10_16 Weekly Macro _ 금리 흐름과 정책 대응에 주목 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 

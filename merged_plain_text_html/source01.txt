@@ -10138,8 +10138,8 @@ Compliance Notice
 ## Document 205: [投資] 6,000pt 아래에선 매수 대응 권고 - 한화투자증권
 
 Source PDF: all report pdf/[投資] 6,000pt 아래에선 매수 대응 권고 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -33348,8 +33348,8 @@ Compliance Notice
 ## Document 319: [投資] 신한 M.R.I_ 7일 연속 누적 20% 하락, 무엇이 같고 다른가 - 신한투자증권
 
 Source PDF: all report pdf/[投資] 신한 M.R.I_ 7일 연속 누적 20% 하락, 무엇이 같고 다른가 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -37093,8 +37093,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 408: [產業] SMP는 11월까지 높아지지 않을 수도 - 하나증권
 
 Source PDF: all report pdf/[產業] SMP는 11월까지 높아지지 않을 수도 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -44387,8 +44387,8 @@ Sell: -15%이하로 구분
 ## Document 512: [產業] 투자손익 부진에도 보험손익은 점진적 개선 - iM증권
 
 Source PDF: all report pdf/[產業] 투자손익 부진에도 보험손익은 점진적 개선 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 54
 Extraction status: ok
 
@@ -48962,7 +48962,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 4
 Extraction status: ok
 

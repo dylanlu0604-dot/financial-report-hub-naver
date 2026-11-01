@@ -756,8 +756,8 @@ Compliance notice
 ## Document 067: [債券] 채권 Daily (2026.10.16) - 유안타증권
 
 Source PDF: all report pdf/[債券] 채권 Daily (2026.10.16) - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 

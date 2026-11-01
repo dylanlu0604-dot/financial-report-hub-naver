@@ -15723,8 +15723,8 @@ NAVER 0.93 0.88 6.66 7.15 소프트웨어
 ## Document 236: [投資] [IBKS Market Comment] 11월을 겨냥해 공포를 매수할 시점 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Market Comment] 11월을 겨냥해 공포를 매수할 시점 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -40010,8 +40010,8 @@ Adj.Price Adj.Target Price(원)
 ## Document 453: [產業] 블루오리진, 텍사스 위성공장 신설 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 블루오리진, 텍사스 위성공장 신설 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -47006,8 +47006,8 @@ Compliance Notice
 ## Document 550: [總經] [Global Markets Monitor] 美 중간선거 투자 전략 - IBK투자증권
 
 Source PDF: all report pdf/[總經] [Global Markets Monitor] 美 중간선거 투자 전략 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 

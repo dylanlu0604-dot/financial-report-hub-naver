@@ -26871,8 +26871,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 352: [產業] 9월 여수신_ 조달 구조 개선과 기업대 경쟁 완화가 필요 - 한화투자증권
 
 Source PDF: all report pdf/[產業] 9월 여수신_ 조달 구조 개선과 기업대 경쟁 완화가 필요 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -27155,7 +27155,7 @@ YoY 증가율(%) 2.5  2.4  2.5   6.0  14.4  5.9  0.7
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-27
 Pages: 7
 Extraction status: ok
 
@@ -34518,8 +34518,8 @@ Appendix
 ## Document 441: [產業] 매수 - SK증권
 
 Source PDF: all report pdf/[產業] 매수 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 10
 Extraction status: ok
 
@@ -35244,7 +35244,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 
@@ -36689,8 +36689,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 480: [產業] 이유 없는 하락엔 매수로 대응해야 - 하나증권
 
 Source PDF: all report pdf/[產業] 이유 없는 하락엔 매수로 대응해야 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 17
 Extraction status: ok
 
@@ -42497,8 +42497,8 @@ Global Strategy 김예슬 02) 6915-5526 / chchu93@ibks.com
 ## Document 551: [總經] [IBKS Economy Monitor] Focus on Week_ 균형을 벗어난 경제, 필연적으로 높아진 변동성과 불확실성이라는 비용 - IBK투자증권
 
 Source PDF: all report pdf/[總經] [IBKS Economy Monitor] Focus on Week_ 균형을 벗어난 경제, 필연적으로 높아진 변동성과 불확실성이라는 비용 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -42938,8 +42938,8 @@ IBKS RESEARCH │9
 ## Document 554: [總經] [Macro Flash] CPI_PPI_장기채_RMP 이슈 점검 - 유안타증권
 
 Source PDF: all report pdf/[總經] [Macro Flash] CPI_PPI_장기채_RMP 이슈 점검 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -43380,8 +43380,8 @@ Appendix
 ## Document 555: [總經] [매크로 COMMENT] 미국 PPI·소매판매_ 매출증가보다 무거워진 비용부담 - SK증권
 
 Source PDF: all report pdf/[總經] [매크로 COMMENT] 미국 PPI·소매판매_ 매출증가보다 무거워진 비용부담 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 

@@ -569,8 +569,8 @@ KTB30y UST30y JGB30y(%)
 ## Document 052: [債券] 국고채 시장 진단 - 신한투자증권
 
 Source PDF: all report pdf/[債券] 국고채 시장 진단 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 14
 Extraction status: ok
 
@@ -24430,7 +24430,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-23
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 
@@ -26792,7 +26792,7 @@ Extraction status: ok
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-21
+Date: 2026-10-19
 Pages: 1
 Extraction status: ok
 
@@ -27233,7 +27233,7 @@ KOSPI
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-19
 Pages: 1
 Extraction status: ok
 
@@ -33512,7 +33512,7 @@ COMPLIANCE NOTICE
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-29
 Pages: 4
 Extraction status: ok
 
@@ -44981,8 +44981,8 @@ YoY 증가율(우)
 ## Document 527: [總經] 10_16, Kiwoom Morning Letter - 키움증권
 
 Source PDF: all report pdf/[總經] 10_16, Kiwoom Morning Letter - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -45790,8 +45790,8 @@ Macro Review [한화리서치]
 ## Document 545: [總經] 9월 미국 소매판매_ 반등보다는 양호하게 유지 - 한화투자증권
 
 Source PDF: all report pdf/[總經] 9월 미국 소매판매_ 반등보다는 양호하게 유지 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 

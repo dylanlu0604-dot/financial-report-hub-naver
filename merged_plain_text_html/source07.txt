@@ -21383,7 +21383,7 @@ KODEX 200
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 8
 Extraction status: ok
 
@@ -33272,8 +33272,8 @@ m12345@iprovest.com
 ## Document 351: [產業] 9 월 여수신 동향 - 조달 포트폴리오 악화 지속 - SK증권
 
 Source PDF: all report pdf/[產業] 9 월 여수신 동향 - 조달 포트폴리오 악화 지속 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-16
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
