@@ -15974,7 +15974,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-27
 Pages: 2
 Extraction status: ok
 
@@ -16026,7 +16026,7 @@ F4Q말
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 15
 Extraction status: ok
 
@@ -17289,7 +17289,7 @@ NAVER 0.91 0.85 6.64 7.04 소프트웨어
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-27
 Pages: 7
 Extraction status: ok
 
@@ -28562,7 +28562,7 @@ sanghi.han@hanwha.com
 
 Source PDF: all report pdf/[產業] 숨 고르기 중 - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-28
 Pages: 4
 Extraction status: ok
 

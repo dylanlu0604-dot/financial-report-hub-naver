@@ -1103,7 +1103,7 @@ FI Comment ▶▶ 8월과 정반대, 매파적 동결 전망 [Fixed Income]
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-19
 Pages: 2
 Extraction status: ok
 
@@ -22008,7 +22008,7 @@ ESG [한화리서치]
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-19
 Pages: 1
 Extraction status: ok
 

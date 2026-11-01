@@ -33569,7 +33569,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 

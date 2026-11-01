@@ -29225,7 +29225,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 8
 Extraction status: ok
 
@@ -30431,7 +30431,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 3
 Extraction status: ok
 
@@ -30580,7 +30580,7 @@ VanEck Uranium and Nuclear ETF  NLR 3.1 -4.2 -27.2
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-21
+Date: 2026-10-19
 Pages: 1
 Extraction status: ok
 
@@ -33230,7 +33230,7 @@ Appendix
 
 Source PDF: all report pdf/[產業] AI 서비스 경쟁에서 누가 이익을 남기는가 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-28
 Pages: 16
 Extraction status: ok
 

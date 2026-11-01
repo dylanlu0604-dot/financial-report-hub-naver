@@ -30796,7 +30796,7 @@ Appendix
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-29
 Pages: 4
 Extraction status: ok
 

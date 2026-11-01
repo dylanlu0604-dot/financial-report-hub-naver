@@ -4389,7 +4389,7 @@ IRS(%) CRS(%) Spread(bp)
 
 Source PDF: all report pdf/[債券] Weekly Credit Monitor - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-20
+Date: 2026-10-27
 Pages: 18
 Extraction status: ok
 
@@ -19570,7 +19570,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-23
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 

@@ -45947,7 +45947,7 @@ OCI홀딩스 180,300 -0.17 -14.35 -21.09 +73 +129 -135 -237 60LONGi Green Energy
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 5
 Extraction status: ok
 
@@ -46305,7 +46305,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-10-19
 Pages: 4
 Extraction status: ok
 
