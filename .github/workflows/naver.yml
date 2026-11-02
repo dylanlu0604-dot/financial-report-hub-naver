@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 150
     env:
-      ARGOS_PACKAGES_DIR: ${{ github.workspace }}/.cache/argos-translate/packages
+      HF_HOME: ${{ github.workspace }}/.cache/huggingface
 
     steps:
       - name: Check out repository
@@ -31,11 +31,14 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Cache Argos translation models
+      - name: Cache M2M100 translation model
         uses: actions/cache@v4
         with:
-          path: .cache/argos-translate/packages
-          key: argos-models-ko-en-1.1-en-zt-1.9-v1
+          path: .cache/huggingface/hub
+          key: m2m100-418m-ko-zh-v1
+
+      - name: Install PyTorch CPU
+        run: pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.7.1+cpu'
 
       - name: Install Chinese fonts
         run: |

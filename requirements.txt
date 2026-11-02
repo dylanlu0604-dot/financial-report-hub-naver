@@ -8,4 +8,6 @@ playwright-stealth
 openai
 pypdf
 pytz
-argostranslate>=1.9,<2
+transformers>=4.46,<5
+sentencepiece
+opencc-python-reimplemented
