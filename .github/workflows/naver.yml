@@ -19,8 +19,6 @@ jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
     timeout-minutes: 150
-    env:
-      HF_HOME: ${{ github.workspace }}/.cache/huggingface
 
     steps:
       - name: Check out repository
@@ -30,15 +28,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Cache M2M100 translation model
-        uses: actions/cache@v4
-        with:
-          path: .cache/huggingface/hub
-          key: m2m100-418m-ko-zh-v1
-
-      - name: Install PyTorch CPU
-        run: pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.7.1+cpu'
 
       - name: Install Chinese fonts
         run: |

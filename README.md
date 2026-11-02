@@ -14,7 +14,7 @@
 
 ## 完整報告庫輸出
 
-- RSS 標題由 GitHub Actions 使用免費開源 M2M100 模型直接翻成繁體中文；只翻譯新標題或有變更的標題，RSS 描述保留韓文原題。模型快取在 GitHub Actions runner，翻譯結果存入 rss_title_translations.json，不需要翻譯 API 或在個人電腦執行。異常翻譯會回退為韓文原題，財經專有名詞仍可能不完全準確。
+- RSS 標題由 GitHub Actions 透過 Google Translate 免費網頁端點翻成繁體中文；只翻譯新標題或有變更的標題，RSS 描述保留韓文原題。此方式不需要金鑰或付費 API；Google 可能限流，請求失敗或輸出異常時會保留韓文原題，翻譯結果仍可能有財經專有名詞誤差。
 - `index.html`：可排序的報告總覽，包含來源、日期、頁數、PDF 連結及摘要欄。
 - `data/reports.json`：完整報告資料及本機 PDF 路徑。
 - `data/reports.csv`：適合試算表使用的報告清單；Actions 另提供 30 天下載 artifact。

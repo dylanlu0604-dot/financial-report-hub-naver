@@ -8,6 +8,3 @@ playwright-stealth
 openai
 pypdf
 pytz
-transformers>=4.46,<5
-sentencepiece
-opencc-python-reimplemented
