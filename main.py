@@ -21,6 +21,7 @@ from playwright_stealth import Stealth
 from xml.sax.saxutils import escape  # 🌟 新增這一行來處理 XML 特殊字元
 from xml.etree import ElementTree as ET
 import pytz
+from rss_translation import translate_report_titles
 
 # 🌟 新增 OpenAI 套件 (請確認 requirements.txt 裡面有 openai)
 from openai import OpenAI
@@ -645,6 +646,10 @@ def main():
         if source not in reports_by_source: reports_by_source[source] = []
         reports_by_source[source].append(report)
 
+    # Translate only new or changed Naver RSS titles; cached translations are
+    # stored in the repository root so rebuilding data/ does not erase them.
+    rss_translated_titles = translate_report_titles(unique_reports)
+
     for source, reports in reports_by_source.items():
         rss_filename = rss_filename_by_source.get(source)
         if not rss_filename:
@@ -661,8 +666,16 @@ def main():
 
         for r in reports:
             # 🌟 關鍵修正：將標題與網址中的 &、<、> 等字元轉換為 &amp;, &lt;, &gt;
-            safe_title = escape(r['Name'])
+            original_title = str(r.get('Name') or '')
+            translated_title = rss_translated_titles.get(
+                str(r.get('Link') or ''), original_title
+            )
+            safe_title = escape(translated_title)
             safe_link = escape(r['Link'])
+            description = f"📄 頁數：{r['PageCount']}"
+            if translated_title != original_title:
+                description += f"\n韓文原題：{original_title}"
+            safe_description = escape(description)
             report_datetime = parse_report_datetime(r.get('Date'))
             rss_pub_date = (
                 format_datetime(pytz.timezone('Asia/Taipei').localize(report_datetime))
@@ -670,7 +683,7 @@ def main():
                 else ""
             )
 
-            rss_content += f"<item><title>{safe_title}</title><link>{safe_link}</link><description><![CDATA[📄 頁數：{r['PageCount']}]]></description><pubDate>{rss_pub_date}</pubDate></item>\n"
+            rss_content += f"<item><title>{safe_title}</title><link>{safe_link}</link><description>{safe_description}</description><pubDate>{rss_pub_date}</pubDate></item>\n"
 
         rss_content += "</channel></rss>"
         with open(rss_filename, 'w', encoding='utf-8') as f: f.write(rss_content)

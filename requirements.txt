@@ -8,3 +8,4 @@ playwright-stealth
 openai
 pypdf
 pytz
+argostranslate>=1.9,<2
