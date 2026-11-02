@@ -13151,7 +13151,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 2
 Extraction status: ok
 
@@ -13478,7 +13478,7 @@ STRATEGY REPORT
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-26
 Pages: 15
 Extraction status: ok
 
@@ -40340,7 +40340,7 @@ Adj.Price Adj.Target Price(원)
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-20
 Pages: 4
 Extraction status: ok
 
