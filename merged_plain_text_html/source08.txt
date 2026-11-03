@@ -2002,7 +2002,7 @@ I 발행일: 2026년 11월 2일
 
 Source PDF: all report pdf/[債券] Weekly Credit Monitor - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 18
 Extraction status: ok
 
@@ -32807,7 +32807,7 @@ Hold(보유): KOSPI 대비 기대수익률 -10~10%                              
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-19
+Date: 2026-10-20
 Pages: 1
 Extraction status: ok
 

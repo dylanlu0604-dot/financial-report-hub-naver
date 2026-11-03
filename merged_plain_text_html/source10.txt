@@ -16836,7 +16836,7 @@ IT가전
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-10-23
 Pages: 1
 Extraction status: ok
 
@@ -24690,7 +24690,7 @@ S&P500 누적 총수익
 
 Source PDF: all report pdf/[投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-28
 Pages: 53
 Extraction status: ok
 
