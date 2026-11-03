@@ -33271,7 +33271,7 @@ Appendix
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-20
 Pages: 7
 Extraction status: ok
 
@@ -47347,7 +47347,7 @@ Adj.Price Adj.Target Price(원)
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-10-20
 Pages: 1
 Extraction status: ok
 
