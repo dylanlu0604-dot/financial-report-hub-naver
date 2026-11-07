@@ -6,8 +6,8 @@ NotebookLM import text with Markdown headings for each report, source PDF, and p
 ## Document 001: [債券] ''27년, 다시 볼 회사채 - 유안타증권
 
 Source PDF: all report pdf/[債券] ''27년, 다시 볼 회사채 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 49
 Extraction status: ok
 
@@ -3654,8 +3654,8 @@ Spot Brief
 ## Document 010: [債券] 10월 금통위 Review_ 11월 인상을 향해 - 유진투자증권
 
 Source PDF: all report pdf/[債券] 10월 금통위 Review_ 11월 인상을 향해 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -22534,8 +22534,8 @@ Compliance Notice
 ## Document 257: [投資] [IBKS Daily] Start with IBKS(2026.10.22) 스페이스X 흑자 달성, 주요 기업실적 발표도 기대감 확대 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Daily] Start with IBKS(2026.10.22) 스페이스X 흑자 달성, 주요 기업실적 발표도 기대감 확대 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -23292,7 +23292,7 @@ IBKS RESEARCH │3
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 8
 Extraction status: ok
 
@@ -29719,7 +29719,7 @@ ESG
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-22
+Date: 2026-11-02
 Pages: 1
 Extraction status: ok
 
@@ -42845,7 +42845,7 @@ Compliance notice
 
 Source PDF: all report pdf/[產業] Weekly Amazon Beauty Check - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-04
+Date: 2026-10-28
 Pages: 10
 Extraction status: ok
 

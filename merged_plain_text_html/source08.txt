@@ -1609,8 +1609,8 @@ Schmid 캔자 스 시티 연은 총재(강경, X) 연설
 ## Document 035: [債券] [금통위 리뷰] 무난하게 이어질 점진적 추가 인상 - 한화투자증권
 
 Source PDF: all report pdf/[債券] [금통위 리뷰] 무난하게 이어질 점진적 추가 인상 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -3199,8 +3199,8 @@ Compliance Notice
 ## Document 069: [債券] 채권 Daily (2026.10.22) - 유안타증권
 
 Source PDF: all report pdf/[債券] 채권 Daily (2026.10.22) - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -13520,7 +13520,7 @@ Compliance notice
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-23
+Date: 2026-11-06
 Pages: 1
 Extraction status: ok
 
@@ -49577,7 +49577,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 4
 Extraction status: ok
 

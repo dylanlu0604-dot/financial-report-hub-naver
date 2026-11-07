@@ -376,8 +376,8 @@ Compliance Notice
 ## Document 011: [債券] 10월 금통위 Review_ 동결에도 인상 기조는 지속 - 키움증권
 
 Source PDF: all report pdf/[債券] 10월 금통위 Review_ 동결에도 인상 기조는 지속 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -6495,8 +6495,8 @@ Appendix
 ## Document 140: [公司] [009150] 삼성전기 - Nvidia가 인정한 공식 기판 공급 파트너 - iM증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - Nvidia가 인정한 공식 기판 공급 파트너 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -8420,8 +8420,8 @@ KB금융 (105560) [한화리서치]
 ## Document 191: [公司] [207940] 삼성바이오로직스 - 불확실성보다 성장을 볼 시점 - IBK투자증권
 
 Source PDF: all report pdf/[公司] [207940] 삼성바이오로직스 - 불확실성보다 성장을 볼 시점 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -8755,8 +8755,8 @@ LG에너지솔루션 KOSPI
 ## Document 203: [投資] 10_22 엔화, 금리 인상 기대 속 강세 - 키움증권
 
 Source PDF: all report pdf/[投資] 10_22 엔화, 금리 인상 기대 속 강세 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -21229,8 +21229,8 @@ KOSPI
 ## Document 331: [投資] Yuanta ESG - 미국 중간선거 프리뷰_ 블루웨이브는 무엇을 바꾸고, 어떤 신호를 줄 것인가 - 유안타증권
 
 Source PDF: all report pdf/[投資] Yuanta ESG - 미국 중간선거 프리뷰_ 블루웨이브는 무엇을 바꾸고, 어떤 신호를 줄 것인가 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -21328,8 +21328,8 @@ Analyst / 통신·지주 이승웅
 ## Document 332: [投資] “ETF 모으기”_ 배당 수익률 상위 ETF, 커버드콜 ETF - 유진투자증권
 
 Source PDF: all report pdf/[投資] “ETF 모으기”_ 배당 수익률 상위 ETF, 커버드콜 ETF - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 13
 Extraction status: ok
 
@@ -40447,7 +40447,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-04
+Date: 2026-10-30
 Pages: 4
 Extraction status: ok
 
@@ -43637,8 +43637,8 @@ Compliance Notice
 ## Document 569: [產業] 피부과학에서 찾은 K-Beauty의 미래 - IBK투자증권
 
 Source PDF: all report pdf/[產業] 피부과학에서 찾은 K-Beauty의 미래 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 73
 Extraction status: ok
 

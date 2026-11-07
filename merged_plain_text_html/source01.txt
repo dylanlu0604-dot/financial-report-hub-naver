@@ -9108,8 +9108,8 @@ Compliance notice
 ## Document 189: [公司] [207940] 삼성바이오로직스 - 높아지는 수주 확보 가능성 - 키움증권
 
 Source PDF: all report pdf/[公司] [207940] 삼성바이오로직스 - 높아지는 수주 확보 가능성 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -9526,8 +9526,8 @@ Universe: MSCI ACWI Index 헬스케어 장비 및 공급 기업 82개
 ## Document 192: [公司] [207940] 삼성바이오로직스 - 파업 영향에도 견조한 실적, 4분기 성장 확대 - 대신증권
 
 Source PDF: all report pdf/[公司] [207940] 삼성바이오로직스 - 파업 영향에도 견조한 실적, 4분기 성장 확대 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -57080,8 +57080,8 @@ OCI홀딩스 181,200 -2.05 +0.33 -23.38 -161 -23 +60 +43 60LONGi Green Energy CH
 ## Document 601: [總經] 11월 Econ Signal; 성장보다 물가에 먼저 쌓이는 공급 충격 - 신한투자증권
 
 Source PDF: all report pdf/[總經] 11월 Econ Signal; 성장보다 물가에 먼저 쌓이는 공급 충격 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 25
 Extraction status: ok
 

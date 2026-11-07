@@ -10795,8 +10795,8 @@ Appendix
 ## Document 188: [公司] [207940] 삼성바이오로직스 - 가이던스 상향, 6공장과 수주도 곧 (3Q26 Review) - 하나증권
 
 Source PDF: all report pdf/[公司] [207940] 삼성바이오로직스 - 가이던스 상향, 6공장과 수주도 곧 (3Q26 Review) - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -17755,7 +17755,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 1
 Extraction status: ok
 
@@ -17805,7 +17805,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-28
+Date: 2026-11-02
 Pages: 53
 Extraction status: ok
 
@@ -45950,7 +45950,7 @@ ESS 설치 §2214 기존 개발·교란 부지의 배터리 등 저장시설에 
 
 Source PDF: all report pdf/[產業] 숨 고르기 중 - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-28
 Pages: 4
 Extraction status: ok
 
@@ -48081,8 +48081,8 @@ Compliance Notice
 ## Document 559: [產業] 최근 에릭슨 주가 상승이 주는 시사점 - 하나증권
 
 Source PDF: all report pdf/[產業] 최근 에릭슨 주가 상승이 주는 시사점 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-22
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
