@@ -41437,7 +41437,7 @@ Compliance notice
 
 Source PDF: all report pdf/[產業] Weekly Amazon Beauty Check - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-04
+Date: 2026-10-28
 Pages: 10
 Extraction status: ok
 

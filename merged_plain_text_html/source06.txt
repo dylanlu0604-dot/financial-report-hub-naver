@@ -1848,7 +1848,7 @@ MMF*
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-23
+Date: 2026-11-02
 Pages: 2
 Extraction status: ok
 
@@ -17672,7 +17672,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 1
 Extraction status: ok
 
@@ -39442,7 +39442,7 @@ Compliance Notices
 
 Source PDF: all report pdf/[產業] 숨 고르기 중 - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-10-28
 Pages: 4
 Extraction status: ok
 
@@ -46313,7 +46313,7 @@ ADP 민간고용 (좌축)
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 4
 Extraction status: ok
 

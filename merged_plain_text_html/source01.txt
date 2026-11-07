@@ -13722,7 +13722,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 8
 Extraction status: ok
 
@@ -36465,7 +36465,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-28
+Date: 2026-11-02
 Pages: 53
 Extraction status: ok
 

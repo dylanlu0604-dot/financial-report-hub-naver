@@ -30676,7 +30676,7 @@ Compliance Notice & 고지사항
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-23
+Date: 2026-11-06
 Pages: 1
 Extraction status: ok
 
