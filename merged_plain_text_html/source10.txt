@@ -4663,7 +4663,7 @@ IRS(%) CRS(%) Spread(bp)
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 2
 Extraction status: ok
 

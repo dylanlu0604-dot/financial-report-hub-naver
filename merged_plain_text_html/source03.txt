@@ -37395,7 +37395,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 1
 Extraction status: ok
 
@@ -47079,7 +47079,7 @@ Global Markets Monitor
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 5
 Extraction status: ok
 
