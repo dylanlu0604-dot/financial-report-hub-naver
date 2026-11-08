@@ -1001,8 +1001,8 @@ Compliance notice
 ## Document 009: [債券] 10월 금통위 “추가 인상 시기와 속도 검토” - 대신증권
 
 Source PDF: all report pdf/[債券] 10월 금통위 “추가 인상 시기와 속도 검토” - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -1145,8 +1145,8 @@ Fixed Income
 ## Document 010: [債券] 10월 금통위_ 만장일치 _ 긴축 필요성 - 신한투자증권
 
 Source PDF: all report pdf/[債券] 10월 금통위_ 만장일치 _ 긴축 필요성 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -14982,8 +14982,8 @@ K200 선물
 ## Document 247: [投資] [IBKS Market Comment] 유가 안정이 절실히 필요한 시점 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Market Comment] 유가 안정이 절실히 필요한 시점 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -19159,7 +19159,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-11-03
 Pages: 2
 Extraction status: ok
 
@@ -19293,7 +19293,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 1
 Extraction status: ok
 
@@ -32513,7 +32513,7 @@ Compliance notice
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-11-04
 Pages: 4
 Extraction status: ok
 

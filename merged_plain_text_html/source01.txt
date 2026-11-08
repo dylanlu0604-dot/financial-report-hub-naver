@@ -13722,7 +13722,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 8
 Extraction status: ok
 
@@ -36465,7 +36465,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-28
 Pages: 53
 Extraction status: ok
 
@@ -47673,8 +47673,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 503: [產業] 유틸리티 공기업 3Q 판매실적 점검 - 하나증권
 
 Source PDF: all report pdf/[產業] 유틸리티 공기업 3Q 판매실적 점검 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -48341,8 +48341,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 504: [產業] 유틸리티와 서브팹으로 확산되는 증설 수혜 - IBK투자증권
 
 Source PDF: all report pdf/[產業] 유틸리티와 서브팹으로 확산되는 증설 수혜 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -55960,8 +55960,8 @@ Compliance Notice
 ## Document 549: [總經] 10_23 Weekly Macro _ AI 투자 불확실성 속 연준의 경기 인식에 주목 - 키움증권
 
 Source PDF: all report pdf/[總經] 10_23 Weekly Macro _ AI 투자 불확실성 속 연준의 경기 인식에 주목 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 

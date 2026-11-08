@@ -27040,8 +27040,8 @@ Appendix
 ## Document 295: [投資] Shinhan China Weekly(10월 4주차) - 신한투자증권
 
 Source PDF: all report pdf/[投資] Shinhan China Weekly(10월 4주차) - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -37143,8 +37143,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 467: [產業] 무선 통신 장비주 반등에 대비 - 하나증권
 
 Source PDF: all report pdf/[產業] 무선 통신 장비주 반등에 대비 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 17
 Extraction status: ok
 

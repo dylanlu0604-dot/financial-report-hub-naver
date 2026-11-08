@@ -6221,7 +6221,7 @@ IRS(%) CRS(%) Spread(bp)
 
 Source PDF: all report pdf/[債券] Weekly Credit Monitor - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-11-03
 Pages: 18
 Extraction status: ok
 
@@ -19980,8 +19980,8 @@ KCC건설 0.20  경남제약 0.36  인콘 0.31
 ## Document 385: [產業] [Europe Tracker] 유럽 자동차 9월_ BEV YoY +72.9%, YTD 점유율 22.7%로 가솔린 추월 - IBK투자증권
 
 Source PDF: all report pdf/[產業] [Europe Tracker] 유럽 자동차 9월_ BEV YoY +72.9%, YTD 점유율 22.7%로 가솔린 추월 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 13
 Extraction status: ok
 
@@ -20891,8 +20891,8 @@ Compliance Notice
 ## Document 391: [產業] [META] 2026년 3분기 실적 발표 정리 - IBK투자증권
 
 Source PDF: all report pdf/[產業] [META] 2026년 3분기 실적 발표 정리 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -21650,7 +21650,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] AI 서비스 경쟁에서 누가 이익을 남기는가 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-28
+Date: 2026-10-26
 Pages: 16
 Extraction status: ok
 
@@ -25144,8 +25144,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 432: [產業] SK하이닉스 ADR 괴리, 계속 방치하기는 어려워 - DS투자증권
 
 Source PDF: all report pdf/[產業] SK하이닉스 ADR 괴리, 계속 방치하기는 어려워 - DS투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -39331,8 +39331,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 481: [產業] 수에즈막스까지 번지고 있는 탱커 운임 강세 - IBK투자증권
 
 Source PDF: all report pdf/[產業] 수에즈막스까지 번지고 있는 탱커 운임 강세 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -43772,8 +43772,8 @@ P/E(Fwd.12M)
 ## Document 527: [產業] 카지노 업황 점검_ 정책 불확실성 해소가 관건 - iM증권
 
 Source PDF: all report pdf/[產業] 카지노 업황 점검_ 정책 불확실성 해소가 관건 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 42
 Extraction status: ok
 

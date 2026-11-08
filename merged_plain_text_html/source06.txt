@@ -457,8 +457,8 @@ Compliance notice
 ## Document 026: [債券] [IBKS Bond Inside] 생Live의 이면, 움직이지 않을 자유 - IBK투자증권
 
 Source PDF: all report pdf/[債券] [IBKS Bond Inside] 생Live의 이면, 움직이지 않을 자유 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -1848,7 +1848,7 @@ MMF*
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 2
 Extraction status: ok
 
@@ -2037,8 +2037,8 @@ WTI 근월물($) 102.87  0.1% 3.4% 79.2%
 ## Document 060: [債券] 채권 Daily (2026.10.23) - 유안타증권
 
 Source PDF: all report pdf/[債券] 채권 Daily (2026.10.23) - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -13240,8 +13240,8 @@ Compliance Notice
 ## Document 322: [投資] 빅파마의 시간 - 신한투자증권
 
 Source PDF: all report pdf/[投資] 빅파마의 시간 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 79
 Extraction status: ok
 
@@ -17672,7 +17672,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 1
 Extraction status: ok
 
@@ -22945,8 +22945,8 @@ Compliance Notice
 ## Document 399: [產業] [유안타이슈테마] PHP 취약점 발견의 내포된 의미 - 유안타증권
 
 Source PDF: all report pdf/[產業] [유안타이슈테마] PHP 취약점 발견의 내포된 의미 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -39442,7 +39442,7 @@ Compliance Notices
 
 Source PDF: all report pdf/[產業] 숨 고르기 중 - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-28
+Date: 2026-10-27
 Pages: 4
 Extraction status: ok
 
@@ -46313,7 +46313,7 @@ ADP 민간고용 (좌축)
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 4
 Extraction status: ok
 

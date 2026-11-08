@@ -15101,8 +15101,8 @@ Compliance Notice
 ## Document 213: [投資] 2027년 미리보기 ②비트코인 가격 전망 - 신한투자증권
 
 Source PDF: all report pdf/[投資] 2027년 미리보기 ②비트코인 가격 전망 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -29712,8 +29712,8 @@ IBKS RESEARCH │3
 ## Document 260: [投資] [다음주 시장은_] AI 투자심리 반전의 실마리. 국내외 주요 기업 실적발표 주목 - 대신증권
 
 Source PDF: all report pdf/[投資] [다음주 시장은_] AI 투자심리 반전의 실마리. 국내외 주요 기업 실적발표 주목 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -30676,7 +30676,7 @@ Compliance Notice & 고지사항
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-06
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 
@@ -34419,8 +34419,8 @@ Compliance Notice
 ## Document 315: [投資] 메타·테슬라 호실적에도 안도감 부족, 수급 완충력까지 약화 - 대신증권
 
 Source PDF: all report pdf/[投資] 메타·테슬라 호실적에도 안도감 부족, 수급 완충력까지 약화 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -42162,8 +42162,8 @@ Adj.Price Adj.Target Price(원)
 ## Document 456: [產業] 높아지는 패키지 기판의 위상 - 하나증권
 
 Source PDF: all report pdf/[產業] 높아지는 패키지 기판의 위상 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 27
 Extraction status: ok
 

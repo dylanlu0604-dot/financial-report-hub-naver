@@ -19366,7 +19366,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-10-26
 Pages: 3
 Extraction status: ok
 
@@ -21523,8 +21523,8 @@ Compliance Notice
 ## Document 325: [投資] 신한 M.R.I_ 금리가 올라도 걱정, 내려도 걱정_ - 신한투자증권
 
 Source PDF: all report pdf/[投資] 신한 M.R.I_ 금리가 올라도 걱정, 내려도 걱정_ - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -52613,8 +52613,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 545: [總經] (Macro Snapshot) AI 투자 기대의 현실화와 연준의 대응 - 키움증권
 
 Source PDF: all report pdf/[總經] (Macro Snapshot) AI 투자 기대의 현실화와 연준의 대응 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -53196,8 +53196,8 @@ OCI홀딩스 182,700 -5.87 -16.19 -2.82 +33 -161 -16 +35 60LONGi Green Energy CH
 ## Document 580: [總經] AI발 안전자산 초강세, 주목해야 할 지표는 - iM증권
 
 Source PDF: all report pdf/[總經] AI발 안전자산 초강세, 주목해야 할 지표는 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-23
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -54754,7 +54754,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-26
 Pages: 5
 Extraction status: ok
 
