@@ -57756,7 +57756,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-26
+Date: 2026-11-02
 Pages: 5
 Extraction status: ok
 

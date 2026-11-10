@@ -48249,7 +48249,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] Weekly Amazon Beauty Check - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-04
+Date: 2026-10-28
 Pages: 10
 Extraction status: ok
 
