@@ -1868,7 +1868,7 @@ IRS(%) CRS(%) Spread(bp)
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-27
 Pages: 2
 Extraction status: ok
 
@@ -2058,7 +2058,7 @@ WTI 근월물($) 102.87  0.1% 3.4% 79.2%
 
 Source PDF: all report pdf/[債券] Weekly Credit Monitor - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-11-03
 Pages: 18
 Extraction status: ok
 
@@ -50163,7 +50163,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-10-27
 Pages: 4
 Extraction status: ok
 

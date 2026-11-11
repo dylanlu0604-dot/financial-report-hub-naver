@@ -53241,7 +53241,7 @@ Eagle Ford
 
 Source PDF: all report pdf/[產業] Weekly Amazon Beauty Check - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-28
+Date: 2026-11-04
 Pages: 10
 Extraction status: ok
 
@@ -64726,7 +64726,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-11-09
 Pages: 4
 Extraction status: ok
 

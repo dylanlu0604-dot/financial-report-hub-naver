@@ -16219,7 +16219,7 @@ Appendix
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-06
+Date: 2026-10-30
 Pages: 1
 Extraction status: ok
 
@@ -30109,7 +30109,7 @@ Compliance Notices
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-27
+Date: 2026-11-03
 Pages: 7
 Extraction status: ok
 
@@ -47284,7 +47284,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-11-04
 Pages: 4
 Extraction status: ok
 
