@@ -4454,8 +4454,8 @@ Tel: 02 2020 8000 / www.samsungpop.com
 ## Document 082: [公司] [000660] SK하이닉스 - 3Q26 Review 변함없는 방향성 - 교보증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 3Q26 Review 변함없는 방향성 - 교보증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -6198,8 +6198,8 @@ OpFCF 10,632  -45,030  -2,025  -233  2,392   자기자본 44.7  43.2  41.9  39.7
 ## Document 127: [公司] [009150] 삼성전기 - 3Q 거침없는 이익 증가! 2027년 AI 수혜는 본격화! - 대신증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 3Q 거침없는 이익 증가! 2027년 AI 수혜는 본격화! - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
@@ -7124,8 +7124,8 @@ Adj. Price Adj. Target Price(원)
 ## Document 132: [公司] [009150] 삼성전기 - 어디까지 올라가는 거에요_ - 미래에셋증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 어디까지 올라가는 거에요_ - 미래에셋증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -7165,8 +7165,8 @@ Extraction status: ok
 ## Document 136: [公司] [009150] 삼성전기 - 풀캐파, 재고 3주, ASP 6불_ 쇼티지가 숫자로 왔다 - SK증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 풀캐파, 재고 3주, ASP 6불_ 쇼티지가 숫자로 왔다 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
@@ -21063,8 +21063,8 @@ CD91일 무위험금리지표(KOFR)
 ## Document 292: [投資] SK 하이닉스의 손색없는 성적표, FOMC·주요 기업 실적에 주목 - 대신증권
 
 Source PDF: all report pdf/[投資] SK 하이닉스의 손색없는 성적표, FOMC·주요 기업 실적에 주목 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -21893,8 +21893,8 @@ Extraction status: ok
 ## Document 302: [投資] 같은 AI, 다른 변동성 (feat. 대만 주식시장) - 신한투자증권
 
 Source PDF: all report pdf/[投資] 같은 AI, 다른 변동성 (feat. 대만 주식시장) - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -57414,7 +57414,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-02
 Pages: 4
 Extraction status: ok
 

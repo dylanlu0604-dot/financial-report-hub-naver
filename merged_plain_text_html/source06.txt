@@ -2527,8 +2527,8 @@ Compliance Notice
 ## Document 022: [債券] [FOMC 리뷰] 무난한 인상 예고 - 한화투자증권
 
 Source PDF: all report pdf/[債券] [FOMC 리뷰] 무난한 인상 예고 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -6513,8 +6513,8 @@ Compliance notice
 ## Document 087: [公司] [000660] SK하이닉스 - 높아지는 이익의 눈높이, 달라지는 메모리 사이클 - 한화투자증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 높아지는 이익의 눈높이, 달라지는 메모리 사이클 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -6704,8 +6704,8 @@ SK하이닉스 (000660) [한화리서치]
 ## Document 088: [公司] [000660] SK하이닉스 - 메모리 가격 상회로 실적 상향 - 하나증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 메모리 가격 상회로 실적 상향 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 

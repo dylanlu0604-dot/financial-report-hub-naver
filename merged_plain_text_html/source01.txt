@@ -6,8 +6,8 @@ NotebookLM import text with Markdown headings for each report, source PDF, and p
 ## Document 004: [債券] 10월 FOMC_ 금리 인상 잠시 쉬어가기 - 대신증권
 
 Source PDF: all report pdf/[債券] 10월 FOMC_ 금리 인상 잠시 쉬어가기 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -3446,8 +3446,8 @@ ECB 주요재융자금리 (우)
 ## Document 027: [債券] Daily Bond Morning Brief(2026.10.29) - 다올투자증권
 
 Source PDF: all report pdf/[債券] Daily Bond Morning Brief(2026.10.29) - 다올투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -3694,7 +3694,7 @@ MMF*
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-29
+Date: 2026-11-02
 Pages: 2
 Extraction status: ok
 
@@ -4070,8 +4070,8 @@ Compliance Notice
 ## Document 057: [債券] 채권 Daily (26.10.29) - 유안타증권
 
 Source PDF: all report pdf/[債券] 채권 Daily (26.10.29) - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -6344,8 +6344,8 @@ Compliance Notice
 ## Document 080: [公司] [000660] SK하이닉스 - 3Q26 OP 80.1조원 실적 서프라이즈 예상 - 메리츠증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 3Q26 OP 80.1조원 실적 서프라이즈 예상 - 메리츠증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -8193,8 +8193,8 @@ Compliance Notice
 ## Document 137: [公司] [028260] 삼성물산 - [3Q26 Review] 전자가 좋으면, 나도 좋다 - 한화투자증권
 
 Source PDF: all report pdf/[公司] [028260] 삼성물산 - [3Q26 Review] 전자가 좋으면, 나도 좋다 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -15051,8 +15051,8 @@ NASDAQ 76.9 31.1 26.8 33.8
 ## Document 275: [投資] Anthropic IPO 수혜 ETF, 지수 편입비 분석 - 신한투자증권
 
 Source PDF: all report pdf/[投資] Anthropic IPO 수혜 ETF, 지수 편입비 분석 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -15426,8 +15426,8 @@ Compliance Notice
 ## Document 279: [投資] Equity Strategy - 10월 FOMC회의_ 쉼표 - 유진투자증권
 
 Source PDF: all report pdf/[投資] Equity Strategy - 10월 FOMC회의_ 쉼표 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -39655,7 +39655,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-11
 Pages: 24
 Extraction status: ok
 
@@ -40538,7 +40538,7 @@ LIG디펜스앤에어로스페이스 산업재 0.18 1.98 −56.0
 
 Source PDF: all report pdf/[投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-02
 Pages: 53
 Extraction status: ok
 
@@ -48072,8 +48072,8 @@ Underweight (비중축소)
 ## Document 356: [產業] 2026년 9월 주요 유통업체 및 면세점 매출 동향 - 교보증권
 
 Source PDF: all report pdf/[產業] 2026년 9월 주요 유통업체 및 면세점 매출 동향 - 교보증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -52588,8 +52588,8 @@ Compliance Notice
 ## Document 405: [產業] [유안타이슈테마] 해킹! 해킹! 해킹! - 유안타증권
 
 Source PDF: all report pdf/[產業] [유안타이슈테마] 해킹! 해킹! 해킹! - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -61432,8 +61432,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 550: [總經] 10_29, Kiwoom Morning Letter - 키움증권
 
 Source PDF: all report pdf/[總經] 10_29, Kiwoom Morning Letter - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 

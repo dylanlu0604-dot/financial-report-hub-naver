@@ -4021,8 +4021,8 @@ Compliance notice
 ## Document 056: [債券] 지금 프랑스에선 국채 보다 회사채 금리가 더 낮다 - 대신증권
 
 Source PDF: all report pdf/[債券] 지금 프랑스에선 국채 보다 회사채 금리가 더 낮다 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -4785,8 +4785,8 @@ USD/CNH WTI    브렌트유
 ## Document 086: [公司] [000660] SK하이닉스 - 거를 타선이 없었던 실적 - 신한투자증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 거를 타선이 없었던 실적 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -5396,8 +5396,8 @@ Compliance Notice
 ## Document 090: [公司] [000660] SK하이닉스 - 실적은 우려를 불식시킬 것 - IBK투자증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 실적은 우려를 불식시킬 것 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -9305,8 +9305,8 @@ Compliance Notice
 ## Document 134: [公司] [009150] 삼성전기 - 중장기 수혜 가시성 상향, 끊임없이 증명하는 중 - 키움증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 중장기 수혜 가시성 상향, 끊임없이 증명하는 중 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -9938,8 +9938,8 @@ Universe: MSCI ACWI Index 전자 장비, 기기 및 부품 기업 235개
 ## Document 138: [公司] [028260] 삼성물산 - 바이오 부문 감익 불구 컨센서스 상회한 실적 - 유진투자증권
 
 Source PDF: all report pdf/[公司] [028260] 삼성물산 - 바이오 부문 감익 불구 컨센서스 상회한 실적 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -25384,7 +25384,7 @@ CHINA
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-10-30
 Pages: 3
 Extraction status: ok
 

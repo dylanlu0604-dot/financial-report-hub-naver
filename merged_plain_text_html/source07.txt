@@ -3122,8 +3122,8 @@ USD/CNH WTI    브렌트유
 ## Document 083: [公司] [000660] SK하이닉스 - 4Q26 영업이익 105조원 전망 - 키움증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 4Q26 영업이익 105조원 전망 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -3395,8 +3395,8 @@ Compliance Notice
 ## Document 084: [公司] [000660] SK하이닉스 - 4Q26 예상 영업이익 118.2조원 - 유안타증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 4Q26 예상 영업이익 118.2조원 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
@@ -5706,8 +5706,8 @@ Compliance Notice
 ## Document 135: [公司] [009150] 삼성전기 - 최고의 타이밍 - 신한투자증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 최고의 타이밍 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -6180,8 +6180,8 @@ Compliance Notice
 ## Document 140: [公司] [028260] 삼성물산 - 실적도 좋고! 가이던스 상향까지 자신감 뿜뿜! - 유안타증권
 
 Source PDF: all report pdf/[公司] [028260] 삼성물산 - 실적도 좋고! 가이던스 상향까지 자신감 뿜뿜! - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -6662,8 +6662,8 @@ Appendix
 ## Document 141: [公司] [028260] 삼성물산 - 자체사업, 밸류에이션, 삼성전자 주가 반등 가능성을 보자 - SK증권
 
 Source PDF: all report pdf/[公司] [028260] 삼성물산 - 자체사업, 밸류에이션, 삼성전자 주가 반등 가능성을 보자 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -6981,8 +6981,8 @@ SK 증권 유니버스 투자등급 비율 (2026 년 10 월 29 일 기준)  매�
 ## Document 167: [投資] 10_29 달러, 금리 동결 속 약보합 - 키움증권
 
 Source PDF: all report pdf/[投資] 10_29 달러, 금리 동결 속 약보합 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -7640,8 +7640,8 @@ WTI(우)
 ## Document 168: [投資] 10_29, 이익 vs 현금흐름, 이 둘 사이에서 벌어지는 시장 공방전 - 키움증권
 
 Source PDF: all report pdf/[投資] 10_29, 이익 vs 현금흐름, 이 둘 사이에서 벌어지는 시장 공방전 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -8518,8 +8518,8 @@ WTI(우)
 ## Document 203: [投資] [2027 중국 주식시장 전망] 실버 라이닝 - 신한투자증권
 
 Source PDF: all report pdf/[投資] [2027 중국 주식시장 전망] 실버 라이닝 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 36
 Extraction status: ok
 
@@ -11382,8 +11382,8 @@ Compliance Notice
 ## Document 206: [投資] [2027년 ETF 투자전략] Cooling Down - 유안타증권
 
 Source PDF: all report pdf/[投資] [2027년 ETF 투자전략] Cooling Down - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 100
 Extraction status: ok
 
@@ -62734,7 +62734,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-02
 Pages: 5
 Extraction status: ok
 
@@ -63091,8 +63091,8 @@ Compliance Notice
 ## Document 608: [總經] 인상 여지, 긴축과는 거리두기 - 신한투자증권
 
 Source PDF: all report pdf/[總經] 인상 여지, 긴축과는 거리두기 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 

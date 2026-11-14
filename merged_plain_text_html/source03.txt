@@ -4615,8 +4615,8 @@ OpFCF 10,395  7,301  7,103  7,129  5,496   자기자본 91.8  93.9  95.7  96.7  
 ## Document 126: [公司] [009150] 삼성전기 - 2027년까지 매 분기 QoQ 증익 구간 - iM증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 2027년까지 매 분기 QoQ 증익 구간 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -5358,8 +5358,8 @@ SK 증권 유니버스 투자등급 비율 (2026 년 11 월 13 일 기준)  매�
 ## Document 133: [公司] [009150] 삼성전기 - 전방수요 지속 상향조정 중 - 하나증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 전방수요 지속 상향조정 중 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -7602,8 +7602,8 @@ Compliance Notice
 ## Document 204: [投資] [2027 한국 주식시장 전망] 초과이익의 유효 기간 - 신한투자증권
 
 Source PDF: all report pdf/[投資] [2027 한국 주식시장 전망] 초과이익의 유효 기간 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 30
 Extraction status: ok
 
@@ -12187,8 +12187,8 @@ IT H/W
 ## Document 220: [投資] [EPS LIVE #234] 11월부터 6개월, 진짜모멘텀 TOP10 종목 - 한화투자증권
 
 Source PDF: all report pdf/[投資] [EPS LIVE #234] 11월부터 6개월, 진짜모멘텀 TOP10 종목 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 24
 Extraction status: ok
 
@@ -36695,7 +36695,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-03
+Date: 2026-11-10
 Pages: 2
 Extraction status: ok
 
@@ -42032,8 +42032,8 @@ Compliance Notice
 ## Document 417: [產業] HD현대 조선 그룹 3Q26 Review - 하나증권
 
 Source PDF: all report pdf/[產業] HD현대 조선 그룹 3Q26 Review - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -49738,7 +49738,7 @@ Woodside Energy, 글로벌 일자리의 10% 이상을 감축할 전망 Suncor En
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-04
+Date: 2026-10-30
 Pages: 4
 Extraction status: ok
 

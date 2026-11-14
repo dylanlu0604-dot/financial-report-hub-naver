@@ -6,8 +6,8 @@ NotebookLM import text with Markdown headings for each report, source PDF, and p
 ## Document 002: [債券] 10월 FOMC Review; 금융안정도 같이 본다 - 키움증권
 
 Source PDF: all report pdf/[債券] 10월 FOMC Review; 금융안정도 같이 본다 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -276,8 +276,8 @@ Compliance Notice
 ## Document 006: [債券] 10월 FOMC_ 추가 긴축과 10년물 5% 공방 - iM증권
 
 Source PDF: all report pdf/[債券] 10월 FOMC_ 추가 긴축과 10년물 5% 공방 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -557,8 +557,8 @@ Compliance notice
 ## Document 009: [債券] [10월 FOMC Review] 동결. 성장은 강하지만 인상은 점진적으로 - SK증권
 
 Source PDF: all report pdf/[債券] [10월 FOMC Review] 동결. 성장은 강하지만 인상은 점진적으로 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -7332,8 +7332,8 @@ Compliance Notice
 ## Document 092: [公司] [000660] SK하이닉스 - 이번은 다르다고 할 수 있는 근거 - 유진투자증권
 
 Source PDF: all report pdf/[公司] [000660] SK하이닉스 - 이번은 다르다고 할 수 있는 근거 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -26984,8 +26984,8 @@ CJ ENM
 ## Document 368: [產業] 9월 주요 유통업체 매출 동향 - 11월 백화점 반등 기대 - 한화투자증권
 
 Source PDF: all report pdf/[產業] 9월 주요 유통업체 매출 동향 - 11월 백화점 반등 기대 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -32431,8 +32431,8 @@ Appendix
 ## Document 406: [產業] [유통업체 매출 동향] 9월_ 경기 부진이 보이는 실적 - IBK투자증권
 
 Source PDF: all report pdf/[產業] [유통업체 매출 동향] 9월_ 경기 부진이 보이는 실적 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-29
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
