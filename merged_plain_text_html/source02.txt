@@ -2991,8 +2991,8 @@ AM 10/6이후 ΔNet LF 10/6이후 ΔNet(계약)
 ## Document 044: [債券] 중간선거와 QRA - 신한투자증권
 
 Source PDF: all report pdf/[債券] 중간선거와 QRA - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 14
 Extraction status: ok
 
@@ -6799,8 +6799,8 @@ Compliance Notice
 ## Document 079: [公司] [005380] 현대차 - 저점을 받쳐줄 실적 - 대신증권
 
 Source PDF: all report pdf/[公司] [005380] 현대차 - 저점을 받쳐줄 실적 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 10
 Extraction status: ok
 
@@ -7368,8 +7368,8 @@ Adj. Price Adj. Target Price(원)
 ## Document 090: [公司] [005930] 삼성전자 - 초우량 고성장 파격 세일 중 - 미래에셋증권
 
 Source PDF: all report pdf/[公司] [005930] 삼성전자 - 초우량 고성장 파격 세일 중 - 미래에셋증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -7410,8 +7410,8 @@ Extraction status: ok
 ## Document 099: [公司] [006400] 삼성SDI - 훌륭한 실적과 미래에 대한 기대감 - 유진투자증권
 
 Source PDF: all report pdf/[公司] [006400] 삼성SDI - 훌륭한 실적과 미래에 대한 기대감 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -7671,8 +7671,8 @@ Compliance Notice
 ## Document 115: [公司] [105560] KB금융 - 보수적 비용 반영, 주주환원 여력 양호 - 유안타증권
 
 Source PDF: all report pdf/[公司] [105560] KB금융 - 보수적 비용 반영, 주주환원 여력 양호 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -28656,8 +28656,8 @@ Compliance Notices
 ## Document 320: [產業] [Alphabet] 2026년 3분기 실적 발표 정리 - IBK투자증권
 
 Source PDF: all report pdf/[產業] [Alphabet] 2026년 3분기 실적 발표 정리 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -41554,8 +41554,8 @@ LG화학 수정TP(원)
 ## Document 489: [總經] 10_30 Weekly Macro _ 주요 이벤트 집중, 금융시장 향방에 주목 - 키움증권
 
 Source PDF: all report pdf/[總經] 10_30 Weekly Macro _ 주요 이벤트 집중, 금융시장 향방에 주목 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 

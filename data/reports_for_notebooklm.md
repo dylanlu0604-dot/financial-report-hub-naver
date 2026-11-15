@@ -208,6 +208,10 @@
 來源: Naver Securities | 日期: 2026-11-12 | 頁數: 50 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%202027%20%EC%97%B0%EA%B0%84%EC%A0%84%EB%A7%9D_%20%EB%B0%98%EB%93%B1%20%EA%B0%80%EB%8A%A5%ED%95%9C%21%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
+### [產業] 안녕하세요 데일리에요 (로봇/방산/조선) - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-12 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%97%90%EC%9A%94%20%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [產業] 10 월 여수신 동향 – 조달 포트폴리오 악화는 ing 형 - SK증권
 來源: Naver Securities | 日期: 2026-11-12 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%2010%20%EC%9B%94%20%EC%97%AC%EC%88%98%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%E2%80%93%20%EC%A1%B0%EB%8B%AC%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%95%85%ED%99%94%EB%8A%94%20ing%20%ED%98%95%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
@@ -215,6 +219,10 @@
 ### [產業] 은행/증권 국고채 PD 담합 과징금 관련 Comment - SK증권
 來源: Naver Securities | 日期: 2026-11-12 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%9D%80%ED%96%89_%EC%A6%9D%EA%B6%8C%20%EA%B5%AD%EA%B3%A0%EC%B1%84%20PD%20%EB%8B%B4%ED%95%A9%20%EA%B3%BC%EC%A7%95%EA%B8%88%20%EA%B4%80%EB%A0%A8%20Comment%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
+
+### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
+來源: Naver Securities | 日期: 2026-11-12 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [產業] [2027년 건설 연간전망] 테크 산업과 친해진 업황 - 키움증권
 來源: Naver Securities | 日期: 2026-11-12 | 頁數: 73 頁
@@ -280,6 +288,10 @@
 來源: Naver Securities | 日期: 2026-11-12 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%B1%84%EA%B6%8C%20Daily%20%2826.11.12%29%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
 
+### [債券] Eugenes FICC Update - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-12 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [公司] [068270] 셀트리온 - Golden Decade, 셀트리온의 시간 - 미래에셋증권
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 48 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B068270%5D%20%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%20-%20Golden%20Decade%2C%20%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%EC%9D%98%20%EC%8B%9C%EA%B0%84%20-%20%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C.pdf)
@@ -340,9 +352,17 @@
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 83 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%A0%95%EC%B1%85%EA%B3%BC%20%EB%B9%84%EC%9A%A9%20%ED%8C%8C%EB%8F%84%ED%83%80%EA%B8%B0%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
 
+### [產業] 안녕하세요 데일리에요 (로봇/방산/조선) - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-11 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%97%90%EC%9A%94%20%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [產業] Weekly Amazon Beauty Check - SK증권
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 10 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20Weekly%20Amazon%20Beauty%20Check%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
+
+### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
+來源: Naver Securities | 日期: 2026-11-11 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] [실전 퀀트] 강력한 분할 매수 시그널(Feat. 지금이니?!) - 하나증권
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 15 頁
@@ -355,6 +375,10 @@
 ### [投資] 美 중간선거 이후.. 블루웨이브, 바뀌는 건 속도와 간섭뿐 - 대신증권
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 99 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%E7%BE%8E%20%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%20%EC%9D%B4%ED%9B%84..%20%EB%B8%94%EB%A3%A8%EC%9B%A8%EC%9D%B4%EB%B8%8C%2C%20%EB%B0%94%EB%80%8C%EB%8A%94%20%EA%B1%B4%20%EC%86%8D%EB%8F%84%EC%99%80%20%EA%B0%84%EC%84%AD%EB%BF%90%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
+
+### [投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권
+來源: Naver Securities | 日期: 2026-11-11 | 頁數: 24 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%99%B8%EA%B5%AD%EC%9D%B8%20%EB%A7%A4%EB%8F%84%20%EC%A0%90%EA%B2%80%2C%20%EB%B3%80%EB%8F%99%EC%84%B1%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%9E%AC%EC%9C%A0%EC%9E%85%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] AI 우려 & 매크로 부담 완화, KOSPI·KOSDAQ 매수 사이드카 - 대신증권
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 3 頁
@@ -432,6 +456,10 @@
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%5B%EC%B1%84%EA%B6%8C%20COMMENT%5D%20%EB%B9%85%EC%8A%A4%ED%85%9D%20%EC%95%84%EB%8B%88%EC%96%B4%EB%8F%84%20%EA%B8%88%EB%A6%AC%EB%8A%94%20%EC%97%B0%EB%A7%90%EA%B9%8C%EC%A7%80%20%EC%83%81%EC%8A%B9%20%EC%95%95%EB%A0%A5%20%EC%9A%B0%EC%9C%84%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
 
+### [債券] Eugenes FICC Update - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-11 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [債券] 여전히 남아 있는 물가 리스크 - 키움증권
 來源: Naver Securities | 日期: 2026-11-11 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%97%AC%EC%A0%84%ED%9E%88%20%EB%82%A8%EC%95%84%20%EC%9E%88%EB%8A%94%20%EB%AC%BC%EA%B0%80%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
@@ -484,10 +512,6 @@
 來源: Naver Securities | 日期: 2026-11-10 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%A7%80%EC%A0%95%ED%95%99%20%EC%9D%B4%EC%8A%88%EC%99%80%20%EB%8B%A8%EA%B8%B0%20%EA%B3%B5%EA%B8%89%20%EA%B3%BC%EC%9E%89%EC%9D%98%20%EA%B2%B0%EA%B3%BC%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
-來源: Naver Securities | 日期: 2026-11-10 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [產業] 의회가 바뀌어도 철강 관세는 남는다 - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-10 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%9D%98%ED%9A%8C%EA%B0%80%20%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84%20%EC%B2%A0%EA%B0%95%20%EA%B4%80%EC%84%B8%EB%8A%94%20%EB%82%A8%EB%8A%94%EB%8B%A4%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -499,10 +523,6 @@
 ### [投資] [Total ETF] 예정된 한계와 회복의 시간 - AI 자본조달 리스크와 매크로 환경의 연결고리 - 하나증권
 來源: Naver Securities | 日期: 2026-11-10 | 頁數: 104 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BTotal%20ETF%5D%20%EC%98%88%EC%A0%95%EB%90%9C%20%ED%95%9C%EA%B3%84%EC%99%80%20%ED%9A%8C%EB%B3%B5%EC%9D%98%20%EC%8B%9C%EA%B0%84%20-%20AI%20%EC%9E%90%EB%B3%B8%EC%A1%B0%EB%8B%AC%20%EB%A6%AC%EC%8A%A4%ED%81%AC%EC%99%80%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%ED%99%98%EA%B2%BD%EC%9D%98%20%EC%97%B0%EA%B2%B0%EA%B3%A0%EB%A6%AC%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 이번 주 포커 s - 대신증권
-來源: Naver Securities | 日期: 2026-11-10 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%9D%B4%EB%B2%88%20%EC%A3%BC%20%ED%8F%AC%EC%BB%A4%20s%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] 주간 금리·환율 전망 - 대신증권
 來源: Naver Securities | 日期: 2026-11-10 | 頁數: 2 頁
@@ -584,10 +604,6 @@
 來源: Naver Securities | 日期: 2026-11-10 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Daily%20Bond%20Morning%20Brief%282026.11.09%29%20-%20%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [債券] Eugenes FICC Update - 유진투자증권
-來源: Naver Securities | 日期: 2026-11-10 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [債券] 주가와 수출은 별개다 - iM증권
 來源: Naver Securities | 日期: 2026-11-10 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%A3%BC%EA%B0%80%EC%99%80%20%EC%88%98%EC%B6%9C%EC%9D%80%20%EB%B3%84%EA%B0%9C%EB%8B%A4%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
@@ -664,10 +680,6 @@
 來源: Naver Securities | 日期: 2026-11-09 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%B0%98%EB%8F%84%EC%B2%B4%20Valuation%20Call%20from%20Hawaii_%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%8C%90%EB%8B%A8%ED%95%98%EB%8A%94%20%EB%8B%A8%20%ED%95%98%EB%82%98%EC%9D%98%20%EA%B8%B0%EC%A4%80%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] 디지털 자산 Daily - 유안타증권
-來源: Naver Securities | 日期: 2026-11-09 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%9E%90%EC%82%B0%20Daily%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [產業] 기회 - SK증권
 來源: Naver Securities | 日期: 2026-11-09 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EA%B8%B0%ED%9A%8C%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
@@ -699,10 +711,6 @@
 ### [產業] 키움 엔터테인먼트 Weekly: 11월2주차 - 키움증권
 來源: Naver Securities | 日期: 2026-11-09 | 頁數: 12 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%82%A4%EC%9B%80%20%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20Weekly_%2011%EC%9B%942%EC%A3%BC%EC%B0%A8%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
-來源: Naver Securities | 日期: 2026-11-09 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [產業] [Telecom Weekly] 미 중간선거 블루스윕 이후 신규 데이터센터 투자 우려 확대 - iM증권
 來源: Naver Securities | 日期: 2026-11-09 | 頁數: 12 頁
@@ -956,10 +964,6 @@
 來源: Naver Securities | 日期: 2026-11-09 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EB%B9%A0%EB%A5%B4%EA%B2%8C%20%EB%82%B4%EB%A0%A4%EC%98%A8%20%EA%B8%88%EB%A6%AC%2C%20%EC%B6%94%EA%B0%80%20%EB%A7%A4%EC%88%98%EC%9D%98%20%EC%A1%B0%EA%B1%B4%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
 
-### [債券] Eugenes FICC Update - 유진투자증권
-來源: Naver Securities | 日期: 2026-11-09 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [債券] 11/09 Kiwoom Fixed Income Weekly Review - 키움증권
 來源: Naver Securities | 日期: 2026-11-09 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%2011_09%20Kiwoom%20Fixed%20Income%20Weekly%20Review%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
@@ -1032,9 +1036,9 @@
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%AF%B8%EA%B5%AD%20%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%20%EA%B2%B0%EA%B3%BC%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%A3%BC%EC%9A%94%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%82%B0%EC%97%85%20%EC%98%81%ED%96%A5%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] 안녕하세요 데일리에요 (로봇/방산/조선) - 유진투자증권
+### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%97%90%EC%9A%94%20%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] (Spot)미 중간선거 이후 증시 급락 comment - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 8 頁
@@ -1084,6 +1088,10 @@
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2011_06%2C%20AI%20%ED%88%AC%EC%9E%90%20%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%B6%95%EC%86%8C%20%EB%B6%88%EC%95%88%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B8%20AI%20%ED%8C%A8%EB%8B%89%EC%85%80%EB%A7%81%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
 
+### [投資] ESG snapshot - SK증권
+來源: Naver Securities | 日期: 2026-11-06 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20ESG%20snapshot%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [投資] 11/06 달러, 안전자산 선호에 강보합 - 키움증권
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2011_06%20%EB%8B%AC%EB%9F%AC%2C%20%EC%95%88%EC%A0%84%EC%9E%90%EC%82%B0%20%EC%84%A0%ED%98%B8%EC%97%90%20%EA%B0%95%EB%B3%B4%ED%95%A9%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
@@ -1099,6 +1107,10 @@
 ### [債券] 채권 Daily (26.11.06) - 유안타증권
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%B1%84%EA%B6%8C%20Daily%20%2826.11.06%29%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
+
+### [債券] Eugenes FICC Update - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-06 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [債券] [IBKS Bond Inside] 현재 커브에 담긴 재료와 체로 남길 질문 - IBK투자증권
 來源: Naver Securities | 日期: 2026-11-06 | 頁數: 1 頁
@@ -1140,6 +1152,10 @@
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BESG%5D%20%ED%98%B8%EB%B0%98%2C%20%EC%82%B0%EC%9D%80%EC%9C%BC%EB%A1%9C%EB%8A%94%20%EB%B6%80%EC%A1%B1%ED%95%98%EA%B3%A0%20%EB%8B%A4%EC%9D%8C%20%EB%B3%80%EC%88%98%EB%8A%94%20%EB%8D%B8%ED%83%80%ED%95%AD%EA%B3%B5%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
+### [產業] 디지털 자산 Daily - 유안타증권
+來源: Naver Securities | 日期: 2026-11-05 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%9E%90%EC%82%B0%20Daily%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [產業] 2027, 왜 다시 2차전지인가 - 유안타증권
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 57 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%202027%2C%20%EC%99%9C%20%EB%8B%A4%EC%8B%9C%202%EC%B0%A8%EC%A0%84%EC%A7%80%EC%9D%B8%EA%B0%80%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
@@ -1156,10 +1172,6 @@
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%2010%EC%9B%94%20%EB%AF%B8%EA%B5%AD%20%EC%8B%A0%EC%B0%A8%20%ED%8C%90%EB%A7%A4%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] 안녕하세요 데일리에요 (로봇/방산/조선) - 유진투자증권
-來源: Naver Securities | 日期: 2026-11-05 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%97%90%EC%9A%94%20%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [產業] 스페이스X - 퀄컴 딜에서 기회 찾아보기 - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X%20-%20%ED%80%84%EC%BB%B4%20%EB%94%9C%EC%97%90%EC%84%9C%20%EA%B8%B0%ED%9A%8C%20%EC%B0%BE%EC%95%84%EB%B3%B4%EA%B8%B0%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -1167,10 +1179,6 @@
 ### [產業] 美 블루 쓰나미, 그린산업 전체에 훈풍 - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%E7%BE%8E%20%EB%B8%94%EB%A3%A8%20%EC%93%B0%EB%82%98%EB%AF%B8%2C%20%EA%B7%B8%EB%A6%B0%EC%82%B0%EC%97%85%20%EC%A0%84%EC%B2%B4%EC%97%90%20%ED%9B%88%ED%92%8D%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
-來源: Naver Securities | 日期: 2026-11-05 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [產業] 2027년 전망: 은행 중심 방어력이 관건이 되는 구간 - iM증권
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 44 頁
@@ -1260,10 +1268,6 @@
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Daily%20Bond%20Morning%20Brief%282026.11.05%29%20-%20%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [債券] Eugenes FICC Update - 유진투자증권
-來源: Naver Securities | 日期: 2026-11-05 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [債券] 은행채 발행 급증의 배경 - 신한투자증권
 來源: Naver Securities | 日期: 2026-11-05 | 頁數: 8 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%9D%80%ED%96%89%EC%B1%84%20%EB%B0%9C%ED%96%89%20%EA%B8%89%EC%A6%9D%EC%9D%98%20%EB%B0%B0%EA%B2%BD%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -1336,10 +1340,6 @@
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BESG%5D%20%ED%98%B8%EB%B0%98%EC%9D%B4%20%EC%B5%9C%EB%8C%80%EC%A3%BC%EC%A3%BC%EA%B0%80%20%EB%90%98%EB%A9%B4%20%EB%B0%94%EB%80%8C%EB%8A%94%20%EA%B0%90%EC%82%AC%EC%9C%84%EC%9B%90%20%ED%91%9C%20%EC%85%88%EB%B2%95%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] 디지털 자산 Daily - 유안타증권
-來源: Naver Securities | 日期: 2026-11-04 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%9E%90%EC%82%B0%20Daily%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [產業] 통신 Weekly - 통신3사 3Q26 실적 발표 기간 돌입 - 유안타증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 8 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%86%B5%EC%8B%A0%20Weekly%20-%20%ED%86%B5%EC%8B%A03%EC%82%AC%203Q26%20%EC%8B%A4%EC%A0%81%20%EB%B0%9C%ED%91%9C%20%EA%B8%B0%EA%B0%84%20%EB%8F%8C%EC%9E%85%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
@@ -1351,10 +1351,6 @@
 ### [產業] 한진칼 지분 경쟁 재점화, 결국 답은 대한항공 - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%95%9C%EC%A7%84%EC%B9%BC%20%EC%A7%80%EB%B6%84%20%EA%B2%BD%EC%9F%81%20%EC%9E%AC%EC%A0%90%ED%99%94%2C%20%EA%B2%B0%EA%B5%AD%20%EB%8B%B5%EC%9D%80%20%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 안녕하세요 데일리에요 (로봇/방산/조선) - 유진투자증권
-來源: Naver Securities | 日期: 2026-11-04 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%97%90%EC%9A%94%20%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [產業] [AMD] 26년 3분기 실적 리뷰 - IBK투자증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 4 頁
@@ -1376,17 +1372,9 @@
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%B2%A0%EA%B0%95%20Weekly%20-%20%EB%A6%AC%ED%8A%AC%20%EA%B0%80%EA%B2%A9%2C%20%ED%8E%80%EB%8D%94%EB%A9%98%ED%83%88%20%EC%9D%B4%EC%83%81%EC%9D%98%20%ED%95%98%EB%9D%BD%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
-來源: Naver Securities | 日期: 2026-11-04 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [產業] 한진칼 경영권 분쟁은 장기 레이스, 단기 주가 급등은 부담 - iM증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%95%9C%EC%A7%84%EC%B9%BC%20%EA%B2%BD%EC%98%81%EA%B6%8C%20%EB%B6%84%EC%9F%81%EC%9D%80%20%EC%9E%A5%EA%B8%B0%20%EB%A0%88%EC%9D%B4%EC%8A%A4%2C%20%EB%8B%A8%EA%B8%B0%20%EC%A3%BC%EA%B0%80%20%EA%B8%89%EB%93%B1%EC%9D%80%20%EB%B6%80%EB%8B%B4%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] Weekly Amazon Beauty Check - SK증권
-來源: Naver Securities | 日期: 2026-11-04 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20Weekly%20Amazon%20Beauty%20Check%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] 11/04, 미국 중간선거 이후에도 주식시장에서 변하지 않은 것들 - 키움증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 4 頁
@@ -1399,10 +1387,6 @@
 ### [投資] AI 자금조달 우려 재점화, 미 중간선거를 앞둔 경계심리까지 - 대신증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20AI%20%EC%9E%90%EA%B8%88%EC%A1%B0%EB%8B%AC%20%EC%9A%B0%EB%A0%A4%20%EC%9E%AC%EC%A0%90%ED%99%94%2C%20%EB%AF%B8%20%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%EB%A5%BC%20%EC%95%9E%EB%91%94%20%EA%B2%BD%EA%B3%84%EC%8B%AC%EB%A6%AC%EA%B9%8C%EC%A7%80%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 이번 주 포커 s - 대신증권
-來源: Naver Securities | 日期: 2026-11-04 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%9D%B4%EB%B2%88%20%EC%A3%BC%20%ED%8F%AC%EC%BB%A4%20s%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] KRICS: 산업분류 변화에서 지수·ETF 영향까지 - 신한투자증권
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 8 頁
@@ -1456,10 +1440,6 @@
 來源: Naver Securities | 日期: 2026-11-04 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Daily%20Bond%20Morning%20Brief%282026.11.04%29%20-%20%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [債券] Eugenes FICC Update - 유진투자증권
-來源: Naver Securities | 日期: 2026-11-04 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [公司] [068270] 셀트리온 - 신규 시밀러 견인 성장 확인 - 유안타증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 9 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B068270%5D%20%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8%20-%20%EC%8B%A0%EA%B7%9C%20%EC%8B%9C%EB%B0%80%EB%9F%AC%20%EA%B2%AC%EC%9D%B8%20%EC%84%B1%EC%9E%A5%20%ED%99%95%EC%9D%B8%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
@@ -1500,10 +1480,6 @@
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%82%AE%EC%9D%80%20%EC%A3%BC%EA%B0%80%EB%A5%BC%20%EA%B7%B8%EB%83%A5%20%EB%91%90%EB%A9%B4%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EC%9D%BC%28feat.%20%EC%83%98%ED%91%9C%29%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권
-來源: Naver Securities | 日期: 2026-11-03 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BESG%20%26%20Transition%5D%20%ED%86%B5%ED%82%A4%5B%E9%80%9A%20Keys%5D%20Transition%20Weekly%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [產業] [ESG] 저PBR 공표 이후, 개선 계획과 주주환원 이행에 주목 - 한화투자증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 10 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BESG%5D%20%EC%A0%80PBR%20%EA%B3%B5%ED%91%9C%20%EC%9D%B4%ED%9B%84%2C%20%EA%B0%9C%EC%84%A0%20%EA%B3%84%ED%9A%8D%EA%B3%BC%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%20%EC%9D%B4%ED%96%89%EC%97%90%20%EC%A3%BC%EB%AA%A9%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -1520,6 +1496,10 @@
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 76 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EA%B3%B5%EC%8B%9C%20%EB%B3%80%ED%99%94%2C%20%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B2%83%EB%93%A4%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
+### [產業] 안녕하세요 데일리에요 (로봇/방산/조선) - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-03 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%97%90%EC%9A%94%20%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [產業] 마벨의 루멘텀 인수, A+B는 명확하나 AxB는 아직 - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%A7%88%EB%B2%A8%EC%9D%98%20%EB%A3%A8%EB%A9%98%ED%85%80%20%EC%9D%B8%EC%88%98%2C%20A%2BB%EB%8A%94%20%EB%AA%85%ED%99%95%ED%95%98%EB%82%98%20AxB%EB%8A%94%20%EC%95%84%EC%A7%81%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -1527,6 +1507,10 @@
 ### [產業] [IBKS Monthly] 자동차/2차전지 - IBK투자증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 42 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Monthly%5D%20%EC%9E%90%EB%8F%99%EC%B0%A8_2%EC%B0%A8%EC%A0%84%EC%A7%80%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
+### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
+來源: Naver Securities | 日期: 2026-11-03 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [產業] K-On&Beyond - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 64 頁
@@ -1547,10 +1531,6 @@
 ### [投資] 바닥은 PER이, 반등은 ‘AI 숫자‘가... 선거/물가에 흔들리면 분할 매수 - 대신증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 382 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EB%B0%94%EB%8B%A5%EC%9D%80%20PER%EC%9D%B4%2C%20%EB%B0%98%EB%93%B1%EC%9D%80%20%E2%80%98AI%20%EC%88%AB%EC%9E%90%E2%80%98%EA%B0%80...%20%EC%84%A0%EA%B1%B0_%EB%AC%BC%EA%B0%80%EC%97%90%20%ED%9D%94%EB%93%A4%EB%A6%AC%EB%A9%B4%20%EB%B6%84%ED%95%A0%20%EB%A7%A4%EC%88%98%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 주간 금리·환율 전망 - 대신증권
-來源: Naver Securities | 日期: 2026-11-03 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%A3%BC%EA%B0%84%20%EA%B8%88%EB%A6%AC%C2%B7%ED%99%98%EC%9C%A8%20%EC%A0%84%EB%A7%9D%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] 악재 선반영에 저가매수세 유입, 기관 순매수가 반등 견인 - 대신증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 3 頁
@@ -1607,6 +1587,10 @@
 ### [債券] Daily Bond Morning Brief(2026.11.03) - 다올투자증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 1 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Daily%20Bond%20Morning%20Brief%282026.11.03%29%20-%20%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
+### [債券] Eugenes FICC Update - 유진투자증권
+來源: Naver Securities | 日期: 2026-11-03 | 頁數: 2 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [債券] Weekly Credit Monitor - 신한투자증권
 來源: Naver Securities | 日期: 2026-11-03 | 頁數: 18 頁
@@ -1764,6 +1748,10 @@
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 3 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%82%A4%EC%9B%80%20%EC%9D%8C%EC%8B%9D%EB%A3%8C%20Weekly%20%2811_2%29%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
 
+### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
+來源: Naver Securities | 日期: 2026-11-02 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [產業] 9월 Auto Sales DataBook - 유진투자증권
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 48 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%209%EC%9B%94%20Auto%20Sales%20DataBook%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -1804,10 +1792,6 @@
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 4 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIntel%20Corporation%5D%2026%EB%85%84%203%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EC%A0%81%20%EB%A6%AC%EB%B7%B0%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권
-來源: Naver Securities | 日期: 2026-11-02 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BQuant%20Comment%5D%20%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EA%B0%84%20%EC%9D%B4%EC%9D%B5%20%EB%8F%99%ED%96%A5%20%EC%B2%B4%ED%81%AC%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [投資] [New K-ETF] 글로벌 메모리반도체 TOP3 채권혼합 액티브 - 하나증권
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BNew%20K-ETF%5D%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B0%98%EB%8F%84%EC%B2%B4%20TOP3%20%EC%B1%84%EA%B6%8C%ED%98%BC%ED%95%A9%20%EC%95%A1%ED%8B%B0%EB%B8%8C%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
@@ -1843,6 +1827,14 @@
 ### [投資] Kiwoom ETF Weekly (11/02) - 키움증권
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 6 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20Kiwoom%20ETF%20Weekly%20%2811_02%29%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
+
+### [投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권
+來源: Naver Securities | 日期: 2026-11-02 | 頁數: 53 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%A0%84%ED%99%94%EC%9C%84%EB%B3%B5%28%E8%BD%89%E7%A6%8D%E7%88%B2%E7%A6%8F%29%20%EB%B9%84%EC%A0%95%EC%83%81%EC%9D%98%20%EC%A0%95%EC%83%81%ED%99%94%2C%20%EA%B7%B8%20%EC%9D%B4%ED%9B%84%EC%9D%98%20%EC%8B%9C%EA%B0%84%ED%91%9C%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
+
+### [投資] 이번 주 포커 s - 대신증권
+來源: Naver Securities | 日期: 2026-11-02 | 頁數: 1 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%9D%B4%EB%B2%88%20%EC%A3%BC%20%ED%8F%AC%EC%BB%A4%20s%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
 
 ### [投資] 높았던 기대만큼 깊어진 실망, 흔들리는 AI·반도체 신뢰 - 대신증권
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 3 頁
@@ -1948,6 +1940,14 @@
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20AI%EB%B0%9C%20%EA%B3%B5%ED%8F%AC%20%EB%93%B1%20%EC%97%AC%EB%9F%AC%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%97%90%20%EC%A7%81%EB%A9%B4%ED%95%9C%20%EB%8B%AC%EB%9F%AC%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
 
+### [總經] 신한 Econ Check-up - 신한투자증권
+來源: Naver Securities | 日期: 2026-11-02 | 頁數: 5 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20%EC%8B%A0%ED%95%9C%20Econ%20Check-up%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
+### [總經] 신한 FX Check-up - 신한투자증권
+來源: Naver Securities | 日期: 2026-11-02 | 頁數: 4 頁
+[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20%EC%8B%A0%ED%95%9C%20FX%20Check-up%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
+
 ### [債券] [2027년 국내 크레딧시장 전망] 방향은 강세, 강도는 수급이 결정 (PPT) - 신한투자증권
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 58 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%5B2027%EB%85%84%20%EA%B5%AD%EB%82%B4%20%ED%81%AC%EB%A0%88%EB%94%A7%EC%8B%9C%EC%9E%A5%20%EC%A0%84%EB%A7%9D%5D%20%EB%B0%A9%ED%96%A5%EC%9D%80%20%EA%B0%95%EC%84%B8%2C%20%EA%B0%95%EB%8F%84%EB%8A%94%20%EC%88%98%EA%B8%89%EC%9D%B4%20%EA%B2%B0%EC%A0%95%20%28PPT%29%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
@@ -1984,307 +1984,7 @@
 來源: Naver Securities | 日期: 2026-11-02 | 頁數: 5 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%2010%EC%9B%94%20BOJ_%20%EC%96%B4%EB%94%98%EA%B0%80%20%EC%9D%B5%EC%88%99%ED%95%9C%20%EB%A7%9B%2C%20%EC%9D%B8%EC%83%81%20%EC%9D%98%EC%A7%80%EB%8A%94%20%EC%9E%AC%ED%99%95%EC%9D%B8%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 
-### [公司] [005930] 삼성전자 - 초우량 고성장 파격 세일 중 - 미래에셋증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%20%EC%B4%88%EC%9A%B0%EB%9F%89%20%EA%B3%A0%EC%84%B1%EC%9E%A5%20%ED%8C%8C%EA%B2%A9%20%EC%84%B8%EC%9D%BC%20%EC%A4%91%20-%20%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [105560] KB금융 - 주주환원정책 고도화 가능성. 업종내 가장 편안한 투자처 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B105560%5D%20KB%EA%B8%88%EC%9C%B5%20-%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%EC%A0%95%EC%B1%85%20%EA%B3%A0%EB%8F%84%ED%99%94%20%EA%B0%80%EB%8A%A5%EC%84%B1.%20%EC%97%85%EC%A2%85%EB%82%B4%20%EA%B0%80%EC%9E%A5%20%ED%8E%B8%EC%95%88%ED%95%9C%20%ED%88%AC%EC%9E%90%EC%B2%98%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 4분기 판매 반등, 로보틱스는 실행 국면 진입 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%204%EB%B6%84%EA%B8%B0%20%ED%8C%90%EB%A7%A4%20%EB%B0%98%EB%93%B1%2C%20%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4%EB%8A%94%20%EC%8B%A4%ED%96%89%20%EA%B5%AD%EB%A9%B4%20%EC%A7%84%EC%9E%85%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - 가파르게 증가하는 신규 수주 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%EA%B0%80%ED%8C%8C%EB%A5%B4%EA%B2%8C%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EC%8B%A0%EA%B7%9C%20%EC%88%98%EC%A3%BC%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 3Q26 Review 사상 최대 실적, 메모리가 이끌었다 - 교보증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%203Q26%20Review%20%EC%82%AC%EC%83%81%20%EC%B5%9C%EB%8C%80%20%EC%8B%A4%EC%A0%81%2C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B0%80%20%EC%9D%B4%EB%81%8C%EC%97%88%EB%8B%A4%20-%20%EA%B5%90%EB%B3%B4%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 2027년 영업이익 전망치 상향으로 방향 전환 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%202027%EB%85%84%20%EC%98%81%EC%97%85%EC%9D%B4%EC%9D%B5%20%EC%A0%84%EB%A7%9D%EC%B9%98%20%EC%83%81%ED%96%A5%EC%9C%BC%EB%A1%9C%20%EB%B0%A9%ED%96%A5%20%EC%A0%84%ED%99%98%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - 3Q26 Review: 호실적, 앞으로가 더 기대 - 유안타증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%203Q26%20Review_%20%ED%98%B8%EC%8B%A4%EC%A0%81%2C%20%EC%95%9E%EC%9C%BC%EB%A1%9C%EA%B0%80%20%EB%8D%94%20%EA%B8%B0%EB%8C%80%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [028260] 삼성물산 - 체급이 달라지기 시작 - DS투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B028260%5D%20%EC%82%BC%EC%84%B1%EB%AC%BC%EC%82%B0%20-%20%EC%B2%B4%EA%B8%89%EC%9D%B4%20%EB%8B%AC%EB%9D%BC%EC%A7%80%EA%B8%B0%20%EC%8B%9C%EC%9E%91%20-%20DS%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 3Q26 Re: 왜 서프를 내고 주가는 하락했는가 - 유안타증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%203Q26%20Re_%20%EC%99%9C%20%EC%84%9C%ED%94%84%EB%A5%BC%20%EB%82%B4%EA%B3%A0%20%EC%A3%BC%EA%B0%80%EB%8A%94%20%ED%95%98%EB%9D%BD%ED%96%88%EB%8A%94%EA%B0%80%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 3Q26 Re: 추정치 추가 상향 - DS투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%203Q26%20Re_%20%EC%B6%94%EC%A0%95%EC%B9%98%20%EC%B6%94%EA%B0%80%20%EC%83%81%ED%96%A5%20-%20DS%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [105560] KB금융 - 보수적 비용 반영, 주주환원 여력 양호 - 유안타증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B105560%5D%20KB%EA%B8%88%EC%9C%B5%20-%20%EB%B3%B4%EC%88%98%EC%A0%81%20%EB%B9%84%EC%9A%A9%20%EB%B0%98%EC%98%81%2C%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%20%EC%97%AC%EB%A0%A5%20%EC%96%91%ED%98%B8%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 4Q26 예상 영업이익 137.3조원 - 유안타증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%204Q26%20%EC%98%88%EC%83%81%20%EC%98%81%EC%97%85%EC%9D%B4%EC%9D%B5%20137.3%EC%A1%B0%EC%9B%90%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 3Q26 리뷰: 실적 우려 있지만, BD 모멘텀 주목 - 미래에셋증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%203Q26%20%EB%A6%AC%EB%B7%B0_%20%EC%8B%A4%EC%A0%81%20%EC%9A%B0%EB%A0%A4%20%EC%9E%88%EC%A7%80%EB%A7%8C%2C%20BD%20%EB%AA%A8%EB%A9%98%ED%85%80%20%EC%A3%BC%EB%AA%A9%20-%20%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 생산 차질의 이연이 내년 성장으로 - 한화투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%20%EC%83%9D%EC%82%B0%20%EC%B0%A8%EC%A7%88%EC%9D%98%20%EC%9D%B4%EC%97%B0%EC%9D%B4%20%EB%82%B4%EB%85%84%20%EC%84%B1%EC%9E%A5%EC%9C%BC%EB%A1%9C%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [105560] KB금융 - 상대적인 선호도가 높아지는 국면 - 한화투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B105560%5D%20KB%EA%B8%88%EC%9C%B5%20-%20%EC%83%81%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%84%A0%ED%98%B8%EB%8F%84%EA%B0%80%20%EB%86%92%EC%95%84%EC%A7%80%EB%8A%94%20%EA%B5%AD%EB%A9%B4%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - HBM4 경쟁력 회복과 높아지는 이익의 눈높이 - 한화투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%20HBM4%20%EA%B2%BD%EC%9F%81%EB%A0%A5%20%ED%9A%8C%EB%B3%B5%EA%B3%BC%20%EB%86%92%EC%95%84%EC%A7%80%EB%8A%94%20%EC%9D%B4%EC%9D%B5%EC%9D%98%20%EB%88%88%EB%86%92%EC%9D%B4%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 결국 제자리를 찾아갈 것 - 대신증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%20%EA%B2%B0%EA%B5%AD%20%EC%A0%9C%EC%9E%90%EB%A6%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EA%B0%88%20%EA%B2%83%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - 더 오를 수 있다 - 대신증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%EB%8D%94%20%EC%98%A4%EB%A5%BC%20%EC%88%98%20%EC%9E%88%EB%8B%A4%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 저점을 받쳐줄 실적 - 대신증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 10 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%20%EC%A0%80%EC%A0%90%EC%9D%84%20%EB%B0%9B%EC%B3%90%EC%A4%84%20%EC%8B%A4%EC%A0%81%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - '각형' LFP로 국내 경쟁사들과 차별화 - SK증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%27%EA%B0%81%ED%98%95%27%20LFP%EB%A1%9C%20%EA%B5%AD%EB%82%B4%20%EA%B2%BD%EC%9F%81%EC%82%AC%EB%93%A4%EA%B3%BC%20%EC%B0%A8%EB%B3%84%ED%99%94%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 전인미답의 길 - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%20%EC%A0%84%EC%9D%B8%EB%AF%B8%EB%8B%B5%EC%9D%98%20%EA%B8%B8%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - 훌륭한 실적과 미래에 대한 기대감 - 유진투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%ED%9B%8C%EB%A5%AD%ED%95%9C%20%EC%8B%A4%EC%A0%81%EA%B3%BC%20%EB%AF%B8%EB%9E%98%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B8%B0%EB%8C%80%EA%B0%90%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 어려운 업황 속 돋보이는 방어력 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%97%85%ED%99%A9%20%EC%86%8D%20%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EB%B0%A9%EC%96%B4%EB%A0%A5%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 3Q26 Review: 4분기 실적 반등 기대감 Up - 유진투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%203Q26%20Review_%204%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EC%A0%81%20%EB%B0%98%EB%93%B1%20%EA%B8%B0%EB%8C%80%EA%B0%90%20Up%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - ESS가 바꾸는 이익의 방향 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20ESS%EA%B0%80%20%EB%B0%94%EA%BE%B8%EB%8A%94%20%EC%9D%B4%EC%9D%B5%EC%9D%98%20%EB%B0%A9%ED%96%A5%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [105560] KB금융 - 3Q26 Review: 탄탄. 비은행 경쟁력 부각 - SK증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B105560%5D%20KB%EA%B8%88%EC%9C%B5%20-%203Q26%20Review_%20%ED%83%84%ED%83%84.%20%EB%B9%84%EC%9D%80%ED%96%89%20%EA%B2%BD%EC%9F%81%EB%A0%A5%20%EB%B6%80%EA%B0%81%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - ESS에 대한 강한 자신감! - iM증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20ESS%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%95%ED%95%9C%20%EC%9E%90%EC%8B%A0%EA%B0%90%21%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 2027년 변화를 기다리며 - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%202027%EB%85%84%20%EB%B3%80%ED%99%94%EB%A5%BC%20%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%A9%B0%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 26.3Q Review: 이제 올라가야 할 때 - iM증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%2026.3Q%20Review_%20%EC%9D%B4%EC%A0%9C%20%EC%98%AC%EB%9D%BC%EA%B0%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [105560] KB금융 - 법인세 환급 영향 제외해도 안정적 이익체력 - iM증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B105560%5D%20KB%EA%B8%88%EC%9C%B5%20-%20%EB%B2%95%EC%9D%B8%EC%84%B8%20%ED%99%98%EA%B8%89%20%EC%98%81%ED%96%A5%20%EC%A0%9C%EC%99%B8%ED%95%B4%EB%8F%84%20%EC%95%88%EC%A0%95%EC%A0%81%20%EC%9D%B4%EC%9D%B5%EC%B2%B4%EB%A0%A5%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - 실적은 좋지만, 주주환원은 아쉽다 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 11 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%20%EC%8B%A4%EC%A0%81%EC%9D%80%20%EC%A2%8B%EC%A7%80%EB%A7%8C%2C%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%EC%9D%80%20%EC%95%84%EC%89%BD%EB%8B%A4%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - ESS가 이끌고, 신사업이 더한다 - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20ESS%EA%B0%80%20%EC%9D%B4%EB%81%8C%EA%B3%A0%2C%20%EC%8B%A0%EC%82%AC%EC%97%85%EC%9D%B4%20%EB%8D%94%ED%95%9C%EB%8B%A4%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005380] 현대차 - 기대치 상회했음에도 가이던스는 하향 조정 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 12 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005380%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%20-%20%EA%B8%B0%EB%8C%80%EC%B9%98%20%EC%83%81%ED%9A%8C%ED%96%88%EC%9D%8C%EC%97%90%EB%8F%84%20%EA%B0%80%EC%9D%B4%EB%8D%98%EC%8A%A4%EB%8A%94%20%ED%95%98%ED%96%A5%20%EC%A1%B0%EC%A0%95%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - 흑자 기조 유지로 기대감이 지속되는 구간 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%ED%9D%91%EC%9E%90%20%EA%B8%B0%EC%A1%B0%20%EC%9C%A0%EC%A7%80%EB%A1%9C%20%EA%B8%B0%EB%8C%80%EA%B0%90%EC%9D%B4%20%EC%A7%80%EC%86%8D%EB%90%98%EB%8A%94%20%EA%B5%AC%EA%B0%84%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [105560] KB금융 - 든든한 실적, 주주환원 재원으로 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 8 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B105560%5D%20KB%EA%B8%88%EC%9C%B5%20-%20%EB%93%A0%EB%93%A0%ED%95%9C%20%EC%8B%A4%EC%A0%81%2C%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%20%EC%9E%AC%EC%9B%90%EC%9C%BC%EB%A1%9C%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [005930] 삼성전자 - HBM 기대감 속, 범용 메모리 출하량 급증 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B005930%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20-%20HBM%20%EA%B8%B0%EB%8C%80%EA%B0%90%20%EC%86%8D%2C%20%EB%B2%94%EC%9A%A9%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%B6%9C%ED%95%98%EB%9F%89%20%EA%B8%89%EC%A6%9D%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [公司] [006400] 삼성SDI - 더블, 더블, 더블. 중국 점유율을 가져오기 시작 - 미래에셋증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%EB%8D%94%EB%B8%94%2C%20%EB%8D%94%EB%B8%94%2C%20%EB%8D%94%EB%B8%94.%20%EC%A4%91%EA%B5%AD%20%EC%A0%90%EC%9C%A0%EC%9C%A8%EC%9D%84%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0%20%EC%8B%9C%EC%9E%91%20-%20%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 스마트글래스: 새로운 일상의 시작 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%80%EB%9E%98%EC%8A%A4_%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%9D%BC%EC%83%81%EC%9D%98%20%EC%8B%9C%EC%9E%91%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 박씨 물어온 제비들 - 교보증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%B0%95%EC%94%A8%20%EB%AC%BC%EC%96%B4%EC%98%A8%20%EC%A0%9C%EB%B9%84%EB%93%A4%20-%20%EA%B5%90%EB%B3%B4%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 알아두면 쓸모있는 콘텐츠 캘린더 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4%20%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EC%BA%98%EB%A6%B0%EB%8D%94%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 스마트글래스, 새로운 일상의 시작 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 64 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%80%EB%9E%98%EC%8A%A4%2C%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%9D%BC%EC%83%81%EC%9D%98%20%EC%8B%9C%EC%9E%91%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] SKT/KMW 적극 매수 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 17 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20SKT_KMW%20%EC%A0%81%EA%B7%B9%20%EB%A7%A4%EC%88%98%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 체코원전 시공사 재선정 이슈 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%B2%B4%EC%BD%94%EC%9B%90%EC%A0%84%20%EC%8B%9C%EA%B3%B5%EC%82%AC%20%EC%9E%AC%EC%84%A0%EC%A0%95%20%EC%9D%B4%EC%8A%88%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 유틸리티 Weekly: 원전 VC 제도와 한수원 상장의 관계 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 9 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%20Weekly_%20%EC%9B%90%EC%A0%84%20VC%20%EC%A0%9C%EB%8F%84%EC%99%80%20%ED%95%9C%EC%88%98%EC%9B%90%20%EC%83%81%EC%9E%A5%EC%9D%98%20%EA%B4%80%EA%B3%84%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 체코 원전, 시공계약 협상 결렬 - 한화투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%B2%B4%EC%BD%94%20%EC%9B%90%EC%A0%84%2C%20%EC%8B%9C%EA%B3%B5%EA%B3%84%EC%95%BD%20%ED%98%91%EC%83%81%20%EA%B2%B0%EB%A0%AC%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 스페이스X, 사상 최대 400억 달러 GPU 금융 조달 - 유진투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X%2C%20%EC%82%AC%EC%83%81%20%EC%B5%9C%EB%8C%80%20400%EC%96%B5%20%EB%8B%AC%EB%9F%AC%20GPU%20%EA%B8%88%EC%9C%B5%20%EC%A1%B0%EB%8B%AC%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] Ibiden 실적 발표와 국내 패키지기판 관련주 시사점: CPU용 기판 수요에 대응하기 위한 추가 증설 결정 - iM증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20Ibiden%20%EC%8B%A4%EC%A0%81%20%EB%B0%9C%ED%91%9C%EC%99%80%20%EA%B5%AD%EB%82%B4%20%ED%8C%A8%ED%82%A4%EC%A7%80%EA%B8%B0%ED%8C%90%20%EA%B4%80%EB%A0%A8%EC%A3%BC%20%EC%8B%9C%EC%82%AC%EC%A0%90_%20CPU%EC%9A%A9%20%EA%B8%B0%ED%8C%90%20%EC%88%98%EC%9A%94%EC%97%90%20%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%B6%94%EA%B0%80%20%EC%A6%9D%EC%84%A4%20%EA%B2%B0%EC%A0%95%20-%20iM%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] [IBKS Daily] 인터넷/게임 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BIBKS%20Daily%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7_%EA%B2%8C%EC%9E%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] 체코 원전 시공계약 협상 결렬, 그 이후는? - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%B2%B4%EC%BD%94%20%EC%9B%90%EC%A0%84%20%EC%8B%9C%EA%B3%B5%EA%B3%84%EC%95%BD%20%ED%98%91%EC%83%81%20%EA%B2%B0%EB%A0%AC%2C%20%EA%B7%B8%20%EC%9D%B4%ED%9B%84%EB%8A%94_%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] [Microsoft] 1Q27FY 실적 발표 정리 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BMicrosoft%5D%201Q27FY%20%EC%8B%A4%EC%A0%81%20%EB%B0%9C%ED%91%9C%20%EC%A0%95%EB%A6%AC%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [產業] [Alphabet] 2026년 3분기 실적 발표 정리 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5BAlphabet%5D%202026%EB%85%84%203%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EC%A0%81%20%EB%B0%9C%ED%91%9C%20%EC%A0%95%EB%A6%AC%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] Shinhan China Weekly(10월 5주차) - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20Shinhan%20China%20Weekly%2810%EC%9B%94%205%EC%A3%BC%EC%B0%A8%29%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] [2027년 주식시장 전망과 전략] 이익이 변하면, 주도주도 변한다 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 42 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5B2027%EB%85%84%20%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5%20%EC%A0%84%EB%A7%9D%EA%B3%BC%20%EC%A0%84%EB%9E%B5%5D%20%EC%9D%B4%EC%9D%B5%EC%9D%B4%20%EB%B3%80%ED%95%98%EB%A9%B4%2C%20%EC%A3%BC%EB%8F%84%EC%A3%BC%EB%8F%84%20%EB%B3%80%ED%95%9C%EB%8B%A4%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] [신흥국 전략] 미국 중간선거, 인도 증시의 숨통을 틔울까 - 하나증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5B%EC%8B%A0%ED%9D%A5%EA%B5%AD%20%EC%A0%84%EB%9E%B5%5D%20%EB%AF%B8%EA%B5%AD%20%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%2C%20%EC%9D%B8%EB%8F%84%20%EC%A6%9D%EC%8B%9C%EC%9D%98%20%EC%88%A8%ED%86%B5%EC%9D%84%20%ED%8B%94%EC%9A%B8%EA%B9%8C%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] [QWER] 10월 5주차 - 3분기 실적시즌 스크리닝 전략 - 유안타증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 12 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BQWER%5D%2010%EC%9B%94%205%EC%A3%BC%EC%B0%A8%20-%203%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EC%A0%81%EC%8B%9C%EC%A6%8C%20%EC%8A%A4%ED%81%AC%EB%A6%AC%EB%8B%9D%20%EC%A0%84%EB%9E%B5%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 10월 FOMC: 매파적 동결. 12월 인상 시사 vs. 중립적 기자회견 - 대신증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 14 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2010%EC%9B%94%20FOMC_%20%EB%A7%A4%ED%8C%8C%EC%A0%81%20%EB%8F%99%EA%B2%B0.%2012%EC%9B%94%20%EC%9D%B8%EC%83%81%20%EC%8B%9C%EC%82%AC%20vs.%20%EC%A4%91%EB%A6%BD%EC%A0%81%20%EA%B8%B0%EC%9E%90%ED%9A%8C%EA%B2%AC%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 삼성전자의 주주환원 공백, SK 하이닉스가 충격 만회 - 대신증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%9D%98%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%20%EA%B3%B5%EB%B0%B1%2C%20SK%20%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%EA%B0%80%20%EC%B6%A9%EA%B2%A9%20%EB%A7%8C%ED%9A%8C%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] [다음주 시장은?] 트럼프, Macro 변수를 주목할 때 - 대신증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5B%EB%8B%A4%EC%9D%8C%EC%A3%BC%20%EC%8B%9C%EC%9E%A5%EC%9D%80_%5D%20%ED%8A%B8%EB%9F%BC%ED%94%84%2C%20Macro%20%EB%B3%80%EC%88%98%EB%A5%BC%20%EC%A3%BC%EB%AA%A9%ED%95%A0%20%EB%95%8C%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 가상자산 과세 유예 논의와 미국 STO 인프라 확대 - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EA%B0%80%EC%83%81%EC%9E%90%EC%82%B0%20%EA%B3%BC%EC%84%B8%20%EC%9C%A0%EC%98%88%20%EB%85%BC%EC%9D%98%EC%99%80%20%EB%AF%B8%EA%B5%AD%20STO%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%ED%99%95%EB%8C%80%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 신한 M.R.I: 반도체의 현금은 증시 버팀목이 될 수 있을까 - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 6 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%8B%A0%ED%95%9C%20M.R.I_%20%EB%B0%98%EB%8F%84%EC%B2%B4%EC%9D%98%20%ED%98%84%EA%B8%88%EC%9D%80%20%EC%A6%9D%EC%8B%9C%20%EB%B2%84%ED%8C%80%EB%AA%A9%EC%9D%B4%20%EB%90%A0%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 오늘은 어떤 ETF를 볼까? - 미국 ETF 신규상장 트렌드 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EC%98%A4%EB%8A%98%EC%9D%80%20%EC%96%B4%EB%96%A4%20ETF%EB%A5%BC%20%EB%B3%BC%EA%B9%8C_%20-%20%EB%AF%B8%EA%B5%AD%20ETF%20%EC%8B%A0%EA%B7%9C%EC%83%81%EC%9E%A5%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] ESG snapshot - SK증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20ESG%20snapshot%20-%20SK%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] [IBKS Daily] Start with IBKS(2026.10.30) 삼성전자, 구체적 주주환원책 부재에 하락 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BIBKS%20Daily%5D%20Start%20with%20IBKS%282026.10.30%29%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%2C%20%EA%B5%AC%EC%B2%B4%EC%A0%81%20%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90%EC%B1%85%20%EB%B6%80%EC%9E%AC%EC%97%90%20%ED%95%98%EB%9D%BD%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 10/30, 방어와 수비의 중요성이 다시 높아지고 있지만... - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2010_30%2C%20%EB%B0%A9%EC%96%B4%EC%99%80%20%EC%88%98%EB%B9%84%EC%9D%98%20%EC%A4%91%EC%9A%94%EC%84%B1%EC%9D%B4%20%EB%8B%A4%EC%8B%9C%20%EB%86%92%EC%95%84%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%A7%80%EB%A7%8C...%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [投資] 10/30 달러, 금리 하락 속 약세 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 5 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2010_30%20%EB%8B%AC%EB%9F%AC%2C%20%EA%B8%88%EB%A6%AC%20%ED%95%98%EB%9D%BD%20%EC%86%8D%20%EC%95%BD%EC%84%B8%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] ECB, 숨 고르기 후 다시 인상 - 한화투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20ECB%2C%20%EC%88%A8%20%EA%B3%A0%EB%A5%B4%EA%B8%B0%20%ED%9B%84%20%EB%8B%A4%EC%8B%9C%20%EC%9D%B8%EC%83%81%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] 3/4분기 미국 GDP: 내수가 끌고 간다 - 한화투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%203_4%EB%B6%84%EA%B8%B0%20%EB%AF%B8%EA%B5%AD%20GDP_%20%EB%82%B4%EC%88%98%EA%B0%80%20%EB%81%8C%EA%B3%A0%20%EA%B0%84%EB%8B%A4%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] 데이터센터가 받친 내수 - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%EA%B0%80%20%EB%B0%9B%EC%B9%9C%20%EB%82%B4%EC%88%98%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] 10/30, Kiwoom Morning Letter - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%2010_30%2C%20Kiwoom%20Morning%20Letter%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] (Macro Snapshot) AI 투자 논란 속 미국 성장세 지속 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 2 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20%28Macro%20Snapshot%29%20AI%20%ED%88%AC%EC%9E%90%20%EB%85%BC%EB%9E%80%20%EC%86%8D%20%EB%AF%B8%EA%B5%AD%20%EC%84%B1%EC%9E%A5%EC%84%B8%20%EC%A7%80%EC%86%8D%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] 10/30 Weekly Macro : 주요 이벤트 집중, 금융시장 향방에 주목 - 키움증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 1 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%2010_30%20Weekly%20Macro%20_%20%EC%A3%BC%EC%9A%94%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%A7%91%EC%A4%91%2C%20%EA%B8%88%EC%9C%B5%EC%8B%9C%EC%9E%A5%20%ED%96%A5%EB%B0%A9%EC%97%90%20%EC%A3%BC%EB%AA%A9%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] [IBKS Economy Monitor] Focus on Week: 높은 성장률이 양극화의 고통을 더 압박하는 흐름 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 7 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20%5BIBKS%20Economy%20Monitor%5D%20Focus%20on%20Week_%20%EB%86%92%EC%9D%80%20%EC%84%B1%EC%9E%A5%EB%A5%A0%EC%9D%B4%20%EC%96%91%EA%B7%B9%ED%99%94%EC%9D%98%20%EA%B3%A0%ED%86%B5%EC%9D%84%20%EB%8D%94%20%EC%95%95%EB%B0%95%ED%95%98%EB%8A%94%20%ED%9D%90%EB%A6%84%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [總經] [Global Market Monitor] 중국 증시 점검: 대중 규제·수급·경기 삼중고 - IBK투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 3 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20%5BGlobal%20Market%20Monitor%5D%20%EC%A4%91%EA%B5%AD%20%EC%A6%9D%EC%8B%9C%20%EC%A0%90%EA%B2%80_%20%EB%8C%80%EC%A4%91%20%EA%B7%9C%EC%A0%9C%C2%B7%EC%88%98%EA%B8%89%C2%B7%EA%B2%BD%EA%B8%B0%20%EC%82%BC%EC%A4%91%EA%B3%A0%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [債券] 채권 Daily (26.10.30) - 유안타증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 4 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%B1%84%EA%B6%8C%20Daily%20%2826.10.30%29%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf)
-
 ### [債券] Eugenes FICC Update - 유진투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 2 頁
+來源: Naver Securities | 日期: 2026-11-02 | 頁數: 2 頁
 [📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Eugenes%20FICC%20Update%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
-
-### [債券] 중간선거와 QRA - 신한투자증권
-來源: Naver Securities | 日期: 2026-10-30 | 頁數: 14 頁
-[📥 查看報告](https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%A4%91%EA%B0%84%EC%84%A0%EA%B1%B0%EC%99%80%20QRA%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf)
 

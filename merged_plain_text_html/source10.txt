@@ -4251,7 +4251,7 @@ CPI(MoM, 우) CPI
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-11-02
 Pages: 2
 Extraction status: ok
 
@@ -5458,8 +5458,8 @@ USD/CNH WTI    브렌트유
 ## Document 089: [公司] [005930] 삼성전자 - 전인미답의 길 - 신한투자증권
 
 Source PDF: all report pdf/[公司] [005930] 삼성전자 - 전인미답의 길 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
@@ -6144,8 +6144,8 @@ Extraction status: ok
 ## Document 127: [投資] 10_30 달러, 금리 하락 속 약세 - 키움증권
 
 Source PDF: all report pdf/[投資] 10_30 달러, 금리 하락 속 약세 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -16199,7 +16199,7 @@ K200 선물
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-02
+Date: 2026-11-09
 Pages: 8
 Extraction status: ok
 
@@ -16946,7 +16946,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-10-30
+Date: 2026-11-06
 Pages: 1
 Extraction status: ok
 
@@ -52271,8 +52271,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 461: [產業] 체코 원전 시공계약 협상 결렬, 그 이후는_ - 키움증권
 
 Source PDF: all report pdf/[產業] 체코 원전 시공계약 협상 결렬, 그 이후는_ - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 

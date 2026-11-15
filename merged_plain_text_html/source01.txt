@@ -4784,8 +4784,8 @@ USD/CNH WTI    브렌트유
 ## Document 074: [公司] [005380] 현대차 - 4분기 판매 반등, 로보틱스는 실행 국면 진입 - 하나증권
 
 Source PDF: all report pdf/[公司] [005380] 현대차 - 4분기 판매 반등, 로보틱스는 실행 국면 진입 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -5567,8 +5567,8 @@ Compliance Notice
 ## Document 080: [公司] [005930] 삼성전자 - 2027년 영업이익 전망치 상향으로 방향 전환 - 하나증권
 
 Source PDF: all report pdf/[公司] [005930] 삼성전자 - 2027년 영업이익 전망치 상향으로 방향 전환 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -6197,8 +6197,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 091: [公司] [006400] 삼성SDI - '각형' LFP로 국내 경쟁사들과 차별화 - SK증권
 
 Source PDF: all report pdf/[公司] [006400] 삼성SDI - '각형' LFP로 국내 경쟁사들과 차별화 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -6707,8 +6707,8 @@ SK 증권 유니버스 투자등급 비율 (2026 년 10 월 30 일 기준)  매�
 ## Document 094: [公司] [006400] 삼성SDI - ESS가 이끌고, 신사업이 더한다 - 신한투자증권
 
 Source PDF: all report pdf/[公司] [006400] 삼성SDI - ESS가 이끌고, 신사업이 더한다 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -7194,8 +7194,8 @@ Compliance Notice
 ## Document 098: [公司] [006400] 삼성SDI - 더블, 더블, 더블. 중국 점유율을 가져오기 시작 - 미래에셋증권
 
 Source PDF: all report pdf/[公司] [006400] 삼성SDI - 더블, 더블, 더블. 중국 점유율을 가져오기 시작 - 미래에셋증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -7408,8 +7408,8 @@ SK 증권 유니버스 투자등급 비율 (2026 년 11 월 13 일 기준)  매�
 ## Document 116: [公司] [105560] KB금융 - 상대적인 선호도가 높아지는 국면 - 한화투자증권
 
 Source PDF: all report pdf/[公司] [105560] KB금융 - 상대적인 선호도가 높아지는 국면 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -8019,8 +8019,8 @@ LG에너지솔루션 수정TP(원)
 ## Document 129: [投資] 10월 FOMC_ 매파적 동결. 12월 인상 시사 vs. 중립적 기자회견 - 대신증권
 
 Source PDF: all report pdf/[投資] 10월 FOMC_ 매파적 동결. 12월 인상 시사 vs. 중립적 기자회견 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 14
 Extraction status: ok
 
@@ -17644,8 +17644,8 @@ Compliance Notice
 ## Document 248: [投資] 가상자산 과세 유예 논의와 미국 STO 인프라 확대 - 신한투자증권
 
 Source PDF: all report pdf/[投資] 가상자산 과세 유예 논의와 미국 STO 인프라 확대 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -58721,8 +58721,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 462: [產業] 체코 원전, 시공계약 협상 결렬 - 한화투자증권
 
 Source PDF: all report pdf/[產業] 체코 원전, 시공계약 협상 결렬 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -62089,8 +62089,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 486: [總經] (Macro Snapshot) AI 투자 논란 속 미국 성장세 지속 - 키움증권
 
 Source PDF: all report pdf/[總經] (Macro Snapshot) AI 투자 논란 속 미국 성장세 지속 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 

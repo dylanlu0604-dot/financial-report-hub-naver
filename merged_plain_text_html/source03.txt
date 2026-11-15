@@ -11424,8 +11424,8 @@ Compliance Notice
 ## Document 082: [公司] [005930] 삼성전자 - 3Q26 Review 사상 최대 실적, 메모리가 이끌었다 - 교보증권
 
 Source PDF: all report pdf/[公司] [005930] 삼성전자 - 3Q26 Review 사상 최대 실적, 메모리가 이끌었다 - 교보증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -11723,8 +11723,8 @@ Hold(보유): KOSPI 대비 기대수익률 -10~10%                              
 ## Document 100: [公司] [006400] 삼성SDI - 흑자 기조 유지로 기대감이 지속되는 구간 - 키움증권
 
 Source PDF: all report pdf/[公司] [006400] 삼성SDI - 흑자 기조 유지로 기대감이 지속되는 구간 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -12656,8 +12656,8 @@ Compliance Notice
 ## Document 105: [公司] [028260] 삼성물산 - 체급이 달라지기 시작 - DS투자증권
 
 Source PDF: all report pdf/[公司] [028260] 삼성물산 - 체급이 달라지기 시작 - DS투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -45775,7 +45775,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-03
+Date: 2026-11-10
 Pages: 7
 Extraction status: ok
 
@@ -50675,7 +50675,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-04
+Date: 2026-11-05
 Pages: 4
 Extraction status: ok
 
@@ -60130,8 +60130,8 @@ OCI홀딩스 207,500 +4.96 +3.75 -5.47 +37 -246 +109 +589 60LONGi Green Energy C
 ## Document 519: [總經] [Global Market Monitor] 중국 증시 점검_ 대중 규제·수급·경기 삼중고 - IBK투자증권
 
 Source PDF: all report pdf/[總經] [Global Market Monitor] 중국 증시 점검_ 대중 규제·수급·경기 삼중고 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-10-30
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
