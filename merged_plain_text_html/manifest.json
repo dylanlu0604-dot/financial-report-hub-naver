@@ -3,100 +3,100 @@
     "html_file": "source01.html",
     "text_file": "source01.txt",
     "documents": 53,
-    "characters": 1368025,
-    "html_bytes": 2279275,
-    "text_bytes": 2262094,
+    "characters": 1368542,
+    "html_bytes": 2283229,
+    "text_bytes": 2266361,
     "first_title": "017_[債券] [FI Weekly] 외국인 수요 뜯어보기 - 한화투자증권",
-    "last_title": "539_[總經] 한국 산업활동동향_ 광공업생산 예상치 크게 상회, 자동차 되돌림·소수 품목 집중에 소비는 부진 - 대신증권"
+    "last_title": "524_[總經] BOJ, 매파적 동결로 추가 인상 예고 - 한화투자증권"
   },
   {
     "html_file": "source02.html",
     "text_file": "source02.txt",
     "documents": 53,
-    "characters": 1368007,
-    "html_bytes": 2415628,
-    "text_bytes": 2400802,
-    "first_title": "025_[債券] Daily Bond Morning Brief(2026.11.05) - 다올투자증권",
-    "last_title": "534_[總經] 신한 FX Check-up - 신한투자증권"
+    "characters": 1368843,
+    "html_bytes": 2421542,
+    "text_bytes": 2406018,
+    "first_title": "019_[債券] [IBKS Bond Inside] 현재 커브에 담긴 재료와 체로 남길 질문 - IBK투자증권",
+    "last_title": "518_[總經] AI 의존도와 Non-AI - 한화투자증권"
   },
   {
     "html_file": "source03.html",
     "text_file": "source03.txt",
     "documents": 53,
-    "characters": 1367041,
-    "html_bytes": 2401139,
-    "text_bytes": 2384711,
+    "characters": 1368833,
+    "html_bytes": 2416730,
+    "text_bytes": 2399936,
     "first_title": "014_[債券] [2027년 해외채권 전망] 변동성 높은 내리막길 - 하나증권",
-    "last_title": "531_[總經] 불편한 두개의 차트 _ 엔비디아 및 코스피 - iM증권"
+    "last_title": "538_[總經] 한국 10월 소비자물가; 농산물이 낮춘 물가, 기조적 압력은 지속 - 신한투자증권"
   },
   {
     "html_file": "source04.html",
     "text_file": "source04.txt",
     "documents": 53,
-    "characters": 1367703,
-    "html_bytes": 2392776,
-    "text_bytes": 2377525,
-    "first_title": "003_[債券] 11_09 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "536_[總經] 펀더멘탈 문제는 아니다. 투자심리 개선 트리거가 필요 - iM증권"
+    "characters": 1368185,
+    "html_bytes": 2394201,
+    "text_bytes": 2378601,
+    "first_title": "009_[債券] [2027년 채권 전망] 고(高)금리_ 고(苦)금리! - 대신증권",
+    "last_title": "535_[總經] 신한 FX Check-up - 신한투자증권"
   },
   {
     "html_file": "source05.html",
     "text_file": "source05.txt",
-    "documents": 53,
-    "characters": 1367998,
-    "html_bytes": 2291571,
-    "text_bytes": 2273440,
+    "documents": 57,
+    "characters": 1368200,
+    "html_bytes": 2277935,
+    "text_bytes": 2259299,
     "first_title": "006_[債券] [11월 1주] 시장과 경제의 괴리에 익숙해질 시기 - 하나증권",
-    "last_title": "540_[總經] 한국 소비자물가_ 헤드라인은 예상 부합 둔화, 근원물가는 2.8%로 수렴하며 완강 - 대신증권"
+    "last_title": "521_[總經] AI 투자 사이클 우려와 현실(=한국 반도체 수출 폭증) - iM증권"
   },
   {
     "html_file": "source06.html",
     "text_file": "source06.txt",
     "documents": 54,
-    "characters": 1368020,
-    "html_bytes": 2253113,
-    "text_bytes": 2231202,
-    "first_title": "002_[債券] 11_02 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "514_[總經] [매크로 COMMENT] 미국 10 월 고용_ 고용은 안도, 여전히 물가가 과제 - SK증권"
+    "characters": 1368845,
+    "html_bytes": 2240962,
+    "text_bytes": 2219933,
+    "first_title": "003_[債券] 11_09 Kiwoom Fixed Income Weekly Review - 키움증권",
+    "last_title": "541_[總經] 한국 소비자물가_ 헤드라인은 예상 부합 둔화, 근원물가는 2.8%로 수렴하며 완강 - 대신증권"
   },
   {
     "html_file": "source07.html",
     "text_file": "source07.txt",
     "documents": 54,
-    "characters": 1367843,
-    "html_bytes": 2291328,
-    "text_bytes": 2275705,
-    "first_title": "004_[債券] 11_16 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "533_[總經] 신한 Econ Check-up - 신한투자증권"
+    "characters": 1368839,
+    "html_bytes": 2284333,
+    "text_bytes": 2266816,
+    "first_title": "029_[債券] Daily Bond Morning Brief(2026.11.13) - 다올투자증권",
+    "last_title": "536_[總經] 중간선거 충격에서 벗어나는 금융시장 - iM증권"
   },
   {
     "html_file": "source08.html",
     "text_file": "source08.txt",
     "documents": 54,
-    "characters": 1367345,
-    "html_bytes": 2275750,
-    "text_bytes": 2260837,
-    "first_title": "001_[債券] 10월 BOJ_ 어딘가 익숙한 맛, 인상 의지는 재확인 - 유진투자증권",
-    "last_title": "537_[總經] 한국 10월 소비자물가; 농산물이 낮춘 물가, 기조적 압력은 지속 - 신한투자증권"
+    "characters": 1368664,
+    "html_bytes": 2273802,
+    "text_bytes": 2259217,
+    "first_title": "002_[債券] 11_02 Kiwoom Fixed Income Weekly Review - 키움증권",
+    "last_title": "537_[總經] 펀더멘탈 문제는 아니다. 투자심리 개선 트리거가 필요 - iM증권"
   },
   {
     "html_file": "source09.html",
     "text_file": "source09.txt",
-    "documents": 59,
-    "characters": 1366634,
-    "html_bytes": 2214113,
-    "text_bytes": 2192068,
-    "first_title": "019_[債券] [IBKS Bond Inside] 현재 커브에 담긴 재료와 체로 남길 질문 - IBK투자증권",
-    "last_title": "532_[總經] 블루웨이브에 미국 금융시장이 환호한 이유 - iM증권"
+    "documents": 54,
+    "characters": 1368927,
+    "html_bytes": 2225283,
+    "text_bytes": 2205700,
+    "first_title": "028_[債券] Daily Bond Morning Brief(2026.11.12) - 다올투자증권",
+    "last_title": "540_[總經] 한국 산업활동동향_ 광공업생산 예상치 크게 상회, 자동차 되돌림·소수 품목 집중에 소비는 부진 - 대신증권"
   },
   {
     "html_file": "source10.html",
     "text_file": "source10.txt",
-    "documents": 54,
-    "characters": 1367165,
-    "html_bytes": 2420679,
-    "text_bytes": 2404644,
-    "first_title": "005_[債券] 2027년 채권시장 전망_ 안전자산의 귀환_ - 유진투자증권",
-    "last_title": "530_[總經] 미국 중간선거 이후 달라질 정책 환경 점검 - 신한투자증권"
+    "documents": 56,
+    "characters": 1368205,
+    "html_bytes": 2437002,
+    "text_bytes": 2420079,
+    "first_title": "001_[債券] 10월 BOJ_ 어딘가 익숙한 맛, 인상 의지는 재확인 - 유진투자증권",
+    "last_title": "531_[總經] 미국 중간선거 이후 달라질 정책 환경 점검 - 신한투자증권"
   }
 ]
