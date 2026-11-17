@@ -3,100 +3,100 @@
     "html_file": "source01.html",
     "text_file": "source01.txt",
     "documents": 57,
-    "characters": 1455265,
-    "html_bytes": 2421688,
-    "text_bytes": 2406982,
-    "first_title": "001_[債券] 10월 BOJ_ 어딘가 익숙한 맛, 인상 의지는 재확인 - 유진투자증권",
-    "last_title": "584_[總經] 한국 소비자물가_ 헤드라인은 예상 부합 둔화, 근원물가는 2.8%로 수렴하며 완강 - 대신증권"
+    "characters": 1454322,
+    "html_bytes": 2422461,
+    "text_bytes": 2408547,
+    "first_title": "011_[債券] [2027년 크레딧 시장 전망] 떨어지는 것은 날개가 있다 - 하나증권",
+    "last_title": "583_[總經] 한국 소비자물가_ 헤드라인은 예상 부합 둔화, 근원물가는 2.8%로 수렴하며 완강 - 대신증권"
   },
   {
     "html_file": "source02.html",
     "text_file": "source02.txt",
-    "documents": 58,
-    "characters": 1455709,
-    "html_bytes": 2536245,
-    "text_bytes": 2517593,
-    "first_title": "024_[債券] Daily Bond Morning Brief(2026.11.04) - 다올투자증권",
-    "last_title": "576_[總經] 블루웨이브에 미국 금융시장이 환호한 이유 - iM증권"
+    "documents": 60,
+    "characters": 1454068,
+    "html_bytes": 2540033,
+    "text_bytes": 2519923,
+    "first_title": "040_[債券] 발전 5사 통합의 향방 _ 회사채 AAA 수급과 통합법인의 신용도 점검 - 유안타증권",
+    "last_title": "567_[總經] Market Weekly Check ME up! - 다올투자증권"
   },
   {
     "html_file": "source03.html",
     "text_file": "source03.txt",
     "documents": 58,
-    "characters": 1455309,
-    "html_bytes": 2470048,
-    "text_bytes": 2452123,
+    "characters": 1454447,
+    "html_bytes": 2459375,
+    "text_bytes": 2439720,
     "first_title": "016_[債券] [FI Weekly] AI에도 Fed Put이 가능한가 - 한화투자증권",
-    "last_title": "583_[總經] 한국 산업활동동향_ 광공업생산 예상치 크게 상회, 자동차 되돌림·소수 품목 집중에 소비는 부진 - 대신증권"
+    "last_title": "576_[總經] 신한 Econ Check-up - 신한투자증권"
   },
   {
     "html_file": "source04.html",
     "text_file": "source04.txt",
-    "documents": 61,
-    "characters": 1455296,
-    "html_bytes": 2554406,
-    "text_bytes": 2535146,
+    "documents": 57,
+    "characters": 1454162,
+    "html_bytes": 2555520,
+    "text_bytes": 2534906,
     "first_title": "005_[債券] 2027년 채권시장 전망_ 안전자산의 귀환_ - 유진투자증권",
-    "last_title": "572_[總經] 미국 CPI_ 뒤늦은 전쟁의 대가 - 대신증권"
+    "last_title": "581_[總經] 한국 10월 수출입; AI 수출 호조, 선별적 확산 지속 - 신한투자증권"
   },
   {
     "html_file": "source05.html",
     "text_file": "source05.txt",
-    "documents": 58,
-    "characters": 1455898,
-    "html_bytes": 2450039,
-    "text_bytes": 2432125,
+    "documents": 60,
+    "characters": 1454114,
+    "html_bytes": 2444193,
+    "text_bytes": 2426483,
     "first_title": "012_[債券] [2027년 크레딧 전망]하크크, 바크크 - SK증권",
-    "last_title": "582_[總經] 한국 10월 수출입; AI 수출 호조, 선별적 확산 지속 - 신한투자증권"
+    "last_title": "582_[總經] 한국 산업활동동향_ 광공업생산 예상치 크게 상회, 자동차 되돌림·소수 품목 집중에 소비는 부진 - 대신증권"
   },
   {
     "html_file": "source06.html",
     "text_file": "source06.txt",
     "documents": 58,
-    "characters": 1455379,
-    "html_bytes": 2447897,
-    "text_bytes": 2421934,
-    "first_title": "032_[債券] Eugenes FICC Update - 유진투자증권",
-    "last_title": "577_[總經] 신한 Econ Check-up - 신한투자증권"
+    "characters": 1454326,
+    "html_bytes": 2437285,
+    "text_bytes": 2411357,
+    "first_title": "024_[債券] Daily Bond Morning Brief(2026.11.04) - 다올투자증권",
+    "last_title": "574_[總經] 불편한 두개의 차트 _ 엔비디아 및 코스피 - iM증권"
   },
   {
     "html_file": "source07.html",
     "text_file": "source07.txt",
     "documents": 58,
-    "characters": 1455271,
-    "html_bytes": 2502228,
-    "text_bytes": 2484165,
+    "characters": 1454409,
+    "html_bytes": 2499910,
+    "text_bytes": 2482603,
     "first_title": "003_[債券] 11_09 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "557_[總經] [매크로 COMMENT] VETO 의 시대, 정책의 속도와 투자의 비용 - SK증권"
+    "last_title": "577_[總經] 신한 FX Check-up - 신한투자증권"
   },
   {
     "html_file": "source08.html",
     "text_file": "source08.txt",
     "documents": 58,
-    "characters": 1455341,
-    "html_bytes": 2416214,
-    "text_bytes": 2401269,
-    "first_title": "022_[債券] Daily Bond Morning Brief(2026.11.02) - 다올투자증권",
-    "last_title": "575_[總經] 불편한 두개의 차트 _ 엔비디아 및 코스피 - iM증권"
+    "characters": 1454329,
+    "html_bytes": 2419683,
+    "text_bytes": 2406778,
+    "first_title": "023_[債券] Daily Bond Morning Brief(2026.11.03) - 다올투자증권",
+    "last_title": "532_[總經] 11_04, Kiwoom Morning Letter - 키움증권"
   },
   {
     "html_file": "source09.html",
     "text_file": "source09.txt",
     "documents": 58,
-    "characters": 1455278,
-    "html_bytes": 2399464,
-    "text_bytes": 2377467,
+    "characters": 1454324,
+    "html_bytes": 2401909,
+    "text_bytes": 2379030,
     "first_title": "007_[債券] [2027년 국내 크레딧시장 전망] 방향은 강세, 강도는 수급이 결정 (PPT) - 신한투자증권",
-    "last_title": "570_[總經] 경제의 판도를 움직이는 변수들_ 공급 병목이 만든 가격에 보폭을 키울 필요는 없다 - 유안타증권"
+    "last_title": "579_[總經] 펀더멘탈 문제는 아니다. 투자심리 개선 트리거가 필요 - iM증권"
   },
   {
     "html_file": "source10.html",
     "text_file": "source10.txt",
-    "documents": 60,
-    "characters": 1455300,
-    "html_bytes": 2524928,
-    "text_bytes": 2504621,
-    "first_title": "004_[債券] 11_16 Kiwoom Fixed Income Weekly Review - 키움증권",
-    "last_title": "580_[總經] 펀더멘탈 문제는 아니다. 투자심리 개선 트리거가 필요 - iM증권"
+    "documents": 59,
+    "characters": 1454075,
+    "html_bytes": 2523084,
+    "text_bytes": 2504516,
+    "first_title": "001_[債券] 10월 BOJ_ 어딘가 익숙한 맛, 인상 의지는 재확인 - 유진투자증권",
+    "last_title": "573_[總經] 미국 중간선거 이후 달라질 정책 환경 점검 - 신한투자증권"
   }
 ]
