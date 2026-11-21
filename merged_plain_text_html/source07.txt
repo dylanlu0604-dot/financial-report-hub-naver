@@ -6778,8 +6778,8 @@ Compliance Notice
 ## Document 112: [投資] 5문 5답으로 살펴보는 Blue Wave - 신한투자증권
 
 Source PDF: all report pdf/[投資] 5문 5답으로 살펴보는 Blue Wave - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 11
 Extraction status: ok
 
@@ -9821,8 +9821,8 @@ Compliance Notice
 ## Document 184: [投資] Blue Wave 에 파도친 KOSPI, AI 규제 우려 딛고 반등 - 대신증권
 
 Source PDF: all report pdf/[投資] Blue Wave 에 파도친 KOSPI, AI 규제 우려 딛고 반등 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -10223,7 +10223,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-20
+Date: 2026-11-06
 Pages: 1
 Extraction status: ok
 
@@ -12660,8 +12660,8 @@ KOSPI
 ## Document 265: [產業] 2027년 Outlook_ IFRS18 도입과 환율, 그리고 증설 - 하나증권
 
 Source PDF: all report pdf/[產業] 2027년 Outlook_ IFRS18 도입과 환율, 그리고 증설 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 33
 Extraction status: ok
 
@@ -14789,8 +14789,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 269: [產業] 2027년 전망_ 은행 중심 방어력이 관건이 되는 구간 - iM증권
 
 Source PDF: all report pdf/[產業] 2027년 전망_ 은행 중심 방어력이 관건이 되는 구간 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 44
 Extraction status: ok
 
@@ -25983,8 +25983,8 @@ DS INVESTMENT & SECURITIES
 ## Document 318: [產業] Blue Wave, 풍력 숏 바이어스를 버릴 때 - 교보증권
 
 Source PDF: all report pdf/[產業] Blue Wave, 풍력 숏 바이어스를 버릴 때 - 교보증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 20
 Extraction status: ok
 
@@ -50537,8 +50537,8 @@ Compliance Notice
 ## Document 462: [總經] 11_05, Kiwoom Morning Letter - 키움증권
 
 Source PDF: all report pdf/[總經] 11_05, Kiwoom Morning Letter - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -51575,7 +51575,7 @@ OCI홀딩스 207,500 +4.96 +3.75 -5.47 +37 -246 +109 +589 60LONGi Green Energy C
 
 Source PDF: all report pdf/[總經] Market Weekly Check ME up! - 다올투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-20
+Date: 2026-11-13
 Pages: 6
 Extraction status: ok
 
@@ -51638,8 +51638,8 @@ Macro
 ## Document 504: [總經] 블루웨이브에 미국 금융시장이 환호한 이유 - iM증권
 
 Source PDF: all report pdf/[總經] 블루웨이브에 미국 금융시장이 환호한 이유 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 

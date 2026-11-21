@@ -10269,7 +10269,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 8
 Extraction status: ok
 
@@ -15464,7 +15464,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-11
 Pages: 24
 Extraction status: ok
 
@@ -18370,8 +18370,8 @@ Notice
 ## Document 264: [產業] 2027, 왜 다시 2차전지인가 - 유안타증권
 
 Source PDF: all report pdf/[產業] 2027, 왜 다시 2차전지인가 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 57
 Extraction status: ok
 
@@ -46115,8 +46115,8 @@ DS INVESTMENT & SECURITIES
 ## Document 420: [產業] 중간선거 이후, 섹터별 온도차 - 운송_방산_조선=로봇 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 중간선거 이후, 섹터별 온도차 - 운송_방산_조선=로봇 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 

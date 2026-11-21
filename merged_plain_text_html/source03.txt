@@ -461,8 +461,8 @@ CPI(MoM, 우) CPI
 ## Document 020: [債券] Daily Bond Morning Brief(2026.11.05) - 다올투자증권
 
 Source PDF: all report pdf/[債券] Daily Bond Morning Brief(2026.11.05) - 다올투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -713,7 +713,7 @@ MMF*
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-05
+Date: 2026-11-06
 Pages: 2
 Extraction status: ok
 
@@ -2313,8 +2313,8 @@ SK 증권 유니버스 투자등급 비율 (2026 년 11 월 13 일 기준)  매�
 ## Document 077: [公司] [105560] KB금융 - 2027년 전망_ 애매하면 일단 KB - iM증권
 
 Source PDF: all report pdf/[公司] [105560] KB금융 - 2027년 전망_ 애매하면 일단 KB - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -2324,8 +2324,8 @@ Extraction status: ok
 ## Document 083: [投資] 11_05, 블루웨이브의 정책 재평가 기대가 만들어낸 엇갈린 주가 흐름 - 키움증권
 
 Source PDF: all report pdf/[投資] 11_05, 블루웨이브의 정책 재평가 기대가 만들어낸 엇갈린 주가 흐름 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -12099,8 +12099,8 @@ Appendix
 ## Document 170: [投資] [미국은 지금] 앤트로픽 S-1A, $895B 청구서와 반도체 투매의 진실 - 키움증권
 
 Source PDF: all report pdf/[投資] [미국은 지금] 앤트로픽 S-1A, $895B 청구서와 반도체 투매의 진실 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -16546,8 +16546,8 @@ Compliance Notice
 ## Document 228: [投資] 블루웨이브 이후 미국 정책 방향 및 증시 전망 - 대신증권
 
 Source PDF: all report pdf/[投資] 블루웨이브 이후 미국 정책 방향 및 증시 전망 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -18943,7 +18943,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-17
+Date: 2026-11-10
 Pages: 2
 Extraction status: ok
 
@@ -20131,7 +20131,7 @@ ESG
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-05
+Date: 2026-11-06
 Pages: 1
 Extraction status: ok
 

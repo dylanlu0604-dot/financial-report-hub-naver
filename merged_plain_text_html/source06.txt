@@ -3823,8 +3823,8 @@ Compliance notice
 ## Document 044: [債券] 은행채 발행 급증의 배경 - 신한투자증권
 
 Source PDF: all report pdf/[債券] 은행채 발행 급증의 배경 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -4355,8 +4355,8 @@ Compliance Notice
 ## Document 048: [債券] 중간선거와 QRA_ 분점정부와 증액 예고 - 하나증권
 
 Source PDF: all report pdf/[債券] 중간선거와 QRA_ 분점정부와 증액 예고 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -11434,8 +11434,8 @@ Analyst 김근아 geunak@hanafn.com
 ## Document 187: [投資] China Focus-증시 부양 정책 효과 - 유진투자증권
 
 Source PDF: all report pdf/[投資] China Focus-증시 부양 정책 효과 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -24487,8 +24487,8 @@ KOSPI
 ## Document 258: [產業] 10월 미국 신차 판매 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 10월 미국 신차 판매 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -29199,8 +29199,8 @@ DS INVESTMENT & SECURITIES
 ## Document 338: [產業] 美 블루 쓰나미, 그린산업 전체에 훈풍 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 美 블루 쓰나미, 그린산업 전체에 훈풍 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -49920,8 +49920,8 @@ Compliance Notice
 ## Document 450: [產業] 현대차_기아 10월 글로벌 판매 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 현대차_기아 10월 글로벌 판매 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 

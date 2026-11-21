@@ -3290,8 +3290,8 @@ Buy Buy Buy
 ## Document 082: [投資] 11_05 달러, 금리 하락 속 약세 - 키움증권
 
 Source PDF: all report pdf/[投資] 11_05 달러, 금리 하락 속 약세 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -11047,8 +11047,8 @@ K200 선물
 ## Document 151: [投資] [IBKS Market Comment] 美 중간선거 불확실성 해소, 친환경 테마 주목 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Market Comment] 美 중간선거 불확실성 해소, 친환경 테마 주목 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -15966,8 +15966,8 @@ ESG
 ## Document 220: [投資] 디지털자산 - 악재앤호재 - 유진투자증권
 
 Source PDF: all report pdf/[投資] 디지털자산 - 악재앤호재 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -24811,8 +24811,8 @@ ESG
 ## Document 300: [產業] [ESG] 호반, 산은으로는 부족하고 다음 변수는 델타항공 - 한화투자증권
 
 Source PDF: all report pdf/[產業] [ESG] 호반, 산은으로는 부족하고 다음 변수는 델타항공 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -54837,7 +54837,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 5
 Extraction status: ok
 

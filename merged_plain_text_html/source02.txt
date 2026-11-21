@@ -45652,7 +45652,7 @@ SK하이닉스 수정TP(원)
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-12
 Pages: 4
 Extraction status: ok
 
@@ -45830,8 +45830,8 @@ Appendix
 ## Document 385: [產業] 스페이스X - 퀄컴 딜에서 기회 찾아보기 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 스페이스X - 퀄컴 딜에서 기회 찾아보기 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -58994,8 +58994,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 448: [產業] 한화솔루션, OCI홀딩스 NDR로 본 Section 232 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 한화솔루션, OCI홀딩스 NDR로 본 Section 232 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -64108,7 +64108,7 @@ Macro
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 4
 Extraction status: ok
 

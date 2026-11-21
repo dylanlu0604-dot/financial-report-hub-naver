@@ -25524,8 +25524,8 @@ Compliance Notice
 ## Document 226: [投資] 방어주 로테이션 국면 진단 - 신한투자증권
 
 Source PDF: all report pdf/[投資] 방어주 로테이션 국면 진단 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 25
 Extraction status: ok
 
@@ -26786,8 +26786,8 @@ Compliance Notice
 ## Document 250: [投資] 코스닥 전략노트11 - 키움증권
 
 Source PDF: all report pdf/[投資] 코스닥 전략노트11 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 58
 Extraction status: ok
 
@@ -36392,7 +36392,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-20
+Date: 2026-11-16
 Pages: 4
 Extraction status: ok
 
@@ -52143,8 +52143,8 @@ OCI홀딩스 197,700 +0.87 +9.11 -10.74 +71 -589 -34 +752 60LONGi Green Energy C
 ## Document 487: [總經] [매크로 COMMENT] VETO 의 시대, 정책의 속도와 투자의 비용 - SK증권
 
 Source PDF: all report pdf/[總經] [매크로 COMMENT] VETO 의 시대, 정책의 속도와 투자의 비용 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 

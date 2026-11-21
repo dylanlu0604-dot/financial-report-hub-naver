@@ -11257,8 +11257,8 @@ FY22 FY23 FY24 FY25 FY26F
 ## Document 139: [投資] [IBKS Daily] Start with IBKS(2026.11.05) 美 중간선거, 블루웨이브에 달라지는 정책 지형 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Daily] Start with IBKS(2026.11.05) 美 중간선거, 블루웨이브에 달라지는 정책 지형 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-05
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -15546,7 +15546,7 @@ DAISHIN SECURITIES
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 3
 Extraction status: ok
 
@@ -27144,7 +27144,7 @@ P.51
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-17
+Date: 2026-11-10
 Pages: 7
 Extraction status: ok
 
@@ -34054,7 +34054,7 @@ Memo
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-05
+Date: 2026-11-11
 Pages: 1
 Extraction status: ok
 

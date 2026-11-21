@@ -4,8 +4,8 @@
     "text_file": "source01.txt",
     "documents": 49,
     "characters": 1177135,
-    "html_bytes": 2155515,
-    "text_bytes": 2142112,
+    "html_bytes": 2155508,
+    "text_bytes": 2142105,
     "first_title": "002_[債券] 11_09 Kiwoom Fixed Income Weekly Review - 키움증권",
     "last_title": "483_[總經] [2027년 자산배분 전망] 자산배분에서 위험배분으로 - 신한투자증권"
   },
@@ -14,8 +14,8 @@
     "text_file": "source02.txt",
     "documents": 49,
     "characters": 1177125,
-    "html_bytes": 1963347,
-    "text_bytes": 1952283,
+    "html_bytes": 1963333,
+    "text_bytes": 1952269,
     "first_title": "005_[債券] 11월 금통위 Preview_ 예고된 성장 전망 상향과 인상이지만 - 키움증권",
     "last_title": "506_[總經] 신한 FX Check-up - 신한투자증권"
   },
@@ -24,8 +24,8 @@
     "text_file": "source03.txt",
     "documents": 51,
     "characters": 1177050,
-    "html_bytes": 2032516,
-    "text_bytes": 2013982,
+    "html_bytes": 2032481,
+    "text_bytes": 2013947,
     "first_title": "003_[債券] 11_16 Kiwoom Fixed Income Weekly Review - 키움증권",
     "last_title": "489_[總經] [매크로 COMMENT] 미국 10월 CPI_ 넓어진 물가 압력, 12월 인상 근거 강화 - SK증권"
   },
@@ -44,8 +44,8 @@
     "text_file": "source05.txt",
     "documents": 50,
     "characters": 1177208,
-    "html_bytes": 2031349,
-    "text_bytes": 2014019,
+    "html_bytes": 2031328,
+    "text_bytes": 2013998,
     "first_title": "004_[債券] 11월 금통위 Preview_ 금리 하단 확인 - 신한투자증권",
     "last_title": "494_[總經] AI 투자 사이클 우려와 현실(=한국 반도체 수출 폭증) - iM증권"
   },
@@ -54,8 +54,8 @@
     "text_file": "source06.txt",
     "documents": 51,
     "characters": 1177126,
-    "html_bytes": 2045730,
-    "text_bytes": 2032041,
+    "html_bytes": 2045688,
+    "text_bytes": 2031999,
     "first_title": "001_[債券] 10월 FOMC 의사록_ 10월 동결은 인상 속도 조절용 - 키움증권",
     "last_title": "508_[總經] 혼란의 금융시장, 아직은 질서있는 혼란 - iM증권"
   },
@@ -64,8 +64,8 @@
     "text_file": "source07.txt",
     "documents": 54,
     "characters": 1177079,
-    "html_bytes": 1955621,
-    "text_bytes": 1940745,
+    "html_bytes": 1955572,
+    "text_bytes": 1940696,
     "first_title": "014_[債券] [2027년 해외채권 전망] 변동성 높은 내리막길 - 하나증권",
     "last_title": "504_[總經] 블루웨이브에 미국 금융시장이 환호한 이유 - iM증권"
   },
@@ -74,8 +74,8 @@
     "text_file": "source08.txt",
     "documents": 51,
     "characters": 1177179,
-    "html_bytes": 2022743,
-    "text_bytes": 2005174,
+    "html_bytes": 2022708,
+    "text_bytes": 2005139,
     "first_title": "006_[債券] 2026년 ESG 채권시장 동향 점검 - 키움증권",
     "last_title": "503_[總經] 불편한 두개의 차트 _ 엔비디아 및 코스피 - iM증권"
   },
@@ -84,8 +84,8 @@
     "text_file": "source09.txt",
     "documents": 51,
     "characters": 1177135,
-    "html_bytes": 2033466,
-    "text_bytes": 2014092,
+    "html_bytes": 2033452,
+    "text_bytes": 2014078,
     "first_title": "015_[債券] [FI Weekly] AI에도 Fed Put이 가능한가 - 한화투자증권",
     "last_title": "501_[總經] 미국 고용_ 물가에 집중하기 좋은 상태 - 대신증권"
   },
@@ -94,8 +94,8 @@
     "text_file": "source10.txt",
     "documents": 51,
     "characters": 1177169,
-    "html_bytes": 1975176,
-    "text_bytes": 1959763,
+    "html_bytes": 1975148,
+    "text_bytes": 1959735,
     "first_title": "032_[債券] 元大金利_ 외국인 국채선물 숏커버의 원인과 투자전략 - 유안타증권",
     "last_title": "505_[總經] 신한 Econ Check-up - 신한투자증권"
   }
