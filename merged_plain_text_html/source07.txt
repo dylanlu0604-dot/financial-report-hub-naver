@@ -3080,8 +3080,8 @@ Compliance Notice
 ## Document 039: [債券] 블루 웨이브 이후 금리 경로 - 신한투자증권
 
 Source PDF: all report pdf/[債券] 블루 웨이브 이후 금리 경로 - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 14
 Extraction status: ok
 
@@ -4942,8 +4942,8 @@ Compliance notice
 ## Document 077: [投資] 11_06 달러, 안전자산 선호에 강보합 - 키움증권
 
 Source PDF: all report pdf/[投資] 11_06 달러, 안전자산 선호에 강보합 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -6815,8 +6815,8 @@ Compliance Notice
 ## Document 130: [投資] [IBKS Daily] Start with IBKS(2026.11.06) AI 규제 우려에 기술주 투매 확산 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Daily] Start with IBKS(2026.11.06) AI 규제 우려에 기술주 투매 확산 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -12142,7 +12142,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-11
 Pages: 24
 Extraction status: ok
 
@@ -26182,8 +26182,8 @@ KYOBO research center  46
 ## Document 337: [產業] 미국 주파수 경매는 변함없이 진행됩니다 - 하나증권
 
 Source PDF: all report pdf/[產業] 미국 주파수 경매는 변함없이 진행됩니다 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -27735,7 +27735,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-06
+Date: 2026-11-11
 Pages: 1
 Extraction status: ok
 
@@ -31665,8 +31665,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 384: [產業] 전 금융권 보안체계 혁신방안 - 유안타증권
 
 Source PDF: all report pdf/[產業] 전 금융권 보안체계 혁신방안 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 

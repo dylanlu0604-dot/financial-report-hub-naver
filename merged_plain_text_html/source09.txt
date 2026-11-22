@@ -24418,8 +24418,8 @@ Appendix
 ## Document 289: [產業] AASLD2026 Comment; 한미 믿었다고 - 교보증권
 
 Source PDF: all report pdf/[產業] AASLD2026 Comment; 한미 믿었다고 - 교보증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -31389,8 +31389,8 @@ Compliance Notice
 ## Document 329: [產業] 데이터센터 관련 과도한 우려 - 하나증권
 
 Source PDF: all report pdf/[產業] 데이터센터 관련 과도한 우려 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -37635,8 +37635,8 @@ DS INVESTMENT & SECURITIES
 ## Document 395: [產業] 천붕우출 - 하나증권
 
 Source PDF: all report pdf/[產業] 천붕우출 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 41
 Extraction status: ok
 

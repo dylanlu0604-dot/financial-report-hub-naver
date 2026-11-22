@@ -3350,8 +3350,8 @@ USD/CNH WTI    브렌트유
 ## Document 061: [公司] [005380] 현대차 - NDR 후기_ 로보틱스에서 본업으로 초점 이동 - 유진투자증권
 
 Source PDF: all report pdf/[公司] [005380] 현대차 - NDR 후기_ 로보틱스에서 본업으로 초점 이동 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -14179,8 +14179,8 @@ Compliance Notice
 ## Document 203: [投資] 디지털 자산 _ 디지털 자산 Daily - 유안타증권
 
 Source PDF: all report pdf/[投資] 디지털 자산 _ 디지털 자산 Daily - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -33670,8 +33670,8 @@ P.51
 ## Document 268: [產業] [ESG] 5% Rule의 적용을 받는 공동보유자 범위 축소를 위한 입법 착수 - 한화투자증권
 
 Source PDF: all report pdf/[產業] [ESG] 5% Rule의 적용을 받는 공동보유자 범위 축소를 위한 입법 착수 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 12
 Extraction status: ok
 
@@ -39135,7 +39135,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-12
 Pages: 4
 Extraction status: ok
 
@@ -50573,7 +50573,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 4
 Extraction status: ok
 

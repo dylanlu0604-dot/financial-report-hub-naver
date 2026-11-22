@@ -1262,8 +1262,8 @@ Paulson 필라델피아 연은 총재(중립, O) 연설
 ## Document 017: [債券] [IBKS Bond Inside] 현재 커브에 담긴 재료와 체로 남길 질문 - IBK투자증권
 
 Source PDF: all report pdf/[債券] [IBKS Bond Inside] 현재 커브에 담긴 재료와 체로 남길 질문 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -21149,7 +21149,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 3
 Extraction status: ok
 
@@ -21493,8 +21493,8 @@ Compliance Notice
 ## Document 206: [投資] 미 중간선거의 여진, KOSPI·KOSDAQ 매도 사이드카 - 대신증권
 
 Source PDF: all report pdf/[投資] 미 중간선거의 여진, KOSPI·KOSDAQ 매도 사이드카 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -29352,8 +29352,8 @@ ESG
 ## Document 275: [產業] [ESG] 한진칼 최대주주 된 호반, 웃돈을 가를 블록 협상 - 한화투자증권
 
 Source PDF: all report pdf/[產業] [ESG] 한진칼 최대주주 된 호반, 웃돈을 가를 블록 협상 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -39996,8 +39996,8 @@ DS INVESTMENT & SECURITIES
 ## Document 338: [產業] 미국 중간선거 결과에 따른 주요 에너지 산업 영향 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 미국 중간선거 결과에 따른 주요 에너지 산업 영향 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -41855,8 +41855,8 @@ SK하이닉스 2024-11-22 BUY(Maintain)  210,000원   6개월  -16.47  -15.67
 ## Document 377: [產業] 유틸리티 Weekly_ LMP 시행 임박한 모습 - 하나증권
 
 Source PDF: all report pdf/[產業] 유틸리티 Weekly_ LMP 시행 임박한 모습 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -44931,8 +44931,8 @@ Compliance Notice
 ## Document 432: [總經] 11_06, Kiwoom Morning Letter - 키움증권
 
 Source PDF: all report pdf/[總經] 11_06, Kiwoom Morning Letter - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 

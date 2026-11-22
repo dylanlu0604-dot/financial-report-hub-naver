@@ -12246,8 +12246,8 @@ K200 선물
 ## Document 155: [投資] [다음주 시장은_] Blue Wave 가 휩쓴 증시, 반전의 실마리는_ - 대신증권
 
 Source PDF: all report pdf/[投資] [다음주 시장은_] Blue Wave 가 휩쓴 증시, 반전의 실마리는_ - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -13345,8 +13345,8 @@ Compliance notice
 ## Document 159: [投資] [신흥국 전략] 인도 이슈 업데이트_ 자동차 판매 호조, 지속 가능성은_ - 하나증권
 
 Source PDF: all report pdf/[投資] [신흥국 전략] 인도 이슈 업데이트_ 자동차 판매 호조, 지속 가능성은_ - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 
@@ -28423,7 +28423,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-10
+Date: 2026-11-11
 Pages: 1
 Extraction status: ok
 
@@ -29250,7 +29250,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-16
+Date: 2026-11-09
 Pages: 15
 Extraction status: ok
 

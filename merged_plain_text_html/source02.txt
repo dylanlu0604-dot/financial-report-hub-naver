@@ -12806,8 +12806,8 @@ Compliance Notice
 ## Document 150: [投資] [QWER] 11월 1주차 - 3분기 실적시즌 스크리닝 전략 - 유안타증권
 
 Source PDF: all report pdf/[投資] [QWER] 11월 1주차 - 3분기 실적시즌 스크리닝 전략 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 12
 Extraction status: ok
 
@@ -44782,8 +44782,8 @@ Compliance Notice
 ## Document 336: [產業] 모멘텀 둔화와 기대 - 한화투자증권
 
 Source PDF: all report pdf/[產業] 모멘텀 둔화와 기대 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 45
 Extraction status: ok
 
@@ -46738,8 +46738,8 @@ Compliance Notices
 ## Document 339: [產業] 미국 중간선거 배터리 수혜 논리 정교히 해야 - 하나증권
 
 Source PDF: all report pdf/[產業] 미국 중간선거 배터리 수혜 논리 정교히 해야 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-06
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
