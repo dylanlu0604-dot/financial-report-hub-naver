@@ -13965,7 +13965,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-16
 Pages: 3
 Extraction status: ok
 
@@ -14114,7 +14114,7 @@ VanEck Uranium and Nuclear ETF  NLR 3.1 -4.2 -27.2
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-10
 Pages: 1
 Extraction status: ok
 
@@ -22788,7 +22788,7 @@ ESG
 
 Source PDF: all report pdf/[產業] AI 수요대비 부족한 공급 능력 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-23
 Pages: 74
 Extraction status: ok
 

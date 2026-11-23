@@ -31009,7 +31009,7 @@ DN오토모티브(007340) 현대오토에버(307950) 현대위아(011210)
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-10
+Date: 2026-11-17
 Pages: 7
 Extraction status: ok
 
@@ -41013,7 +41013,7 @@ Adj. Price Adj. Target Price(원)
 
 Source PDF: all report pdf/[產業] 시장이 밀어주는 때는 반드시 다시 온다 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-19
+Date: 2026-11-23
 Pages: 44
 Extraction status: ok
 
@@ -44563,7 +44563,7 @@ COMPLIANCE NOTICE
 
 Source PDF: all report pdf/[產業] 약속의 홀수 해가 온다 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-23
 Pages: 41
 Extraction status: ok
 

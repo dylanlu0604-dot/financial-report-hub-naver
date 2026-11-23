@@ -12307,7 +12307,7 @@ KB금융
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-23
 Pages: 8
 Extraction status: ok
 
@@ -14288,7 +14288,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-12
 Pages: 24
 Extraction status: ok
 
@@ -16041,7 +16041,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-23
 Pages: 15
 Extraction status: ok
 
@@ -41841,7 +41841,7 @@ YoY 증가율(우)
 
 Source PDF: all report pdf/[產業] 혼란을 떠나보낼 2027년 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-10
+Date: 2026-11-23
 Pages: 53
 Extraction status: ok
 
@@ -45409,7 +45409,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 환율이 가져간 이익, 로봇과 자율주행이 돌려줄 가치 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-13
+Date: 2026-11-23
 Pages: 72
 Extraction status: ok
 
@@ -53584,7 +53584,7 @@ ESG 공시 의무화에 해당한다. 다만 제3자 인증 의무와 법적 책
 
 Source PDF: all report pdf/[總經] Market Weekly Check ME up! - 다올투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-13
+Date: 2026-11-20
 Pages: 6
 Extraction status: ok
 
@@ -53648,7 +53648,7 @@ Macro
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-23
 Pages: 5
 Extraction status: ok
 
