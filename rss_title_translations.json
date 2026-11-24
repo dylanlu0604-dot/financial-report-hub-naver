@@ -10,8 +10,8 @@
       "translated": "[公司] [028260] 三星物產-由於半導體的涓滴效應，股利擴大和核電廠價值大幅增加 - iM 證券"
     },
     "https://www.shinhansec.com/siw/insights/research/list/view-popup.do": {
-      "source": "[產業] 건설 Weekly(11월 4주차) - 신한투자증권",
-      "translated": "[產業] 建築周刊（11月第4週） - 新韓投資證券"
+      "source": "[產業] ESS 기반 수요관리에서 VPP 플랫폼을 향해 - 신한투자증권",
+      "translated": "[產業] 從基於ESS的需求管理到VPP平台 - 新韓投資證券"
     },
     "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%95%9C%ED%99%94%20%ED%95%84%EB%A6%AC%EC%A1%B0%EC%84%A0%EC%86%8C%20%EC%A4%91%ED%98%95%EC%83%81%EB%A5%99%ED%95%A8%28LSM%29%20%EC%88%98%EC%A3%BC.%20MASGA%20%ED%95%9C%EA%B1%B8%EC%9D%8C%20%EB%8D%94%20%EC%95%BD%EC%A7%84%20-%20DS%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
       "source": "[產業] 한화 필리조선소 중형상륙함(LSM) 수주. MASGA 한걸음 더 약진 - DS투자증권",
@@ -5264,6 +5264,142 @@
     "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%85%AC%E5%8F%B8%5D%20%5B006400%5D%20%EC%82%BC%EC%84%B1SDI%20-%20%EB%AF%B8%EA%B5%AD%20%EC%83%9D%EC%82%B0%20%EB%B3%B8%EA%B2%A9%ED%99%94%20-%20%EA%B5%90%EB%B3%B4%EC%A6%9D%EA%B6%8C.pdf": {
       "source": "[公司] [006400] 삼성SDI - 미국 생산 본격화 - 교보증권",
       "translated": "[公司] [006400] 三星SDI-美國正式開始生產 - 教保證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EA%B1%B4%EC%84%A4%20Weekly_%20%ED%8A%B8%EB%9F%BC%ED%94%84%20%EB%B0%9C%EC%96%B8%EC%97%90%20%EC%9D%98%ED%95%9C%20%ED%95%98%EB%9D%BD%EC%9D%80%20%EB%A7%A4%EC%88%98%20%EA%B8%B0%ED%9A%8C%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 건설 Weekly: 트럼프 발언에 의한 하락은 매수 기회 - 하나증권",
+      "translated": "[產業] 建築週刊：川普言論造成的下跌是買入機會 - 韓亞證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%86%B5%EC%8B%A0%EC%84%9C%EB%B9%84%EC%8A%A4%2012%EC%9B%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20-%20SKT%20%EC%8B%9C%EC%9E%A5%EB%8C%80%EB%B9%84%20%EC%84%B1%EA%B3%BC%20%EC%9A%B0%EC%88%98%ED%95%A0%20%EA%B2%83%2C%20%EC%97%B0%EB%A7%90%20%EB%B3%B4%EC%9C%A0%20%EC%B6%94%EC%B2%9C%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 통신서비스 12월 투자 전략 - SKT 시장대비 성과 우수할 것, 연말 보유 추천 - 하나증권",
+      "translated": "[產業] 12月電信服務投資策略－SKT預計表現優於大盤，建議年底持有 - 韓亞證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%B3%80%ED%99%94%EC%9D%98%20%EC%84%9C%EB%A7%89%20-%20DS%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 변화의 서막 - DS투자증권",
+      "translated": "[產業] 改變的前奏 - DS 投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%9D%BC%EC%9D%B8%EB%A9%94%ED%83%88%20CMD%20%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0_%20%EC%9E%A5%EA%B8%B0%20%EB%AA%A9%ED%91%9C%EB%B3%B4%EB%8B%A4%20%EC%A4%91%EC%9A%94%ED%95%9C%202027%EB%85%84%20%EA%B0%80%EC%9D%B4%EB%8D%98%EC%8A%A4%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 라인메탈 CMD 미리보기: 장기 목표보다 중요한 2027년 가이던스 - 한화투자증권",
+      "translated": "[產業] 萊茵金屬 CMD 預覽：2027 年指導比長期目標更重要 - 韓華投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%A0%9C%EB%A0%A8%EC%97%85_%20%EC%A3%BC%EA%B0%80%20%EB%B0%94%EB%8B%A5%EC%9D%80%20%EA%B7%80%EA%B8%88%EC%86%8D%20%EA%B0%80%EA%B2%A9%20%EB%B0%98%EB%93%B1%EC%97%90%EC%84%9C%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 제련업: 주가 바닥은 귀금속 가격 반등에서 - 한화투자증권",
+      "translated": "[產業] 冶煉業：貴金屬價格反彈帶動股價觸底反彈 - 韓華投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EC%9C%84%ED%81%B4%EB%A6%AC%EC%97%90%EC%9A%94%28%EB%A1%9C%EB%B4%87_%EB%B0%A9%EC%82%B0_%EC%A1%B0%EC%84%A0_%ED%95%AD%EA%B3%B5_%ED%95%B4%EC%9A%B4%29%20-%202026_11_16~2026_11_22%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 안녕하세요 위클리에요(로봇/방산/조선/항공/해운) - 2026/11/16~2026/11/22 - 유진투자증권",
+      "translated": "[產業] 您好，這裡是週刊（機器人/國防/造船/航空/航運） - 2026/11/16~2026/11/22 - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%B0%98%EB%93%B1%EC%9D%98%20%EC%8B%A4%EB%A7%88%EB%A6%AC%20-%20iM%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 반등의 실마리 - iM증권",
+      "translated": "[產業] 反彈的線索 - iM 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%A0%95%EC%9C%A0%ED%99%94%ED%95%99%20Weekly%20-%202027%EB%85%84%2C%20%EC%9C%A0%EA%B0%80%EC%99%80%20%EC%A0%95%EC%A0%9C%EB%A7%88%EC%A7%84%EC%9D%98%20%EB%B0%A9%ED%96%A5%20%EC%97%AD%EC%A0%84%20%EA%B0%80%EB%8A%A5%EC%84%B1%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 정유화학 Weekly - 2027년, 유가와 정제마진의 방향 역전 가능성 - 유진투자증권",
+      "translated": "[產業] 煉油化學品周刊 - 2027年油價和煉油利潤可能逆轉 - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%5B2027%EB%85%84%20%ED%86%B5%EC%8B%A0%EC%97%85%20%EC%A0%84%EB%A7%9D%5D%20%EC%84%B8%20%EA%B0%80%EC%A7%80%20%EC%84%B1%EC%9E%A5%20Catalyst%20-%20iM%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] [2027년 통신업 전망] 세 가지 성장 Catalyst - iM증권",
+      "translated": "[產業] 【2027年電信業預測】三大成長催化劑 - iM 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%98%BC%EB%9E%80%20%EB%92%A4%EC%9D%98%20%EA%B3%B5%EA%B8%89%20%EC%A0%95%EC%83%81%ED%99%94%2C%20%EA%B7%B8%20%EC%86%8D%EB%8F%84%EA%B0%80%20%EA%B4%80%EA%B1%B4%20-%20iM%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 혼란 뒤의 공급 정상화, 그 속도가 관건 - iM증권",
+      "translated": "[產業] 混亂後供應正常化，速度是關鍵 - iM 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%B0%B0%ED%84%B0%EB%A6%AC_%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%202027%20OUTLOOK%20-%20%EB%A7%89%ED%9E%8C%20%EC%A0%84%EB%A0%A5%2C%20%EC%97%B4%EB%A6%AC%EB%8A%94%20ESS%20%EC%8B%9C%EC%9E%A5%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 배터리/유틸리티 2027 OUTLOOK - 막힌 전력, 열리는 ESS 시장 - 유진투자증권",
+      "translated": "[產業] 電池/公用事業 2027 年展望 - 電力封鎖，開放 ESS 市場 - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%B2%A0%EA%B0%95%20Weekly%20-%20%EC%B2%A0%EA%B7%BC%20%EA%B5%AC%EC%A1%B0%EC%A1%B0%EC%A0%95%20%ED%98%84%EC%8B%A4%ED%99%94%EB%90%A0%EA%B9%8C%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 철강 Weekly - 철근 구조조정 현실화될까 - 유진투자증권",
+      "translated": "[產業] 鋼鐵週刊-螺紋鋼重組會成為現實嗎？ - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%202027%EB%85%84%2C%20%EC%A3%BC%EA%B0%80%20%EB%B0%98%EC%A0%84%EC%9D%98%20%EC%A1%B0%EA%B1%B4%EB%93%A4%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 2027년, 주가 반전의 조건들 - 유진투자증권",
+      "translated": "[產業] 2027年股價反轉的條件 - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EB%82%B4%EB%85%84%EC%B4%88%20%EB%AF%B8%EA%B5%AD%20%EB%9D%BC%EB%A9%B4%20%EA%B0%80%EA%B2%A9%20%EC%9D%B8%EC%83%81%20%EA%B8%B0%EB%8C%80%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 내년초 미국 라면 가격 인상 기대 - 키움증권",
+      "translated": "[產業] 美國拉麵價格預計明年初將上漲 - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%9C%A0%EC%A0%80%EC%9D%98%20%EB%A7%88%EC%9D%8C%EC%9D%84%20%EC%96%BB%EC%9D%84%20%ED%95%84%EC%9A%94%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 유저의 마음을 얻을 필요 - 키움증권",
+      "translated": "[產業] 需要贏得使用者的心 - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80%202027%EB%85%84%20%EC%97%B0%EA%B0%84%20%EC%A0%84%EB%A7%9D_%20%EC%8B%A4%EC%A0%81%20%EC%A0%80%EC%A0%90%EC%9D%84%20%ED%86%B5%EA%B3%BC%ED%95%98%EB%8A%94%20%EA%B5%AC%EA%B0%84%2C%20%EC%A0%90%EC%B0%A8%20%EA%B0%9C%EC%84%A0%EB%90%98%EB%8A%94%20%EC%A7%80%ED%91%9C%EB%93%A4%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 이차전지 2027년 연간 전망: 실적 저점을 통과하는 구간, 점차 개선되는 지표들 - 키움증권",
+      "translated": "[產業] 二次電池2027年展望：業績渡過低點，指標逐步向好 - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%94%A2%E6%A5%AD%5D%20%ED%95%9C%EC%A4%91%20%EA%B5%90%EB%A5%98%20%ED%99%95%EB%8C%80%2C%20%ED%99%94%EC%9E%A5%ED%92%88%20%EC%97%85%EC%A2%85%20%ED%88%AC%EC%9E%90%EC%8B%AC%EB%A6%AC%20%EA%B0%9C%EC%84%A0%20%EA%B8%B0%EB%8C%80%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[產業] 한중 교류 확대, 화장품 업종 투자심리 개선 기대 - IBK투자증권",
+      "translated": "[產業] 韓國中交流擴大，可望改善化妝品產業投資氣氛 - IBK 投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20AI%20%EB%B0%9C%20%EC%B6%A9%EA%B2%A9%20%EC%A7%80%EC%86%8D%2C%20%EA%B8%88%EC%9C%B5%EC%9C%84%EA%B8%B0%EA%B8%89%20%EB%82%99%ED%8F%AD%20%EC%86%8C%ED%99%94%20%EC%A4%91%20-%20%EB%8C%80%EC%8B%A0%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] AI 발 충격 지속, 금융위기급 낙폭 소화 중 - 대신증권",
+      "translated": "[投資] AI衝擊持續，消化金融危機等級下滑 - 大信證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BGlobal%20ETF%5D%20ETF%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%26%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%20AI%EC%99%80%20%EA%B8%B4%EC%B6%95%EC%9D%98%20%EB%94%9C%EB%A0%88%EB%A7%88%20-%20%ED%95%98%EB%82%98%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] [Global ETF] ETF 트렌드 & 포트폴리오: AI와 긴축의 딜레마 - 하나증권",
+      "translated": "[投資] [全球ETF] ETF趨勢與投資組合：人工智慧與緊縮的困境 - 韓亞證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5B%EA%B8%89%EB%9D%BD%20%EC%BD%94%EB%A9%98%ED%8A%B8%5D%20%EC%97%AC%EC%A7%84%20%EB%A7%88%EB%AC%B4%EB%A6%AC%20%EA%B5%AD%EB%A9%B4.%20%EA%B0%80%EA%B2%A9%EB%A7%8C%20%EA%B3%B5%ED%8F%AC%EC%9D%B8%20%EA%B5%AD%EB%A9%B4%20-%20%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] [급락 코멘트] 여진 마무리 국면. 가격만 공포인 국면 - 한화투자증권",
+      "translated": "[投資] 【突評】餘震即將結束。唯一擔心的是價格 - 韓華投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%85%8C%ED%81%AC%20-%20%EC%8B%9C%EC%9E%A5%EC%9D%84%20%EA%B5%AC%EC%9B%90%ED%95%98%EB%9F%AC%20%EB%8F%8C%EC%95%84%EC%98%A4%EB%8B%A4%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 글로벌 테크 - 시장을 구원하러 돌아오다 - 유진투자증권",
+      "translated": "[投資] 全球科技—回歸拯救市場 - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%EC%8F%A0%EB%A6%BC%EC%97%90%EC%84%9C%20%EB%82%B4%EC%88%98%2C%20%ED%95%9C%EB%A5%98%EB%A1%9C%20%ED%94%BC%EB%82%9C%2826.11.24%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 반도체 쏠림에서 내수, 한류로 피난(26.11.24) - 유진투자증권",
+      "translated": "[投資] 從半導體轉向內需和韓流 (26.11.24) - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EA%B8%B0%EC%88%A0%EC%A0%81%20%EB%B0%98%EB%93%B1%20%EC%A7%80%EC%A0%90%20%EB%8F%84%EB%8B%AC%2C%20%EB%8B%A4%EC%9D%8C%20%EA%B4%80%EB%AC%B8%EC%9D%80%20%EC%B6%94%EC%84%B8%20%EB%B0%98%EB%93%B1%20%EA%B7%BC%EA%B1%B0%20%ED%99%95%EB%B3%B4%20-%20%EC%8B%A0%ED%95%9C%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 기술적 반등 지점 도달, 다음 관문은 추세 반등 근거 확보 - 신한투자증권",
+      "translated": "[投資] 技術反彈點已達，下一個關卡是鞏固趨勢反彈的基礎 - 新韓投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%202027%20China%20-%20%ED%95%9C%20%EB%B0%95%EC%9E%90%20%EC%89%AC%EA%B3%A0%20%EB%8B%A4%EC%8B%9C%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 2027 China - 한 박자 쉬고 다시 앞으로 - 유진투자증권",
+      "translated": "[投資] 2027中國—稍事休息，再出發 - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%5BIBKS%20Daily%5D%20Start%20with%20IBKS%282026.11.24%29%20%EC%A0%A0%EC%8A%A8%20%ED%99%A9%20%EB%B3%B5%EA%B7%80%EC%97%90%20AI%20%EB%B0%98%EB%8F%84%EC%B2%B4%20%ED%88%AC%EC%9E%90%EC%8B%AC%EB%A6%AC%20%ED%9A%8C%EB%B3%B5%20%EA%B8%B0%EB%8C%80%20-%20IBK%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] [IBKS Daily] Start with IBKS(2026.11.24) 젠슨 황 복귀에 AI 반도체 투자심리 회복 기대 - IBK투자증권",
+      "translated": "[投資] 【IBKS日報】先從IBKS開始(2026.11.24) AI半導體投資情緒可望隨著黃仁勳回歸而復甦 - IBK 投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EB%89%B4%20ETF%20%EB%9D%BC%EC%9D%B8%20%EC%97%85%20_%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20AI%EB%B3%91%EB%AA%A9%20%EC%9D%B8%ED%94%84%EB%9D%BC%2C%20%EA%B8%80%EB%A1%9C%EB%B2%8CLLM%20%EB%93%B1%20ETF%202%EC%A2%85%20%EC%83%81%EC%9E%A5%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 뉴 ETF 라인 업 : 글로벌 AI병목 인프라, 글로벌LLM 등 ETF 2종 상장 - 키움증권",
+      "translated": "[投資] 新ETF陣容：兩隻ETF上市，包括Global AI Bottleneck Infrastructure和Global LLM - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2011_24%2C%20%EC%8B%A4%EB%A1%9C%20%EB%8C%80%EB%8B%A8%ED%96%88%EB%8D%98%20%EC%A0%A0%EC%8A%A8%ED%99%A9%EC%9D%98%20%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%20CEO%20%EB%B3%B5%EA%B7%80%20%ED%9A%A8%EA%B3%BC%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 11/24, 실로 대단했던 젠슨황의 엔비디아 CEO 복귀 효과 - 키움증권",
+      "translated": "[投資] 11/24，黃仁勳回歸NVIDIA CEO，效果真正顯著 - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%2011_24%20%EB%8B%AC%EB%9F%AC%2C%20%EA%B8%88%EB%A6%AC%20%EC%83%81%EC%8A%B9%EC%97%90%20%EA%B0%95%EC%84%B8%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 11/24 달러, 금리 상승에 강세 - 키움증권",
+      "translated": "[投資] $11/24 因利率上升而走強 - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E6%8A%95%E8%B3%87%5D%20%EB%B9%84%EC%83%81%EC%9E%A5%EA%B8%B0%EC%97%85%20%ED%88%AC%EC%9E%90%20%EB%8F%99%ED%96%A5%282026-11%29%20-%20%EC%9C%A0%EC%A7%84%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[投資] 비상장기업 투자 동향(2026-11) - 유진투자증권",
+      "translated": "[投資] 非上市公司投資趨勢（2026-11） - 優進投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%2011_24%2C%20Kiwoom%20Morning%20Letter%20-%20%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[總經] 11/24, Kiwoom Morning Letter - 키움증권",
+      "translated": "[總經] 11/24，Kiwoom 晨報 - Kiwoom 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E7%B8%BD%E7%B6%93%5D%20AI%20%EC%A4%91%EC%95%99%EC%9D%80%ED%96%89%20%EC%9D%98%EC%9E%A5%EC%9D%98%20%EB%B3%B5%EA%B7%80%20-%20iM%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[總經] AI 중앙은행 의장의 복귀 - iM증권",
+      "translated": "[總經] AI央行主席回歸 - iM 證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EC%B1%84%EA%B6%8C%20Daily%20%282026.11.24%29%20-%20%EC%9C%A0%EC%95%88%ED%83%80%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[債券] 채권 Daily (2026.11.24) - 유안타증권",
+      "translated": "[債券] 債券日報 (2026.11.24) - 元大證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20Daily%20Bond%20Morning%20Brief%282026.11.24%29%20-%20%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[債券] Daily Bond Morning Brief(2026.11.24) - 다올투자증권",
+      "translated": "[債券] 每日債券早間簡報(2026.11.24) - DAOL 投資證券"
+    },
+    "https://raw.githubusercontent.com/dylanlu0604-dot/financial-report-hub-naver/main/all%20report%20pdf/%5B%E5%82%B5%E5%88%B8%5D%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%81%AC%EB%A0%88%EB%94%A7%20%EB%A6%AC%EC%8A%A4%ED%81%AC%20%EB%AA%A8%EB%8B%88%ED%84%B0%2012%EC%9B%94%ED%98%B8_%20%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%EB%8F%84%20%EC%83%81%EB%8C%80%EA%B0%80%EC%B9%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%8B%A4%20%282%29%20%EB%AF%B8%EA%B5%AD%20-%20iM%EC%A6%9D%EA%B6%8C.pdf": {
+      "source": "[債券] 글로벌 크레딧 리스크 모니터 12월호: 스프레드도 상대가치의 문제다 (2) 미국 - iM증권",
+      "translated": "[債券] 全球信用風險監測12月號：利差也是相對價值的問題（二）美國 - iM 證券"
     }
   }
 }
