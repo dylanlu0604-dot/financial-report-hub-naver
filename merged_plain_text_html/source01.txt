@@ -19855,7 +19855,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-12
 Pages: 24
 Extraction status: ok
 
@@ -40426,7 +40426,7 @@ Woodside Energy, 글로벌 일자리의 10% 이상을 감축할 전망 Suncor En
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-09
 Pages: 4
 Extraction status: ok
 

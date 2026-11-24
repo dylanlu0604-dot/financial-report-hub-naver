@@ -27873,7 +27873,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 이번 주 포커 s - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-10
 Pages: 1
 Extraction status: ok
 
@@ -30565,7 +30565,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-23
 Pages: 15
 Extraction status: ok
 
@@ -38360,7 +38360,7 @@ Appendix
 
 Source PDF: all report pdf/[產業] AI 수요대비 부족한 공급 능력 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-12
+Date: 2026-11-23
 Pages: 74
 Extraction status: ok
 
@@ -58995,7 +58995,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 11_23, Kiwoom Morning Letter - 키움증권.pdf
 Report source: Naver Securities
-Date: 2026-11-20
+Date: 2026-11-23
 Pages: 2
 Extraction status: ok
 

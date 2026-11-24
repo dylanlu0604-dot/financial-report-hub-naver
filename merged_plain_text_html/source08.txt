@@ -17921,7 +17921,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-16
 Pages: 3
 Extraction status: ok
 
@@ -40574,7 +40574,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-09
 Pages: 1
 Extraction status: ok
 
@@ -54280,7 +54280,7 @@ SK 증권 유니버스 투자등급 비율 (2026 년 11 월 10 일 기준)  매�
 
 Source PDF: all report pdf/[產業] 시장이 밀어주는 때는 반드시 다시 온다 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-19
+Date: 2026-11-23
 Pages: 44
 Extraction status: ok
 
@@ -63992,7 +63992,7 @@ AI 경기 관련 자산을 합쳐 한도 설정 한국·대만 주식과 AI 회�
 
 Source PDF: all report pdf/[總經] Market Weekly Check ME up! - 다올투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-13
+Date: 2026-11-20
 Pages: 6
 Extraction status: ok
 

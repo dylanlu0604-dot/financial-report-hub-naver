@@ -42908,7 +42908,7 @@ Hold(보유): KOSPI 대비 기대수익률 -10~10%                              
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-10
+Date: 2026-11-24
 Pages: 7
 Extraction status: ok
 
@@ -49930,7 +49930,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 바텀 피싱 시기 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-24
 Pages: 21
 Extraction status: ok
 
@@ -52369,7 +52369,7 @@ COMPLIANCE NOTICE
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-11
+Date: 2026-11-24
 Pages: 1
 Extraction status: ok
 
@@ -59524,7 +59524,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 환율이 가져간 이익, 로봇과 자율주행이 돌려줄 가치 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-13
+Date: 2026-11-23
 Pages: 72
 Extraction status: ok
 
@@ -65409,7 +65409,7 @@ Compliance notice
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-09
+Date: 2026-11-23
 Pages: 5
 Extraction status: ok
 
