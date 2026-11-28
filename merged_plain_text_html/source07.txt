@@ -5580,8 +5580,8 @@ SK 증권 유니버스 투자등급 비율 (2026 년 11 월 13 일 기준)  매�
 ## Document 070: [公司] [009150] 삼성전기 - NDR 후기_ 자신감 넘치는 수요 전망 - IBK투자증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - NDR 후기_ 자신감 넘치는 수요 전망 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 
@@ -7911,8 +7911,8 @@ Compliance Notice
 ## Document 133: [投資] [Global Watchlist] 서민경제 Long은 우월전략. AI도 업사이드에 주목 - iM증권
 
 Source PDF: all report pdf/[投資] [Global Watchlist] 서민경제 Long은 우월전략. AI도 업사이드에 주목 - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 33
 Extraction status: ok
 
@@ -10282,7 +10282,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] [Quant Comment] 국내외 주간 이익 동향 체크 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-16
 Pages: 8
 Extraction status: ok
 
@@ -13840,8 +13840,8 @@ Compliance Notice
 ## Document 245: [投資] 코어위브·앤트로픽발 훈풍, 긴축 부담 딛고 반등 지속 - 대신증권
 
 Source PDF: all report pdf/[投資] 코어위브·앤트로픽발 훈풍, 긴축 부담 딛고 반등 지속 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -14247,7 +14247,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 화수분전략 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-16
 Pages: 15
 Extraction status: ok
 
@@ -15509,8 +15509,8 @@ NAVER 0.91 0.85 6.64 7.04 소프트웨어
 ## Document 252: [產業] 10월 여수신_ 조달 구조 개선은 아직 요원 - 한화투자증권
 
 Source PDF: all report pdf/[產業] 10월 여수신_ 조달 구조 개선은 아직 요원 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -19586,7 +19586,7 @@ Notice
 
 Source PDF: all report pdf/[產業] [ESG & Transition] 통키[通 Keys] Transition Weekly - 한화투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-24
+Date: 2026-11-17
 Pages: 7
 Extraction status: ok
 
@@ -30495,7 +30495,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 높아진 문턱 앞에서 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-17
 Pages: 42
 Extraction status: ok
 
@@ -35862,8 +35862,8 @@ Compliance notice
 ## Document 407: [產業] 블루웨이브와 AIDC 규제_ 공급은 지속, 속도는 조절 - 대신증권
 
 Source PDF: all report pdf/[產業] 블루웨이브와 AIDC 규제_ 공급은 지속, 속도는 조절 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 18
 Extraction status: ok
 
@@ -38148,8 +38148,8 @@ Key Chart: 기니 해상 철광석 수출 추이
 ## Document 466: [產業] 중희토 규제가 촉발할 고감속 전환 - DS투자증권
 
 Source PDF: all report pdf/[產業] 중희토 규제가 촉발할 고감속 전환 - DS투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 57
 Extraction status: ok
 
@@ -54542,7 +54542,7 @@ FOMC 결정일 미 2년 금리 변화(134회)
 
 Source PDF: all report pdf/[總經] 신한 Econ Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-16
 Pages: 5
 Extraction status: ok
 

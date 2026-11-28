@@ -7394,8 +7394,8 @@ NASDAQ
 ## Document 116: [投資] [2027 해외기업 전망] 글로벌 탑픽스 (Global Top Picks) - 신한투자증권
 
 Source PDF: all report pdf/[投資] [2027 해외기업 전망] 글로벌 탑픽스 (Global Top Picks) - 신한투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 101
 Extraction status: ok
 
@@ -19915,7 +19915,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[投資] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-24
+Date: 2026-11-17
 Pages: 4
 Extraction status: ok
 
@@ -27237,7 +27237,7 @@ Underweight (비중축소)
 
 Source PDF: all report pdf/[產業] 디지털 자산 Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-18
 Pages: 4
 Extraction status: ok
 
@@ -30429,7 +30429,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 바텀 피싱 시기 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-24
+Date: 2026-11-23
 Pages: 21
 Extraction status: ok
 
@@ -40428,7 +40428,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[產業] 원료는 남아돌고, 제품은 귀해진다 - 하나증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-16
 Pages: 45
 Extraction status: ok
 
@@ -51079,8 +51079,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 495: [產業] 호재가 많아지는 국면 - 하나증권
 
 Source PDF: all report pdf/[產業] 호재가 많아지는 국면 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 17
 Extraction status: ok
 
@@ -52222,7 +52222,7 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 
 Source PDF: all report pdf/[總經] 11_23, Kiwoom Morning Letter - 키움증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-20
 Pages: 2
 Extraction status: ok
 
@@ -52741,8 +52741,8 @@ OCI홀딩스 170,000 +0.29 -13.88 -15.84 +18 +99 -5 -253 60LONGi Green Energy CH
 ## Document 527: [總經] AI 투자 사이클 우려와 현실(=한국 반도체 수출 폭증) - iM증권
 
 Source PDF: all report pdf/[總經] AI 투자 사이클 우려와 현실(=한국 반도체 수출 폭증) - iM증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 2
 Extraction status: ok
 

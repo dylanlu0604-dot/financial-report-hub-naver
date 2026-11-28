@@ -6790,8 +6790,8 @@ Compliance Notice
 ## Document 114: [投資] 3Q 어닝시즌 리뷰_ 반도체 쏠림 지속, 약해진 어닝서프라이즈 - 키움증권
 
 Source PDF: all report pdf/[投資] 3Q 어닝시즌 리뷰_ 반도체 쏠림 지속, 약해진 어닝서프라이즈 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 6
 Extraction status: ok
 
@@ -31144,8 +31144,8 @@ CPI 정부 목표치 CPI 관리 하한선
 ## Document 251: [產業] 10 월 여수신 동향 – 조달 포트폴리오 악화는 ing 형 - SK증권
 
 Source PDF: all report pdf/[產業] 10 월 여수신 동향 – 조달 포트폴리오 악화는 ing 형 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -40829,8 +40829,8 @@ KYOBO research center  46
 ## Document 375: [產業] 되돌림 - SK증권
 
 Source PDF: all report pdf/[產業] 되돌림 - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 7
 Extraction status: ok
 

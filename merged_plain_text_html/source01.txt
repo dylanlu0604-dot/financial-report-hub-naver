@@ -2900,8 +2900,8 @@ USD/CNH WTI    브렌트유
 ## Document 072: [公司] [009150] 삼성전기 - 빅테크의 러브 콜은 추가로 확대! FC BGA_MLCC, 동시 공급은 유일! - 대신증권
 
 Source PDF: all report pdf/[公司] [009150] 삼성전기 - 빅테크의 러브 콜은 추가로 확대! FC BGA_MLCC, 동시 공급은 유일! - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -8815,8 +8815,8 @@ Compliance Notice
 ## Document 233: [投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권
 
 Source PDF: all report pdf/[投資] 외국인 매도 점검, 변동성 조건에 따른 재유입 시나리오 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 24
 Extraction status: ok
 
@@ -9698,8 +9698,8 @@ LIG디펜스앤에어로스페이스 산업재 0.18 1.98 −56.0
 ## Document 239: [投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권
 
 Source PDF: all report pdf/[投資] 전화위복(轉禍爲福) 비정상의 정상화, 그 이후의 시간표 - 대신증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 53
 Extraction status: ok
 

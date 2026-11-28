@@ -692,7 +692,7 @@ Compliance Notice
 
 Source PDF: all report pdf/[債券] Eugenes FICC Update - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-13
 Pages: 2
 Extraction status: ok
 
@@ -17728,8 +17728,8 @@ Hold(보유): KOSPI 대비 기대수익률 -10~10%                              
 ## Document 260: [產業] 2027 연간전망_ 반등 가능한! - 유진투자증권
 
 Source PDF: all report pdf/[產業] 2027 연간전망_ 반등 가능한! - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 50
 Extraction status: ok
 
@@ -20669,8 +20669,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 285: [產業] [2027년 건설 연간전망] 테크 산업과 친해진 업황 - 키움증권
 
 Source PDF: all report pdf/[產業] [2027년 건설 연간전망] 테크 산업과 친해진 업황 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 73
 Extraction status: ok
 
@@ -26779,8 +26779,8 @@ Compliance Notice
 ## Document 314: [產業] [엔터 2027 전망_ 바닥 다지고 반등하는 해] - 유안타증권
 
 Source PDF: all report pdf/[產業] [엔터 2027 전망_ 바닥 다지고 반등하는 해] - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 40
 Extraction status: ok
 
@@ -43857,7 +43857,7 @@ Underweight (비중축소)
 
 Source PDF: all report pdf/[產業] 안녕하세요 데일리에요 (로봇_방산_조선) - 유진투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-13
 Pages: 1
 Extraction status: ok
 
@@ -44028,8 +44028,8 @@ HD현대마린솔…
 ## Document 428: [產業] 안에서 못 버는 중국차, 밖으로 나간다 - 하나증권
 
 Source PDF: all report pdf/[產業] 안에서 못 버는 중국차, 밖으로 나간다 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 13
 Extraction status: ok
 
@@ -53297,7 +53297,7 @@ PWBM 축소안으로도 2036년까지는 금리 하락 효과 부재, 현제도 
 
 Source PDF: all report pdf/[總經] Market Weekly Check ME up! - 다올투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-13
 Pages: 6
 Extraction status: ok
 

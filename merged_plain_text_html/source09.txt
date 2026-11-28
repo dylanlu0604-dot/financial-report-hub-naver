@@ -14710,7 +14710,7 @@ mark of MSCI and S&P and has been licensed for use by [Licensee].
 
 Source PDF: all report pdf/[投資] ESG snapshot - SK증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-13
 Pages: 1
 Extraction status: ok
 
@@ -14721,7 +14721,7 @@ Extraction status: ok
 
 Source PDF: all report pdf/[投資] THE GLOBAL 주간 증시 전략 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-16
 Pages: 3
 Extraction status: ok
 
@@ -15730,8 +15730,8 @@ KOSPI
 ## Document 269: [產業] 2027년 주요국 국방예산 점검과 방산업종 투자전략 - 한화투자증권
 
 Source PDF: all report pdf/[產業] 2027년 주요국 국방예산 점검과 방산업종 투자전략 - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
@@ -38750,8 +38750,8 @@ Tesla 등 선두 업체는 원가와 개발 기간을 이유로 Tendon을 지향
 ## Document 411: [產業] 상선 시장에 드리운 암운, 그 너머의 빛 - 유안타증권
 
 Source PDF: all report pdf/[產業] 상선 시장에 드리운 암운, 그 너머의 빛 - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 41
 Extraction status: ok
 
@@ -44162,8 +44162,8 @@ LG화학 수정TP(원)
 ## Document 444: [產業] 은행_증권 국고채 PD 담합 과징금 관련 Comment - SK증권
 
 Source PDF: all report pdf/[產業] 은행_증권 국고채 PD 담합 과징금 관련 Comment - SK증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 

@@ -2390,7 +2390,7 @@ Terminal Rate < 반도체
 
 Source PDF: all report pdf/[債券] Weekly Credit Monitor - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-24
+Date: 2026-11-17
 Pages: 18
 Extraction status: ok
 
@@ -4993,8 +4993,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 084: [投資] 11_12 달러, 긴축 우려 속 상승 - 키움증권
 
 Source PDF: all report pdf/[投資] 11_12 달러, 긴축 우려 속 상승 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -5656,8 +5656,8 @@ WTI(우)
 ## Document 085: [投資] 11_12, 악재 반응력보다 호재 반응력 - 키움증권
 
 Source PDF: all report pdf/[投資] 11_12, 악재 반응력보다 호재 반응력 - 키움증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 4
 Extraction status: ok
 
@@ -10660,8 +10660,8 @@ Compliance Notice
 ## Document 138: [投資] [IBKS Daily] Start with IBKS(2026.11.12) AI 투자 기대 재부각에 글로벌 증시 반등 - IBK투자증권
 
 Source PDF: all report pdf/[投資] [IBKS Daily] Start with IBKS(2026.11.12) AI 투자 기대 재부각에 글로벌 증시 반등 - IBK투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 1
 Extraction status: ok
 
@@ -23114,7 +23114,7 @@ S&P 500 12MF EPS
 
 Source PDF: all report pdf/[投資] 현 미국 증시, 끝이 아니라 끝을 향해 나아가는 과정 - 막바지 진통 구간. 견뎌내야 한다 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-25
+Date: 2026-11-23
 Pages: 12
 Extraction status: ok
 
@@ -48352,8 +48352,8 @@ GS피앤엘 2025-10-14 BUY(Initiate)  62,000원   6개월  -34.81  -21.21
 ## Document 448: [產業] 이미 많은 것이 반영된 주가 - 유진투자증권
 
 Source PDF: all report pdf/[產業] 이미 많은 것이 반영된 주가 - 유진투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 8
 Extraction status: ok
 
@@ -53309,7 +53309,7 @@ VIX 현물이 모든 만기의 선물 가격을 상회하는 현상은 투자심
 
 Source PDF: all report pdf/[總經] 신한 FX Check-up - 신한투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-23
+Date: 2026-11-16
 Pages: 4
 Extraction status: ok
 

@@ -5498,8 +5498,8 @@ IT임금(좌)
 ## Document 067: [公司] [000270] 기아 - 3Q26 Review_ 그동안 좋았던 만큼, 실망도 크다 - 삼성증권
 
 Source PDF: all report pdf/[公司] [000270] 기아 - 3Q26 Review_ 그동안 좋았던 만큼, 실망도 크다 - 삼성증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 9
 Extraction status: ok
 
@@ -9346,8 +9346,8 @@ Compliance Notice
 ## Document 127: [投資] [EPS LIVE #236] 코스피, 상승 추세 전환 시그널 만들어지는 중(그림6) - 한화투자증권
 
 Source PDF: all report pdf/[投資] [EPS LIVE #236] 코스피, 상승 추세 전환 시그널 만들어지는 중(그림6) - 한화투자증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 25
 Extraction status: ok
 
@@ -28307,7 +28307,7 @@ KOSPI
 
 Source PDF: all report pdf/[投資] 주간 금리·환율 전망 - 대신증권.pdf
 Report source: Naver Securities
-Date: 2026-11-24
+Date: 2026-11-17
 Pages: 2
 Extraction status: ok
 
@@ -45963,7 +45963,7 @@ ESG
 
 Source PDF: all report pdf/[產業] [IBKS Daily] 인터넷_게임 - IBK투자증권.pdf
 Report source: Naver Securities
-Date: 2026-11-27
+Date: 2026-11-13
 Pages: 1
 Extraction status: ok
 
@@ -47741,7 +47741,7 @@ OpFCF 503  119  23  152  170   자기자본 99.1  98.9  99.4  99.6  99.8
 
 Source PDF: all report pdf/[產業] 디지털 자산Daily - 유안타증권.pdf
 Report source: Naver Securities
-Date: 2026-11-20
+Date: 2026-11-16
 Pages: 4
 Extraction status: ok
 
@@ -47918,8 +47918,8 @@ Appendix
 ## Document 387: [產業] 미국 토큰주식 시장 업데이트 - 하나증권
 
 Source PDF: all report pdf/[產業] 미국 토큰주식 시장 업데이트 - 하나증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 5
 Extraction status: ok
 
@@ -48081,8 +48081,8 @@ Underweight(비중축소)_업종지수가 현재지수 대비 -15% 이상 하락
 ## Document 402: [產業] 베트남 신공장 투자 관련 Comment - 유안타증권
 
 Source PDF: all report pdf/[產業] 베트남 신공장 투자 관련 Comment - 유안타증권.pdf
-Report source: Naver Securities
-Date: 2026-11-12
+Report source: Unknown
+Date: 未知日期
 Pages: 3
 Extraction status: ok
 
